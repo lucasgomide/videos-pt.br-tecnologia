@@ -42,7 +42,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 - O canal da Rocketseat tá lotado de conteúdo para pessoas desenvolvedoras e ainda tem apoio da plataforma com vários conteúdos de programação gratuitos.
 
 [UXNOW](https://www.youtube.com/channel/UCgfaifzmqadwKyCd0lagylQ)
-No canal UXNOW você aprende tudo sobre Design, UI e UX em videos curtos, lives e até uma playlist com curso de UX gratuito.
+- No canal UXNOW você aprende tudo sobre Design, UI e UX em videos curtos, lives e até uma playlist com curso de UX gratuito.
 
 
 
