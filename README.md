@@ -44,7 +44,8 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [UXNOW](https://www.youtube.com/channel/UCgfaifzmqadwKyCd0lagylQ)
 - No canal UXNOW você aprende tudo sobre Design, UI e UX em videos curtos, lives e até uma playlist com curso de UX gratuito.
 
-
+[Código Fonte TV](https://www.youtube.com/user/codigofontetv)
+- Canal bem divertido com diversos vídeos relacionados ao mundo do desenvolvimento, apresentados pelo Gabriel e sua esposa Vanessa, ambos desenvolvedores.
 
 
 
