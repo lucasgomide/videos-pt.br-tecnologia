@@ -44,7 +44,8 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [UXNOW](https://www.youtube.com/channel/UCgfaifzmqadwKyCd0lagylQ)
 - No canal UXNOW você aprende tudo sobre Design, UI e UX em videos curtos, lives e até uma playlist com curso de UX gratuito.
 
-
+[Curso Em Video](https://www.youtube.com/user/cursosemvideo)
+- No canal do Curso em video são encontrados diversos cursos na àrea de tecnologia, sendo alguns deles com foco em programação e desenvolvimento web.
 
 
 
