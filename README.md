@@ -3,7 +3,7 @@
 Repositório de canais no Youtube BR sobre desenvolvimento
 
 
-### Peixe Babel
+### [Peixe Babel] (https://www.youtube.com/user/CanalPeixeBabel)
 - O canal onde ciência e tecnologia se encontram lindamente em videos semanais e alguns encontros em BH no Chopp comCiência.
 
 ### Loiane Groner
