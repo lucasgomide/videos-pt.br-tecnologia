@@ -65,7 +65,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Vue.js Brasil](https://www.youtube.com/channel/UC9DvZyV1QU3Y0-Tpv97oAxw)
 - Canal focado em Vue.js e JavaScript que conta com hangouts semanais sobre temas diversos no universo front-end e vídeos com dicas de desenvolvimento.
 
-[Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ/about)
+[Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ)
 - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
 
 
