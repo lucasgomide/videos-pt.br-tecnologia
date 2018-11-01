@@ -68,4 +68,24 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ/about)
 - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
 
+[DevPleno](https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww)
+- Dicas, sacadas e tutoriais para você tornar-se um profissional completo ou um devPleno.
+
+[Profissões TI](https://www.youtube.com/channel/UCNXeEcuIaZPu59-CjI4x2Ow)
+- Levar para todos as várias carreiras da área da tecnologia.
+
+[Ramon Durães](https://www.youtube.com/user/ramonduraes)
+- Nesse canal Ramon Durães compartilha a sua experiência ao longo dos últimos 20 anos desenvolvendo software.
+
+[Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
+- Um canal para programadores e aspirantes a programadores.
+
+[DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ)
+- A DevMedia é um portal de conhecimento voltado para programadores, com milhares de artigos, dicas, cursos online e videoaulas sobre diferentes áreas de desenvolvimento de tecnologia.
+
+[DEVNAESTRADA](https://www.youtube.com/channel/UCtIygB7LtILSFWR0kxtZC-A)
+- DEVNAESTRADA é um podcast sobre desenvolvimento web.
+
+[Filipe Alves](https://www.youtube.com/user/canaldofree)
+- Quer aprender a como criar jogos, como criar aplicativos ou como criar sites com html, css e javascript? Vem comigo que é sucesso.
 
