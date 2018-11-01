@@ -53,7 +53,5 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Curso De Python - Bruno Rocha](https://www.youtube.com/cursodepython)
 - A proposta do canal é criar videos rápidos e direto ao assunto com dicas de Python e desenvolvimento web, os videos são apresentados por Bruno Rocha, Engenheiro de Software da Red Hat e membro da Python Software Foundation.
 
-
-
-
-
+[WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew)
+- De web design à desenvolvimento, aqui você encontra de tudo em videos didáticos e incriveis.
