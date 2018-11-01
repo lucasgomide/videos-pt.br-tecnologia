@@ -68,4 +68,5 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ/about)
 - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
 
-
+[ML4U](https://www.youtube.com/channel/UCMSGXqLEE1q5NqG3hjA5vCg/)
+- Canal criado pelo professor Ricardo Melo, onde ele aborda algoritmos de Aprendizado de Máquina, Ciência de Dados e Inteligência Artificial, explicando desde a teoria à prática.
