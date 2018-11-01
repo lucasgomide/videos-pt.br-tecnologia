@@ -55,3 +55,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 
 [WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew)
 - De web design à desenvolvimento, aqui você encontra de tudo em videos didáticos e incriveis.
+
+[Programador Sagaz](https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ)
+- Dicas, tutoriais e notícias sobre o mundo da programação. Vídeos para programadores, feitos pelo programador Weuler Borges.
