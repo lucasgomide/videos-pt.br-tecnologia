@@ -55,3 +55,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 
 [WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew)
 - De web design à desenvolvimento, aqui você encontra de tudo em videos didáticos e incriveis.
+
+[Papo Binário](https://www.youtube.com/channel/UCuQ8zW9VmVyml7KytSqJDzg)
+- O canal é um projeto da Mente Binária sobre tecnologia da informação com o objetivo de integrar profissionais de TI, explorar projetos colaborativos e contribuir para a difusão de conhecimento através de discussões, tutoriais e entrevistas com grandes nomes da área.
