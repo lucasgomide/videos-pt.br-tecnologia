@@ -58,3 +58,10 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 
 [Papo Binário](https://www.youtube.com/channel/UCuQ8zW9VmVyml7KytSqJDzg)
 - O canal é um projeto da Mente Binária sobre tecnologia da informação com o objetivo de integrar profissionais de TI, explorar projetos colaborativos e contribuir para a difusão de conhecimento através de discussões, tutoriais e entrevistas com grandes nomes da área.
+
+[Vue.js Brasil](https://www.youtube.com/channel/UC9DvZyV1QU3Y0-Tpv97oAxw)
+- Canal focado em Vue.js e JavaScript que conta com hangouts semanais sobre temas diversos no universo front-end e vídeos com dicas de desenvolvimento.
+
+[Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ/about)
+- O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
+
