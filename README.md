@@ -68,4 +68,17 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ/about)
 - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
 
+[Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
+- O canal é apresentado por Rodrigo Branas. Arquiteto de software, especialista no desenvolvimento de aplicações web há mais de 15 anos, autor do livro AngularJS Essentials, publicado pela editora PacktPub e de diversos artigos da revista Java Magazine.
 
+[Canal dotNET](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg)
+- Canal para desenvolvedores que desejam aprender a desenvolver software com o .NET Framework.
+
+[Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA)
+- Programação para iniciantes com Python.
+
+[TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg)
+- O TekZoom é um projeto criado e mantido por Reinaldo Silotto e o conteúdo é voltado para profissionais e estudantes de Tecnologia. 
+
+[Glaucia Lemos](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ)
+- Canal para desenvolvedores que desejam aprender a desenvolver software com o .NET Framework.
