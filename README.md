@@ -44,8 +44,12 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [UXNOW](https://www.youtube.com/channel/UCgfaifzmqadwKyCd0lagylQ)
 - No canal UXNOW você aprende tudo sobre Design, UI e UX em videos curtos, lives e até uma playlist com curso de UX gratuito.
 
+[Código Fonte TV](https://www.youtube.com/user/codigofontetv)
+- Canal bem divertido com diversos vídeos relacionados ao mundo do desenvolvimento, apresentados pelo Gabriel e sua esposa Vanessa, ambos desenvolvedores.
+
 [Curso De Python - Bruno Rocha](https://www.youtube.com/cursodepython)
 - A proposta do canal é criar videos rápidos e direto ao assunto com dicas de Python e desenvolvimento web, os videos são apresentados por Bruno Rocha, Engenheiro de Software da Red Hat e membro da Python Software Foundation.
+
 
 
 
