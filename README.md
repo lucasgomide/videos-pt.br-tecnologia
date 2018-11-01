@@ -55,3 +55,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 
 [WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew)
 - De web design à desenvolvimento, aqui você encontra de tudo em videos didáticos e incriveis.
+
+[Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ/about)
+- O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
