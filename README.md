@@ -68,4 +68,10 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ/about)
 - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
 
+[Canal Vinicius Thiengo](https://www.youtube.com/channel/UCG3gFuIkRF3PpNkRk3Wp6dw)
+- Vídeos sobre Desenvolvimento Web, Desenvolvimento Android, Avaliação de Sites e Tutoriais de técnicas importantes para desenvolvedores.
+
+[Canal CODEficando](https://www.youtube.com/channel/UCG3gFuIkRF3PpNkRk3Wp6dw)
+- Canal que mostra dicas sobre desenvolvimento de aplicativos para os sistemas Android e iOS, Além de outras linguagens de programação como Python e Java.
+
 
