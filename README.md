@@ -68,4 +68,44 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ/about)
 - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
 
+[Bóson Treinamentos](https://www.youtube.com/channel/UCzOGJclZQvPVgYZIwERsf5g)
+- Fábio dos Reis e a Bóson Treinamentos em Tecnologia criam cursos em vídeo de forma gratuita, com o intuito de disseminar conhecimento para o maior número de pessoas possível, com qualidade e facilidade de acesso.
+ 
+[Vida de Programador](https://www.youtube.com/channel/UCW4XS1NWmwOKWA1rmfgmyHQ)
+- Canal de vídeos do mesmo criador do Vida de Programador, sobre desenvolviemento e outros assuntos variados.
 
+[Canal TI](https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ)
+- O Canal TI produz vídeos relacionados a Tecnologia da Informação em geral.
+
+[DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)
+- O DevDojo é um canal de cursos gratuitos de desenvolvimento, como Java e TypeScript.
+
+[DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ)
+- A DevMedia é um portal de conhecimento voltado para programadores, com milhares de artigos, dicas, cursos online e videoaulas sobre diferentes áreas de desenvolvimento de tecnologia.
+
+[G- Tech](https://www.youtube.com/channel/UCAf9hyf52WQe1oTRhrtpCBw)
+- Cursos de programação, desenvolvimento de sistemas e sites e consultoria em TI.
+
+[William Justen Cursos](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ)
+- Um Screencast focado em Desenvolvimento Web, abordando assuntos como HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais, com cursos ministrados pelo William Justen.
+
+[Ferreira Studios](https://www.youtube.com/channel/UCztMwfGqsnPeGat7Np-bFKg)
+- Canal de desenvolvimento web, dicas e métodos sobre design e ferramentas criativas, do designer gráfico e desenvolvedor Leonardo Ferreira.
+
+[Harlley Oliveira](https://www.youtube.com/channel/UCTJ1mLre8sT-d4KuvmQsSQA)
+- Canal sobre tecnologias, programação e dicas sobre a área de TI.
+
+[Canal do Código](https://www.youtube.com/channel/UCvtP8QFmYE9zpDrxxhFEwTg)
+- O Canal do Código possui alguns cursos sobre estruturas de dados e lógica de programação, focado em resolução de problemas e Java.
+
+[Como Programar Melhor](https://www.youtube.com/channel/UCwUtX5abMMaL8KkryVJx09w)
+- Canal do Raniere Silva com dicas e reflexões sobre desenvolvimento, além de cursos de C#.
+
+[Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA)
+- No Descompila você encontrará diversos cursos ministrados pelo desenvolvedor Samuelson Silva, passando por Java, PHP até arduíno e desenvolvimento ágil.
+
+[Zurubabel](https://www.youtube.com/channel/UCqWo_iZvIALqgmXkzJ8S0Sg)
+- De JavaScript a lógica proposicional, de Java a estatística, esse canal possui dezenas de cursos completos.
+
+[Canal Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw)
+- Canal do Felipe Fontoura, desenvolvedor, que dá dicas sobre desenvolvimento e carreira em TI.
