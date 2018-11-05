@@ -69,4 +69,8 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
 
 [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg)
-- Canal com foco em tutoriais sobre diferentes linguagens de programação, ministrado pelo professor Cláudio R. Carvalho, com foco em iniciantes e uma didática rápida e de fácil entendimento, este canal merece a sua visita.
+- Canal com foco em tutoriais sobre diferentes linguagens de programação, ministrado pelo professor Cláudio R. Carvalho, com foco em iniciantes e uma didática rápida e de fácil entendimento, este canal merece sua visita.
+
+[Quero Ser Programador](https://youtube.com/queroserprogramador)
+- Um canal para ajudar semanalmente pessoas a dar o próximo passo na programação. Essa passo pode ser escrever o primeiro código, se preparar pra entrevistas fora do país ou aprender a trabalhar com outras ferramentas como git e terminal. 
+
