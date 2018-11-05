@@ -5,7 +5,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel)
 - O canal onde ciência e tecnologia se encontram lindamente em videos semanais e alguns encontros em BH no Chopp comCiência.
 
-[Loiane Groner](https://www.youtube.com/user/Loianeg)resolved
+[Loiane Groner](https://www.youtube.com/user/Loianeg)
 - O canal da nossa Deusa da programação é repleto de conteúdos técnicos, desde suas palestras até cursos gratuitos (como o de Angular que está em andamento).
 
 [Training Center](https://www.youtube.com/channel/UC8reCbWAXloUaFmHhsOh2Xw)
