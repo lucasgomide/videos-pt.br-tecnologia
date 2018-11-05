@@ -68,6 +68,15 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ)
 - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
 
+[Dev Pleno](https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww)
+- Dicas, sacadas e tutoriais para você tornar-se um profissional completo ou um devPleno.
+
+[Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
+- Um canal para programadores e aspirantes a programadores
+
+[Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
+- O canal é apresentado por Rodrigo Branas com foco em JavaScript, Angular, Grunt, Bower, Jasmine e outros tópicos.
+
 [Portal Programando](https://www.youtube.com/PortalProgramando)
 - O objetivo do canal é apresentar conceitos de algoritmos, programação e dicas da área de tecnologia. É apresentado também cursos completos e cursos práticos de pequena duração. O conteúdo do canal está disponível como podcast de mesmo nome.
 
@@ -88,3 +97,4 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 
 [Glaucia Lemos](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ)
 - Canal para desenvolvedores que desejam aprender a desenvolver software com o .NET Framework.
+
