@@ -68,6 +68,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ/about)
 - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
 
+[Portal Programando](https://www.youtube.com/PortalProgramando)
+- O objetivo do canal é apresentar conceitos de algoritmos, programação e dicas da área de tecnologia. É apresentado também cursos completos e cursos práticos de pequena duração. O conteúdo do canal está disponível como podcast de mesmo nome.
+
 [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
 - O canal é apresentado por Rodrigo Branas. Arquiteto de software, especialista no desenvolvimento de aplicações web há mais de 15 anos, autor do livro AngularJS Essentials, publicado pela editora PacktPub e de diversos artigos da revista Java Magazine.
 
