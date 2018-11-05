@@ -71,6 +71,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
 - O canal é apresentado por Rodrigo Branas. Arquiteto de software, especialista no desenvolvimento de aplicações web há mais de 15 anos, autor do livro AngularJS Essentials, publicado pela editora PacktPub e de diversos artigos da revista Java Magazine.
 
+[Quero Ser Programador](https://youtube.com/queroserprogramador)
+- Um canal para ajudar semanalmente pessoas a dar o próximo passo na programação. Essa passo pode ser escrever o primeiro código, se preparar pra entrevistas fora do país ou aprender a trabalhar com outras ferramentas como git e terminal. 
+
 [Canal dotNET](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg)
 - Canal para desenvolvedores que desejam aprender a desenvolver software com o .NET Framework.
 
