@@ -68,6 +68,15 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ)
 - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
 
+[Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+- O lema do canal descreve bem o que o Filipe quer nos apresentar com seu conteúdo. Como diz a descrição: programação vai muito além da sintaxe!
+
+[Pagar.me Talks](https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw)
+- Um canal que apresenta várias palestras feitas pela equipe do Pagar.me
+
+[PHPSP](https://www.youtube.com/user/phpsp1)
+- Canal feito pela comunidade do PHPSP, onde é possível encontrar vários Hangouts e palestras com dicas valiosas para quem programa PHP.
+=======
 [Dev Pleno](https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww)
 - Dicas, sacadas e tutoriais para você tornar-se um profissional completo ou um devPleno.
 
