@@ -5,7 +5,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel)
 - O canal onde ciência e tecnologia se encontram lindamente em videos semanais e alguns encontros em BH no Chopp comCiência.
 
-[Loiane Groner](https://www.youtube.com/user/Loianeg)
+[Loiane Groner](https://www.youtube.com/user/Loianeg)resolved
 - O canal da nossa Deusa da programação é repleto de conteúdos técnicos, desde suas palestras até cursos gratuitos (como o de Angular que está em andamento).
 
 [Training Center](https://www.youtube.com/channel/UC8reCbWAXloUaFmHhsOh2Xw)
@@ -68,6 +68,10 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ)
 - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada.
 
+
+[eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg)
+- Canal com foco em tutoriais sobre diferentes linguagens de programação, ministrado pelo professor Cláudio R. Carvalho, com foco em iniciantes e uma didática rápida e de fácil entendimento, este canal merece sua visita.
+
 [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - O lema do canal descreve bem o que o Filipe quer nos apresentar com seu conteúdo. Como diz a descrição: programação vai muito além da sintaxe!
 
@@ -76,7 +80,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 
 [PHPSP](https://www.youtube.com/user/phpsp1)
 - Canal feito pela comunidade do PHPSP, onde é possível encontrar vários Hangouts e palestras com dicas valiosas para quem programa PHP.
-=======
+
 [Dev Pleno](https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww)
 - Dicas, sacadas e tutoriais para você tornar-se um profissional completo ou um devPleno.
 
@@ -106,4 +110,5 @@ Repositório de canais no Youtube BR sobre desenvolvimento
 
 [Glaucia Lemos](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ)
 - Canal para desenvolvedores que desejam aprender a desenvolver software com o .NET Framework.
+
 
