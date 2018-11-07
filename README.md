@@ -160,3 +160,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Canal Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw)
 - Canal do Felipe Fontoura, desenvolvedor, que dá dicas sobre desenvolvimento e carreira em TI.
+
+[Caqui Coders](https://www.youtube.com/caquicoders)
+- Canal da comunidade Caqui Coders, sempre rolam lives de assuntos variados relacionados à tecnologia, tudo completamente gratuito
+
+[Claudiney Junior](https://www.youtube.com/ClaudineyJunior)
+- Canal focado principalmente em tecnologia e programação, com ênfase em Javascript, Node.js e ferramentas DevOps, mas de vez em quando também rolam uns conteúdos de diversidades, como jogos e dicas pra relaxar e se divertir.
