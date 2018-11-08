@@ -73,7 +73,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
  
 [Vida de Programador](https://www.youtube.com/channel/UCW4XS1NWmwOKWA1rmfgmyHQ)
 - Canal de vídeos do mesmo criador do Vida de Programador, sobre desenvolviemento e outros assuntos variados.
-=======
+
 [Vinicius Thiengo](https://www.youtube.com/channel/UCG3gFuIkRF3PpNkRk3Wp6dw)
 - Vídeos sobre Desenvolvimento Web, Desenvolvimento Android, Avaliação de Sites e Tutoriais de técnicas importantes para desenvolvedores.
 
