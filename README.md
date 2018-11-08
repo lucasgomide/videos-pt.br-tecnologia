@@ -73,7 +73,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
  
 [Vida de Programador](https://www.youtube.com/channel/UCW4XS1NWmwOKWA1rmfgmyHQ)
 - Canal de vídeos do mesmo criador do Vida de Programador, sobre desenvolviemento e outros assuntos variados.
-=======
+
 [Vinicius Thiengo](https://www.youtube.com/channel/UCG3gFuIkRF3PpNkRk3Wp6dw)
 - Vídeos sobre Desenvolvimento Web, Desenvolvimento Android, Avaliação de Sites e Tutoriais de técnicas importantes para desenvolvedores.
 
@@ -90,7 +90,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 - O lema do canal descreve bem o que o Filipe quer nos apresentar com seu conteúdo. Como diz a descrição: programação vai muito além da sintaxe!
 
 [Pagar.me Talks](https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw)
-- Um canal que apresenta várias palestras feitas pela equipe do Pagar.me
+- Um canal que apresenta várias palestras feitas pela equipe do Pagar.me.
 
 [PHPSP](https://www.youtube.com/user/phpsp1)
 - Canal feito pela comunidade do PHPSP, onde é possível encontrar vários Hangouts e palestras com dicas valiosas para quem programa PHP.
@@ -162,7 +162,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 - Canal do Felipe Fontoura, desenvolvedor, que dá dicas sobre desenvolvimento e carreira em TI.
 
 [Caqui Coders](https://www.youtube.com/caquicoders)
-- Canal da comunidade Caqui Coders, sempre rolam lives de assuntos variados relacionados à tecnologia, tudo completamente gratuito
+- Canal da comunidade Caqui Coders, sempre rolam lives de assuntos variados relacionados à tecnologia, tudo completamente gratuito.
 
 [Claudiney Junior](https://www.youtube.com/ClaudineyJunior)
 - Canal focado principalmente em tecnologia e programação, com ênfase em Javascript, Node.js e ferramentas DevOps, mas de vez em quando também rolam uns conteúdos de diversidades, como jogos e dicas pra relaxar e se divertir.
