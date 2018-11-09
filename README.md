@@ -205,6 +205,3 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Ignorância Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw)
 - Canal focado em Python, com um método simples e direto.
-
-[RBtech](https://www.youtube.com/user/RBTechinfo)
-- Hardware, desenvolvimento web, programação, IoT, Arduino... esses são alguns dos assuntos sobre os quais falamos aqui no RBtech.
