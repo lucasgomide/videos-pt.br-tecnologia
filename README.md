@@ -166,3 +166,10 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Claudiney Junior](https://www.youtube.com/ClaudineyJunior)
 - Canal focado principalmente em tecnologia e programação, com ênfase em Javascript, Node.js e ferramentas DevOps, mas de vez em quando também rolam uns conteúdos de diversidades, como jogos e dicas pra relaxar e se divertir.
+
+[Keven Jesus](https://www.youtube.com/channel/UCn2jh8rvEePP9s61z-H1P1w)
+- Canal do instrutor de programação Keven Jesus, com um bom material para quem está iniciando em JavaScript.
+
+[Professor Isidro](https://www.youtube.com/user/fmassetto)
+- Canal do professor universitário Isidro, onde é disponibilizado bastante conteúdo sobre estrutura de dados, programação, banco de dados e muito mais.
+
