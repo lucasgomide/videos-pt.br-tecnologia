@@ -178,3 +178,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Algaworks](https://www.youtube.com/user/algaworks)  
 - Canal da empresa de cursos online Algaworks, onde disponibilizam variados vídeos desde material de apoio sobre diversas tecnologias da atualidade até dicas para quem atua ou pretende atuar na área de desenvolvimento.
+
+[RBtech](https://www.youtube.com/user/RBTechinfo)  
+- Canal onde você encontra aulas e cursos sobre hardware, desenvolvimento web, design e criação. Cursos de lógica de programação, PHP, Android, HTML e CSS, JavaScript, Git e muito mais.
