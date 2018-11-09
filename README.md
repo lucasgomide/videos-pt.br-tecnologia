@@ -169,3 +169,15 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Caveiratech](https://www.youtube.com/caveiratech2)
 - Canal focado em segurança da informação, hacking e programação, onde Guilherme Junqueira ministra cursos gratuitos de python e segurança da informação, além de dicas e vlogs sobre TI.
+
+[Keven Jesus](https://www.youtube.com/channel/UCn2jh8rvEePP9s61z-H1P1w)
+- Canal do instrutor de programação Keven Jesus, com um bom material para quem está iniciando em JavaScript.
+
+[Professor Isidro](https://www.youtube.com/user/fmassetto) 
+- Canal do professor universitário Isidro, onde é disponibilizado bastante conteúdo sobre estrutura de dados, programação, banco de dados e muito mais.  
+
+[Waldemar Neto](https://www.youtube.com/user/waldemaneto)    
+- Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais.
+
+[Algaworks](https://www.youtube.com/user/algaworks)  
+- Canal da empresa de cursos online Algaworks, onde disponibilizam variados vídeos desde material de apoio sobre diversas tecnologias da atualidade até dicas para quem atua ou pretende atuar na área de desenvolvimento.
