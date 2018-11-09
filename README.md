@@ -166,3 +166,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Claudiney Junior](https://www.youtube.com/ClaudineyJunior)
 - Canal focado principalmente em tecnologia e programação, com ênfase em Javascript, Node.js e ferramentas DevOps, mas de vez em quando também rolam uns conteúdos de diversidades, como jogos e dicas pra relaxar e se divertir.
+
+[Caveiratech](https://www.youtube.com/caveiratech2)
+- Canal focado em segurança da informação, hacking e programação, onde Guilherme Junqueira ministra cursos gratuitos de python e segurança da informação, além de dicas e vlogs sobre TI.
