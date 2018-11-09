@@ -101,11 +101,14 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
 - Um canal para programadores e aspirantes a programadores
 
+[Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
+- O canal é apresentado por Rodrigo Branas com foco em JavaScript, Angular, Grunt, Bower, Jasmine e outros tópicos.
+
 [Portal Programando](https://www.youtube.com/PortalProgramando)
 - O objetivo do canal é apresentar conceitos de algoritmos, programação e dicas da área de tecnologia. É apresentado também cursos completos e cursos práticos de pequena duração. O conteúdo do canal está disponível como podcast de mesmo nome.
 
 [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
-- O canal é apresentado por Rodrigo Branas. Arquiteto de software, especialista no desenvolvimento de aplicações web há mais de 15 anos, autor do livro AngularJS Essentials (editora PacktPub) e de diversos artigos da revista Java Magazine. O canal tem foco em JavaScript, Angular, Grunt, Bower, Jasmine e outros tópicos.
+- O canal é apresentado por Rodrigo Branas. Arquiteto de software, especialista no desenvolvimento de aplicações web há mais de 15 anos, autor do livro AngularJS Essentials, publicado pela editora PacktPub e de diversos artigos da revista Java Magazine.
 
 [Quero Ser Programador](https://youtube.com/queroserprogramador)
 - Um canal para ajudar semanalmente pessoas a dar o próximo passo na programação. Essa passo pode ser escrever o primeiro código, se preparar pra entrevistas fora do país ou aprender a trabalhar com outras ferramentas como git e terminal. 
@@ -150,7 +153,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 - Canal do Raniere Silva com dicas e reflexões sobre desenvolvimento, além de cursos de C#.
 
 [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA)
-- No Descompila você encontrará diversos cursos ministrados pelo desenvolvedor Samuelson Silva, passando por Java, PHP até arduíno e desenvolvimento ágil.
+- No Descompila você encontrará diversos cursos ministrados pelo desenvolvedor Samuelson Brito, passando por Java, PHP até arduino e desenvolvimento ágil.
 
 [Zurubabel](https://www.youtube.com/channel/UCqWo_iZvIALqgmXkzJ8S0Sg)
 - De JavaScript a lógica proposicional, de Java a estatística, esse canal possui dezenas de cursos completos.
@@ -163,10 +166,3 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Claudiney Junior](https://www.youtube.com/ClaudineyJunior)
 - Canal focado principalmente em tecnologia e programação, com ênfase em Javascript, Node.js e ferramentas DevOps, mas de vez em quando também rolam uns conteúdos de diversidades, como jogos e dicas pra relaxar e se divertir.
-
-[Keven Jesus](https://www.youtube.com/channel/UCn2jh8rvEePP9s61z-H1P1w)
-- Canal do instrutor de programação Keven Jesus, com um bom material para quem está iniciando em JavaScript.
-
-[Professor Isidro](https://www.youtube.com/user/fmassetto)
-- Canal do professor universitário Isidro, onde é disponibilizado bastante conteúdo sobre estrutura de dados, programação, banco de dados e muito mais.
-
