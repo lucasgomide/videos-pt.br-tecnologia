@@ -210,3 +210,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 - Canal onde você encontra aulas e cursos sobre hardware, desenvolvimento web, design e criação. Cursos de lógica de programação, PHP, Android, HTML e CSS, JavaScript, Git e muito mais.
 
 [Sou Desenvolvedor](https://www.youtube.com/channel/UC4c7xho7CjJyR1LlpPErgcA/)  
+
+[Laboratório da Julia](https://www.youtube.com/channel/UChfu9xWITOvsXYLKm7hieSQ)
+- Canal da Julia, uma estudante de Engenharia da computação, onde compartilha videos sobre o seu dia na faculdade e seus projetos.
+
+[Danki Code](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ)
+- Vídeos sobre Programação, Marketing digital e Empreendedorismo.
