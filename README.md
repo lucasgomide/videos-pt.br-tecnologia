@@ -178,3 +178,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Algaworks](https://www.youtube.com/user/algaworks)  
 - Canal da empresa de cursos online Algaworks, onde disponibilizam variados vídeos desde material de apoio sobre diversas tecnologias da atualidade até dicas para quem atua ou pretende atuar na área de desenvolvimento.
+
+[Sou Desenvolvedor](https://www.youtube.com/channel/UC4c7xho7CjJyR1LlpPErgcA/)  
+- Canal do Microsoft Regional Director e MVP Eduardo Pires onde o mesmo fala sobre a vida de desenvolvedor. Muitos assuntos sobre carreira, situações, decisões importantes e muito bom humor.
