@@ -179,5 +179,33 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Algaworks](https://www.youtube.com/user/algaworks)  
 - Canal da empresa de cursos online Algaworks, onde disponibilizam variados vídeos desde material de apoio sobre diversas tecnologias da atualidade até dicas para quem atua ou pretende atuar na área de desenvolvimento.
 
+[Eduardo Mendes - Live de Python](https://www.youtube.com/user/mendesesduardo)
+- Canal focado em Lives sobre o mundo de Python.
+
+[Pizza de Dados](https://www.youtube.com/channel/UCqOX4hl_9DJ5Zmzh8MpgL9A)
+- Podcasts sobre desenvolvimento.
+
+[O programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg)
+- Conselhos, dicas e truques para o dia a dia do desenvolvedor de software.
+
+[Xtreme Security](https://www.youtube.com/user/daybsonbruno)
+- Canal focado em compartilhar conhecimento entre os profissionais de Segurança da Informação incentivando estudantes e entusiastas da área.
+
+[Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ)
+- Canal focado em segurança da informação, segurança ofensiva, pentest, técnicas de ataques, dicas de segurança. 
+
+[Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)
+- Cursos completos de Desenvolvimento Web. 100% vídeo aulas, acesso ilimitado e aprendizado garantido!
+
+[Webdesign em Foco](https://www.youtube.com/channel/UCL-mk7btv-dHI5hY2Tl1GHg)
+- Canal focado no Desenvolvimento Web
+
+[Hugo Vasconcelos](https://www.youtube.com/user/tutoriais01)
+- 135 cursos, todos ministrados por Hugo Vasconcelos, em nosso canal sempre é disponibilizado os cursos básicos e diversas vídeo aulas sobre desenvolvimento todos os dias.
+
+[Ignorância Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw)
+- Canal focado em Python, com um método simples e direto.
+
 [RBtech](https://www.youtube.com/user/RBTechinfo)  
 - Canal onde você encontra aulas e cursos sobre hardware, desenvolvimento web, design e criação. Cursos de lógica de programação, PHP, Android, HTML e CSS, JavaScript, Git e muito mais.
+
