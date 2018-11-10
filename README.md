@@ -209,3 +209,4 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [RBtech](https://www.youtube.com/user/RBTechinfo)  
 - Canal onde você encontra aulas e cursos sobre hardware, desenvolvimento web, design e criação. Cursos de lógica de programação, PHP, Android, HTML e CSS, JavaScript, Git e muito mais.
 
+[Sou Desenvolvedor](https://www.youtube.com/channel/UC4c7xho7CjJyR1LlpPErgcA/)  
