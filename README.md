@@ -178,3 +178,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Algaworks](https://www.youtube.com/user/algaworks)  
 - Canal da empresa de cursos online Algaworks, onde disponibilizam variados vídeos desde material de apoio sobre diversas tecnologias da atualidade até dicas para quem atua ou pretende atuar na área de desenvolvimento.
+
+[Escola Front-End](https://www.youtube.com/c/EscolaFrontend)  
+- Canal que disponibiliza conteúdo referente a aprendizagem do mundo Front-End, Desde Simples Sites em HTML,CSS e JS até Frameworks JS.
