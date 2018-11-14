@@ -218,3 +218,8 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Danki Code](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ)
 - Vídeos sobre Programação, Marketing digital e Empreendedorismo.
 
+[Python Café](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
+- Canal do Hallison Paz focado em desenvolvimento com Python, incluindo playlists de estruturas de dados e programação orientada a objetos com a linguagem.
+
+[Sthefane Soares - Vida Programação](https://www.youtube.com/channel/UCcgvGfLMZ8Xh8lxhFPMqjLw)
+- Canal que trata de programação e opinião própria sobre softwares. Para apaixonados por Tecnologia da Informação.
