@@ -218,3 +218,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Danki Code](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ)
 - Vídeos sobre Programação, Marketing digital e Empreendedorismo.
 
+[One Bit Code](https://www.youtube.com/channel/UC44Mzz2-5TpyfklUCQ5NuxQ)
+- O One Bit Code nasceu como um blog dedicado ao mundo da programação, em especial *Ruby on Rails*. No canal é disponibizado posts, tutoriais, screencasts e dicas sobre temas que envolvem linhas de códigos.
+
