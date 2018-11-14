@@ -221,3 +221,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [One Bit Code](https://www.youtube.com/channel/UC44Mzz2-5TpyfklUCQ5NuxQ)
 - O One Bit Code nasceu como um blog dedicado ao mundo da programação, em especial *Ruby on Rails*. No canal é disponibizado posts, tutoriais, screencasts e dicas sobre temas que envolvem linhas de códigos.
 
+[Python Café](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
+- Canal do Hallison Paz focado em desenvolvimento com Python, incluindo playlists de estruturas de dados e programação orientada a objetos com a linguagem.
+
+[Sthefane Soares - Vida Programação](https://www.youtube.com/channel/UCcgvGfLMZ8Xh8lxhFPMqjLw)
+- Canal que trata de programação e opinião própria sobre softwares. Para apaixonados por Tecnologia da Informação.
+
