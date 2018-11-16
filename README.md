@@ -2,6 +2,9 @@
 
 Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
+[João Vanzuita](https://www.youtube.com/channel/UCx-VHba0r7NLAf2YTQDr88Q)
+- Programação, software livre e empreendedorismo (conteúdo em inglês).
+
 [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel)
 - O canal onde ciência e tecnologia se encontram lindamente em videos semanais e alguns encontros em BH no Chopp comCiência.
 
