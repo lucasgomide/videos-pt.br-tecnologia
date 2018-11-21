@@ -227,3 +227,5 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Sthefane Soares - Vida Programação](https://www.youtube.com/channel/UCcgvGfLMZ8Xh8lxhFPMqjLw)
 - Canal que trata de programação e opinião própria sobre softwares. Para apaixonados por Tecnologia da Informação.
 
+[Curso Quasar Framework - Patrick Monteiro](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)
+- Canal do Patrick Monteiro focado atualmente em um curso de Quasar Framework. O que motivou a produção deste curso, foi a falta de conteúdo atualizado em português na internet.
