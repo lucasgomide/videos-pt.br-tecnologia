@@ -229,3 +229,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Curso Quasar Framework - Patrick Monteiro](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)
 - Canal do Patrick Monteiro focado atualmente em um curso de Quasar Framework. O que motivou a produção deste curso, foi a falta de conteúdo atualizado em português na internet.
+
+[InfoQ Brasil](https://www.youtube.com/c/InfoQBrasil)
+- Canal de vídeos do site [InfoQ Brasil](https://www.infoq.com/br) contendo palestras de diversos eventos que ocorrem pelo Brasil, tais como [QCon São Paulo](https://qconsp.com), [The Conf](https://www.theconf.club/) e [PAPis](https://www.papis.io/).
