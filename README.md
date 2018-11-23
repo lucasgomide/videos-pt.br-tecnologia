@@ -232,3 +232,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [InfoQ Brasil](https://www.youtube.com/c/InfoQBrasil)
 - Canal de vídeos do site [InfoQ Brasil](https://www.infoq.com/br) contendo palestras de diversos eventos que ocorrem pelo Brasil, tais como [QCon São Paulo](https://qconsp.com), [The Conf](https://www.theconf.club/) e [PAPis](https://www.papis.io/).
+
+[Guia do Programador](https://www.youtube.com/channel/UC_issB-37g9lwfAA37fy2Tg)
+- Canal focado em desenvolvimento web e programação, com cursos de Python, Djano, Node.Js, Git, dentre outros.
