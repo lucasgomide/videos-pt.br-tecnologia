@@ -235,3 +235,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Guia do Programador](https://www.youtube.com/channel/UC_issB-37g9lwfAA37fy2Tg)
 - Canal focado em desenvolvimento web e programação, com cursos de Python, Djano, Node.Js, Git, dentre outros.
+
+[Digitalmente](https://www.youtube.com/channel/UCklJJvb043h5KB7kZ2-tO3Q/featured)
+- O digital[mente] é uma série [quase] semanal de vídeo ensaios que realiza a convergência de temas-chave para a reflexão e compreensão do nosso futuro próximo. Tecnologia, cibercultura, comunicação, ciberativismo etc. 
+
