@@ -185,6 +185,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Eduardo Mendes - Live de Python](https://www.youtube.com/user/mendesesduardo)
 - Canal focado em Lives sobre o mundo de Python.
 
+[EuProgramador](https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA)
+- O canal aborda assuntos relacionados à vida de um programador. Temas como front-end backend são discultidos em bate papos. Têm também aulas, dicas e tutoriais sobre Golang, PHP e React.
+
 [Pizza de Dados](https://www.youtube.com/channel/UCqOX4hl_9DJ5Zmzh8MpgL9A)
 - Podcasts sobre desenvolvimento.
 
