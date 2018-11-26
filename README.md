@@ -244,3 +244,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Davifo](https://www.youtube.com/channel/UCLKmrL8UuRczNPkr7VzW1ow/featured)
 - Canal com foco em desenvolvimento e monetização de jogos, abordando diversos assuntos que envolve não só o desenvolvimento como também estratégias para ganhos com produtos desenvolvidos.
+
+[Paulo (We make a game)](https://www.youtube.com/user/wemakeagame/featured)
+- Canal voltado a criação de jogos autorais e tutoriais de desenvolvimento, nas palavras do criador, também conhecido como Paulo: "Esse canal é destinado a comunidade de desenvolvedores de jogos, aprenda, compartilhe e complemente".
