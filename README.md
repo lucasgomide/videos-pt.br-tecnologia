@@ -242,3 +242,5 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Digitalmente](https://www.youtube.com/channel/UCklJJvb043h5KB7kZ2-tO3Q/featured)
 - O digital[mente] é uma série [quase] semanal de vídeo ensaios que realiza a convergência de temas-chave para a reflexão e compreensão do nosso futuro próximo. Tecnologia, cibercultura, comunicação, ciberativismo etc. 
 
+[Davifo](https://www.youtube.com/channel/UCLKmrL8UuRczNPkr7VzW1ow/featured)
+- Canal com foco em desenvolvimento e monetização de jogos, abordando diversos assuntos que envolve não só o desenvolvimento como também estratégias para ganhos com produtos desenvolvidos.
