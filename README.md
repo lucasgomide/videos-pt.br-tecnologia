@@ -247,3 +247,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Paulo (We make a game)](https://www.youtube.com/user/wemakeagame/featured)
 - Canal voltado a criação de jogos autorais e tutoriais de desenvolvimento, nas palavras do criador, também conhecido como Paulo: "Esse canal é destinado a comunidade de desenvolvedores de jogos, aprenda, compartilhe e complemente".
+
+[Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ)
+- Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos.
