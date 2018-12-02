@@ -250,3 +250,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ)
 - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos.
+
+[Linguagem C Programação Descomplicada](https://www.youtube.com/user/progdescomplicada/)
+- Canal com vídeo aulas de linguagem C e estruturas de dados com o Prof André Backes
+
+[De aluno para aluno](https://www.youtube.com/user/italogross)
+- Canal do Italo com vários vídeos de programação em C e JAVA. Bem completo e com ótima didática
