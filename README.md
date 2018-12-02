@@ -250,3 +250,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ)
 - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos.
+
+[Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
+- Canal aborda a experiência pessoal do Fabio Akita, que trabalha na área há décadas, sua visão sobre linguagens, metodologias de estudo, questões sobre a área em geral e Blockchain.
