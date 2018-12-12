@@ -2,6 +2,9 @@
 
 Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
+[Canal do Abranches](https://www.youtube.com/c/CanalDoAbranches)
+- Tutorias para desenvolvimento de apps com Frameworks Ionic, React, Flutter e outras dicas do universo mobile...
+
 [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel)
 - O canal onde ciência e tecnologia se encontram lindamente em videos semanais e alguns encontros em BH no Chopp comCiência.
 
