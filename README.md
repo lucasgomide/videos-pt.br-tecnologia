@@ -255,4 +255,8 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 - Canal com vídeo aulas de linguagem C e estruturas de dados com o Prof André Backes
 
 [De aluno para aluno](https://www.youtube.com/user/italogross)
-- Canal do Italo com vários vídeos de programação em C e JAVA. Bem completo e com ótima didática
+- Canal que aborda diversos tutoriais relacionados ao desenvolvimento usando C# e Unity3D.Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos.
+
+[Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
+- Canal aborda a experiência pessoal do Fabio Akita, que trabalha na área há décadas, sua visão sobre linguagens, metodologias de estudo, questões sobre a área em geral e Blockchain.
+
