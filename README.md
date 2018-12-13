@@ -2,6 +2,9 @@
 
 Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
+[Filipe Alves](https://www.youtube.com/channel/UCv6aZVQz8IHrhgemxZrNRmQ)
+- Canal com tutoriais de desenvolvimento de jogos e dicas de cursos de graduação em computação
+
 [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel)
 - O canal onde ciência e tecnologia se encontram lindamente em videos semanais e alguns encontros em BH no Chopp comCiência.
 
