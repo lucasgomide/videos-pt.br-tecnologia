@@ -260,3 +260,8 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
 - Canal aborda a experiência pessoal do Fabio Akita, que trabalha na área há décadas, sua visão sobre linguagens, metodologias de estudo, questões sobre a área em geral e Blockchain.
 
+[CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)
+- Canal do Marco Bruno sobre desenvolvimento com videos todas as segundas, quartas e sextas, abordando os mais diversos assuntos sobre desenvolvimento, tanto back quando front.
+
+[Dev Na Estrada](https://www.youtube.com/channel/UCtIygB7LtILSFWR0kxtZC-A)
+- Já famoso por seu maravilhoso [podcast](https://devnaestrada.com.br/), o Dev Na Estrada, ou DNE para os mais íntimos, trata sobre diversos assuntos relacionados a desenvolvimento, porém não fica restrito somente a códigos, porém a lições de vida, inspiração e dicas sobre o mundo do desenvolvimento.
