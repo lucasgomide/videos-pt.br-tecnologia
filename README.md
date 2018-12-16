@@ -260,3 +260,5 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
 - Canal aborda a experiência pessoal do Fabio Akita, que trabalha na área há décadas, sua visão sobre linguagens, metodologias de estudo, questões sobre a área em geral e Blockchain.
 
+[TreinaWeb](https://www.youtube.com/user/TreinaWeb)
+- Canal de uma das principais escolas especializadas em cursos online de programação web, desktop, mobile e edição de foto e vídeo no Brasil com várias dicas.
