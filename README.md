@@ -260,3 +260,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
 - Canal aborda a experiência pessoal do Fabio Akita, que trabalha na área há décadas, sua visão sobre linguagens, metodologias de estudo, questões sobre a área em geral e Blockchain.
 
+[CFBCursos](https://www.youtube.com/user/canalfessorbruno)
+- Canal com diversas playlist que abordam temas como arduino, php, html5, css, javascript, c++, photoshop, unity 3D, etc.
+
+[Webschool.io](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)
+- Canal focado em javascript abordando temas como mongoDB, angular, express.js, node.js, javascript funcional, koa.js, etc.
+
