@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/carolcodes/youtube-br-desenvolvimento.svg?branch=master)](https://travis-ci.org/carolcodes/youtube-br-desenvolvimento)
+
 # Canais brasileiros para pessoas desenvolvedoras
 
 Repositório de canais no Youtube BR sobre desenvolvimento e programação.
