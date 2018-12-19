@@ -38,7 +38,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Claudiney Junior](https://www.youtube.com/ClaudineyJunior)
 - Canal focado principalmente em tecnologia e programação, com ênfase em Javascript, Node.js e ferramentas DevOps, mas de vez em quando também rolam uns conteúdos de diversidades, como jogos e dicas pra relaxar e se divertir.
 
-[CODEficando](https://www.youtube.com/channel/UCG3gFuIkRF3PpNkRk3Wp6dw)
+[CODEficando](https://www.youtube.com/channel/UC1duiHpWq191tlnMk3mSPNA)
 - Canal que mostra dicas sobre desenvolvimento de aplicativos para os sistemas Android e iOS, Além de outras linguagens de programação como Python e Java.
 
 [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)
