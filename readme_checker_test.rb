@@ -1,6 +1,8 @@
-require 'test/unit'
-require 'kramdown'
+require 'rubygems'
+require 'bundler/setup'
+require 'test-unit'
 require 'nokogiri'
+require 'kramdown'
 
 class ReadmeCheckerTest < Test::Unit::TestCase
   def readme
