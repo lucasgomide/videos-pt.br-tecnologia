@@ -262,3 +262,8 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [TreinaWeb](https://www.youtube.com/user/TreinaWeb)
 - Canal de uma das principais escolas especializadas em cursos online de programação web, desktop, mobile e edição de foto e vídeo no Brasil com várias dicas.
+
+[Henrique Bastos](https://www.youtube.com/user/henriquebastosnet)
+- Muito conteúdo e dicas relacionadas ao mundo da programação, lives no estilo bate-papo com o Henrique e vários outros profissionais com muitos conhecimentos e experiências.
+
+
