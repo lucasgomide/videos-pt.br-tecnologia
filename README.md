@@ -226,6 +226,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [RBtech](https://www.youtube.com/user/RBTechinfo)
 - Canal onde você encontra aulas e cursos sobre hardware, desenvolvimento web, design e criação. Cursos de lógica de programação, PHP, Android, HTML e CSS, JavaScript, Git e muito mais.
 
+[Robson Cristian](https://www.youtube.com/robsoncristian)
+- O canal tem conteúdos semanais sobre tecnologia e negócios. E, a partir de 2019, serão lançados conteúdos novos todos os dias. Inclusive, com live coding de projetos malucos!
+
 [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - O canal da Rocketseat tá lotado de conteúdo para pessoas desenvolvedoras e ainda tem apoio da plataforma com vários conteúdos de programação gratuitos.
 
