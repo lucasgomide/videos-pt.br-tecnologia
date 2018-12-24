@@ -34,11 +34,11 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Caqui Coders](https://www.youtube.com/caquicoders)
 - Canal da comunidade Caqui Coders, sempre rolam lives de assuntos variados relacionados à tecnologia, tudo completamente gratuito.
 
-[Caveiratech](https://www.youtube.com/caveiratech2)
-- Canal focado em segurança da informação, hacking e programação, onde Guilherme Junqueira ministra cursos gratuitos de python e segurança da informação, além de dicas e vlogs sobre TI.
-
 [Carlos Henrique Java](https://www.youtube.com/user/carlinbh27)
 - Canal com aulas de programação em Java dentre outros atrativos do mundo da programação.
+
+[Caveiratech](https://www.youtube.com/caveiratech2)
+- Canal focado em segurança da informação, hacking e programação, onde Guilherme Junqueira ministra cursos gratuitos de python e segurança da informação, além de dicas e vlogs sobre TI.
 
 [Claudiney Junior](https://www.youtube.com/ClaudineyJunior)
 - Canal focado principalmente em tecnologia e programação, com ênfase em Javascript, Node.js e ferramentas DevOps, mas de vez em quando também rolam uns conteúdos de diversidades, como jogos e dicas pra relaxar e se divertir.
