@@ -40,6 +40,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Caveiratech](https://www.youtube.com/caveiratech2)
 - Canal focado em segurança da informação, hacking e programação, onde Guilherme Junqueira ministra cursos gratuitos de python e segurança da informação, além de dicas e vlogs sobre TI.
 
+[Carlos Henrique Java](https://www.youtube.com/user/carlinbh27)
+- Canal com aulas de programação em Java dentre outros atrativos do mundo da programação.
+
 [Claudiney Junior](https://www.youtube.com/ClaudineyJunior)
 - Canal focado principalmente em tecnologia e programação, com ênfase em Javascript, Node.js e ferramentas DevOps, mas de vez em quando também rolam uns conteúdos de diversidades, como jogos e dicas pra relaxar e se divertir.
 
@@ -166,7 +169,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Loiane Groner](https://www.youtube.com/user/Loianeg)
 - O canal da nossa Deusa da programação é repleto de conteúdos técnicos, desde suas palestras até cursos gratuitos (como o de Angular que está em andamento).
 
-[Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ)
+[Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaez
 - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos.
 
 [Michelli Brito](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow)
