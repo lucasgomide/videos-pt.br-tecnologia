@@ -279,3 +279,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Zurubabel](https://www.youtube.com/channel/UCqWo_iZvIALqgmXkzJ8S0Sg)
 - De JavaScript a lógica proposicional, de Java a estatística, esse canal possui dezenas de cursos completos.
+
+[Glider Space](https://www.youtube.com/gliderspace)
+- Canal com foco principal (mas não limitado à) linguagem de programação brasileira Lua. Contém cursos de Desenvolvimento em Lua, Lua Avançado e Backend development em Lua. Também possui um curso completo de introdução a expressões regulares.
