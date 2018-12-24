@@ -82,6 +82,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ)
 - A DevMedia é um portal de conhecimento voltado para programadores, com milhares de artigos, dicas, cursos online e videoaulas sobre diferentes áreas de desenvolvimento de tecnologia.
 
+[DevNaEstrada](https://www.youtube.com/channel/UCtIygB7LtILSFWR0kxtZC-A)
+- Já famoso por seu maravilhoso [podcast](https://devnaestrada.com.br/), o Dev Na Estrada, ou DNE para os mais íntimos, trata sobre diversos assuntos relacionados a desenvolvimento, porém não fica restrito somente a códigos, porém a lições de vida, inspiração e dicas sobre o mundo do desenvolvimento.
+
 [Devs Java Girl](https://m.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ)
 - O canal ainda está se desenvolvendo, mas essa é uma comunidade que tem crescido bastante em participantes e conteúdos no mundo Java ultimamente, se você gosta de java, recomendo dar uma olhada.
 
