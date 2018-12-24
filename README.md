@@ -271,3 +271,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Devs Java Girl](https://m.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ)
 - O canal ainda está se desenvolvendo, mas essa é uma comunidade que tem crescido bastante em participantes e conteúdos no mundo Java ultimamente, se você gosta de java, recomendo dar uma olhada.
+
+[201 Front-End](https://www.youtube.com/channel/UCZXLQtYuKWpPq2Oaf5zpzhg)
+- Canal com conteúdos relacionados ao desenvolvimento Front-End. Interfaces amigáveis, programação de animações, estética de interfaces, plugins e bibliotecas, dentre outros assuntos.
