@@ -61,6 +61,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
 - Canal bem divertido com diversos vídeos relacionados ao mundo do desenvolvimento, apresentados pelo Gabriel e sua esposa Vanessa, ambos desenvolvedores.
 
+[Carlos Henrique Java](https://www.youtube.com/user/carlinbh27)
+- Canal com aulas de programação em Java dentre outros atrativos do mundo da programação.
+
 [Danki Code](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ)
 - Vídeos sobre Programação, Marketing digital e Empreendedorismo.
 
@@ -280,5 +283,4 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Zurubabel](https://www.youtube.com/channel/UCqWo_iZvIALqgmXkzJ8S0Sg)
 - De JavaScript a lógica proposicional, de Java a estatística, esse canal possui dezenas de cursos completos.
 
-[Carlos Henrique Java](https://www.youtube.com/user/carlinbh27)
-- Canal com aulas de programação em Java dentre outros atrativos do mundo da programação.
+
