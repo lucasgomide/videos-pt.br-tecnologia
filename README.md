@@ -266,3 +266,8 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Henrique Bastos](https://www.youtube.com/user/henriquebastosnet)
 - Muito conteúdo e dicas relacionadas ao mundo da programação, lives no estilo bate-papo com o Henrique e vários outros profissionais com muitos conhecimentos e experiências.
 
+[Sou Java](https://m.youtube.com/channel/UCH0qj1HFZ9jy0w87YfMSA7w)
+- Muito conteúdo e dicas relacionadas ao mundo da JVM, falando muito sobre JDK, Spring, Jakarta EE e por aí vai...
+
+[Devs Java Girl](https://m.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ)
+- O canal ainda está se desenvolvendo, mas essa é uma comunidade que tem crescido bastante em participantes e conteúdos no mundo Java ultimamente, se você gosta de java, recomendo dar uma olhada.
