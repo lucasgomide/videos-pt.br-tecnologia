@@ -127,6 +127,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Glaucia Lemos](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ)
 - Canal para desenvolvedores que desejam aprender a desenvolver software com o .NET Framework.
 
+[Glider Space](https://www.youtube.com/gliderspace)
+- Canal com foco principal (mas não limitado à) linguagem de programação brasileira Lua. Contém cursos de Desenvolvimento em Lua, Lua Avançado e Backend development em Lua. Também possui um curso completo de introdução a expressões regulares.
+
 [Guia do Programador](https://www.youtube.com/channel/UC_issB-37g9lwfAA37fy2Tg)
 - Canal focado em desenvolvimento web e programação, com cursos de Python, Djano, Node.Js, Git, dentre outros.
 
