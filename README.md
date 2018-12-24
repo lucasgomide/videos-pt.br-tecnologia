@@ -163,6 +163,9 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ)
 - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos.
 
+[Michelli Brito](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow)
+- Este canal apresenta um conteúdo relacionado a programação web, utilizando principalmente a linguagem Java e o Spring Framework.
+
 [ML4U](https://www.youtube.com/channel/UCMSGXqLEE1q5NqG3hjA5vCg/)
 - Canal criado pelo professor Ricardo Melo, onde ele aborda algoritmos de Aprendizado de Máquina, Ciência de Dados e Inteligência Artificial, explicando desde a teoria à prática.
 
