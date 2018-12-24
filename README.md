@@ -166,7 +166,7 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Loiane Groner](https://www.youtube.com/user/Loianeg)
 - O canal da nossa Deusa da programação é repleto de conteúdos técnicos, desde suas palestras até cursos gratuitos (como o de Angular que está em andamento).
 
-[Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaez
+[Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ)
 - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos.
 
 [Michelli Brito](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow)
