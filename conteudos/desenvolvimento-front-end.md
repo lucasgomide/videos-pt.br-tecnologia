@@ -123,3 +123,11 @@ _Tags: `javascript`,`html`, `css`, `svg`,`react`, `canvas`_
 - [WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew) - De web design Ã  desenvolvimento, aqui vocÃª encontra de tudo em videos didÃ¡ticos e incriveis.
 
 _Tags:`diversos`, `carreira em ti`, `entrevistas`_
+
+- [Canal SW9 - FullStack](https://www.youtube.com/+sw9brl) - O Canal SW9 é mantido por Paulo Eduardo de Camargo. Engenheiro da Computação com mais de 15 anos de
+   experiência em desenvolvimento web. A proposta do canal é apoiar a comunidade de desenvolvedores web e híbrido mobile compartilhando dicas, tutorias e 
+   aulas relacionadas com linguagens Back e Front, Análise de Ferramentas/Serviços Web, API, SEO e Trilhas de Conhecimento.
+   Todos os códigos fontes estão disponíveis de graça em http://blog.sw9.com.br/acesso-area-de-downloads .  
+
+_Tags: `Javascript`, `BootStrap UI`, `HTML5`,`CSS3`, `AngularJS`, `Angular 2+`, `NodeJS`, `PHP`, `API`, `TDD`, `Firebase`_
+
