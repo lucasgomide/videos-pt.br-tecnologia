@@ -23,5 +23,5 @@ Muito obrigado!
 
 - A mensagem de commit deve ser descrita no tempo verbal do presente. Ela deve descrever o que o commit faz e não o que você fez.
 - Para sua PR ser aceita:
-    - Deve ser revisada e aprovada por pelo menos 1 colaborador.
-    - Deve passar no checks do CI.
+  - Deve ser revisada e aprovada por pelo menos 1 colaborador.
+  - Deve passar no checks do CI.

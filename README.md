@@ -40,4 +40,3 @@ Bons estudos a todos! ❤️❤️❤️
 <p align="center">
   <img src="https://i.imgsafe.org/2c/2c024270b3.gif"/>  
 </p>
-
