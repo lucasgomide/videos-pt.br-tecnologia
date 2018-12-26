@@ -1,8 +1,8 @@
-# Como contribuir
+# Como Contribuir
 
 Esta lista foi feita para a comunidade e não seria possível manter isso sem vocês. Obrigado à [todos que colaboraram](https://github.com/carolcodes/youtube-br-desenvolvimento/graphs/contributors).
 
-## Fazendo modificações
+## Fazendo Modificações
 
 - Cada item deve possuir o link do canal e uma descrição.
 - O item precisa estar ordenado por ordem *alfabética*.
