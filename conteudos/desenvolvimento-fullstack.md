@@ -1,8 +1,8 @@
-# Desenvolvimento FullStack ðŸ’»
+# Desenvolvimento FullStack Ã°Å¸â€™Â»
 
-- [Canal SW9](https://www.youtube.com/+sw9brl) - O Canal SW9 é mantido por Paulo Eduardo de Camargo. Engenheiro da Computação com mais de 15 anos de
-   experiência em desenvolvimento web. A proposta do canal é apoiar a comunidade de desenvolvedores web e híbrido mobile compartilhando dicas, tutorias e 
-   aulas relacionadas com linguagens Back e Front, Análise de Ferramentas/Serviços Web, API, SEO e Trilhas de Conhecimento.
-   Todos os códigos fontes estão disponíveis de graça em http://blog.sw9.com.br/acesso-area-de-downloads .  
+- [Canal SW9](https://www.youtube.com/+sw9brl) - O Canal SW9 Ã© mantido por Paulo Eduardo de Camargo. Engenheiro da ComputaÃ§Ã£o com mais de 15 anos de
+   experiÃªncia em desenvolvimento web. A proposta do canal Ã© apoiar a comunidade de desenvolvedores web e hÃ­brido mobile compartilhando dicas, tutorias e 
+   aulas relacionadas com linguagens Back e Front, AnÃ¡lise de Ferramentas/ServiÃ§os Web, API, SEO e Trilhas de Conhecimento.
+   Todos os cÃ³digos-fonte estÃ£o disponÃ­veis de graÃ§a em http://blog.sw9.com.br/acesso-area-de-downloads .  
 
 _Tags: `Javascript`, `BootStrap UI`, `HTML5`,`CSS3`, `AngularJS`, `Angular 2+`, `NodeJS`, `PHP`, `API`, `TDD`, `Firebase`_
