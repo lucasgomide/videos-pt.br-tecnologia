@@ -8,6 +8,10 @@ _Tags: `diversos`, `html5`, `css`, `angularjs`, `angular`, `angular material`_
 
 _Tags: `diversos`, `redes`, `base de dados`, `html`, `css`, `java`, `uml`, `php`, `python`, `sql`, `android`, `linux`, `javascript`_
 
+- [BrazilJS](https://bit.ly/2rWkEoY) - Canal oficial da BrazilJS. Contém centenas de vídeos de palestras com conteúdo inédito e exclusivo, além de material produzido exclusivamente abordando as tecnologias de desenvolvimento Web e a comunidade de desenvolvedores no Brasil.
+
+_Tags: `html`, `css`, `javascript`, `diversos`, `entrevistas`, `carreira em ti`_
+
 - [Curso Em Video](https://bit.ly/295sAO0) - No canal do Curso em video são encontrados diversos cursos na àrea de tecnologia, sendo alguns deles com foco em programação e desenvolvimento web.
 
 _Tags: `python`, `javascript`, `html`, `java`, `sql`, `php`_
