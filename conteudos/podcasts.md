@@ -4,6 +4,10 @@
 
 _Tags: `diversos`, `podcast`_
 
+- [Hipsters Ponto Tech](https://hipsters.tech/) - Esse é o podcast onde o pessoal da Caelum e da Alura entra em discuss?es acaloradas sobre programaç?o, design, ux, gadgets, startups e as últimas modinhas em tecnologia.
+
+_Tags: `diversos`, `podcast`_
+
 - [Pod Programar](https://bit.ly/2T6Z64L) - Podcast dedicado a entrevistas com diversos lÃ­deres tÃ©cnicos de Comunidade e com dicas na Ã¡rea de T.I
 
 _Tags: `diversos`, `podcast`_
