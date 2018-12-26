@@ -108,16 +108,14 @@ _Tags: `javascript`, `bootstrap`_
 
 _Tags: `quasar framework`, `javascript`_
 
-
-[UXNOW](https://www.youtube.com/channel/UCgfaifzmqadwKyCd0lagylQ) - No canal UXNOW você aprende tudo sobre Design, UI e UX em videos curtos, lives e até uma playlist com curso de UX gratuito.
+- [UXNOW](https://www.youtube.com/channel/UCgfaifzmqadwKyCd0lagylQ) - No canal UXNOW você aprende tudo sobre Design, UI e UX em videos curtos, lives e até uma playlist com curso de UX gratuito.
 
 _Tags: `design`, `diversos`, `carreira em ti`, `entrevistas`_
 
-[William Justen Cursos](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ) - Um Screencast focado em Desenvolvimento Web, abordando assuntos como HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais, com cursos ministrados pelo William Justen.
+- [William Justen Cursos](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ) - Um Screencast focado em Desenvolvimento Web, abordando assuntos como HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais, com cursos ministrados pelo William Justen.
 
 _Tags: `javascript`,`html`, `css`, `svg`,`react`, `canvas`_
 
-
-[WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew) - De web design à desenvolvimento, aqui você encontra de tudo em videos didáticos e incriveis.
+- [WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew) - De web design à desenvolvimento, aqui você encontra de tudo em videos didáticos e incriveis.
 
 _Tags:`diversos`, `carreira em ti`, `entrevistas`_

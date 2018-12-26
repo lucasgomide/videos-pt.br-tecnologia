@@ -1,6 +1,6 @@
 # Desenvolvimento Back-End 💻
 
-[Canal TI](https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ) - O Canal TI produz vídeos relacionados a Tecnologia da Informação em geral.
+- [Canal TI](https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ) - O Canal TI produz vídeos relacionados a Tecnologia da Informação em geral.
 
 _Tags: `inteligencia artificial`, `php`, `arquitetura da informacao`_
 
@@ -8,7 +8,7 @@ _Tags: `inteligencia artificial`, `php`, `arquitetura da informacao`_
 
 _Tags: `javascript`, `react`, `front-end`, `entrevistas`, `carreira em ti`_
 
-[Como Programar Melhor](https://www.youtube.com/channel/UCwUtX5abMMaL8KkryVJx09w) - Canal do Raniere Silva com dicas e reflexões sobre desenvolvimento, além de cursos de C#.
+- [Como Programar Melhor](https://www.youtube.com/channel/UCwUtX5abMMaL8KkryVJx09w) - Canal do Raniere Silva com dicas e reflexões sobre desenvolvimento, além de cursos de C#.
 
 _Tags: `c#`, `.net`, `entrevista`, `carreira em ti`_
 
