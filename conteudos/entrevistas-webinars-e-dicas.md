@@ -119,6 +119,10 @@ _Tags:`diversos`, `carreira em ti`, `entrevistas`_
 
 _Tags:`diversos`, `carreira em ti`, `entrevistas`_
 
+- [TreinaWeb](https://www.youtube.com/user/TreinaWeb) - Canal de uma das principais escolas especializadas em cursos online de programação web, desktop, mobile e edição de foto e vídeo no Brasil com várias dicas.
+
+_Tags: `dicas`, `diversos`, `soft skills`, `back-end`, `front-end`, `mobile`_
+
 - [UXNOW](https://www.youtube.com/channel/UCgfaifzmqadwKyCd0lagylQ) - No canal UXNOW você aprende tudo sobre Design, UI e UX em videos curtos, lives e até uma playlist com curso de UX gratuito.
 
 _Tags: `design`, `diversos`, `carreira em ti`, `entrevistas`_
@@ -143,3 +147,4 @@ _Tags: `carreira em ti`, `html`, `css`, `javascript`, `front-end`_
 - [Zurubabel](https://www.youtube.com/channel/UCqWo_iZvIALqgmXkzJ8S0Sg) - De JavaScript a lógica proposicional, de Java a estatística, esse canal possui dezenas de cursos completos.
 
 _Tags:`java`, `inteligencia artificial`, `hardware`, `unity`, `css`, `html`, `javascript`, `python`_
+
