@@ -136,6 +136,10 @@ _Tags: `javascript`,`vuejs`_
 
 _Tags:`diversos`, `carreira em ti`, `entrevistas`_
 
+- [WoMakersCode](https://www.youtube.com/womakerscode) - Iniciativa sem fins lucrativos para incentivar mulheres na TI, o WoMakersCode também possui um canal no YouTube com palestras e webinars principalmente sobre front-end e carreira.
+
+_Tags: `carreira em ti`, `html`, `css`, `javascript`, `front-end`_
+
 - [Zurubabel](https://www.youtube.com/channel/UCqWo_iZvIALqgmXkzJ8S0Sg) - De JavaScript a lógica proposicional, de Java a estatística, esse canal possui dezenas de cursos completos.
 
 _Tags:`java`, `inteligencia artificial`, `hardware`, `unity`, `css`, `html`, `javascript`, `python`_
