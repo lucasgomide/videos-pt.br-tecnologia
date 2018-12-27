@@ -4,6 +4,7 @@ require 'test-unit'
 require 'nokogiri'
 require 'kramdown'
 require 'pry'
+require 'typhoeus'
 
 class ReadmeCheckerTest < Test::Unit::TestCase
   def readme
@@ -48,6 +49,33 @@ class ReadmeCheckerTest < Test::Unit::TestCase
     elements.map(&links_value).flatten.each_with_index do |link, x|
       assert(false, "O link '#{link}' está duplicado") if links[link]
       links[link] = true
+    end
+  end
+
+  def test_success_links
+    links_value = ->(node) { node.map { |elem| elem.attributes['href'].value } }
+    urls = elements.map(&links_value).flatten
+
+    hydra = Typhoeus::Hydra.new
+    failed_requests = []
+    urls.each do |url|
+      request = Typhoeus::Request.new(url)
+      request.on_complete do |response|
+        failed_requests << response.effective_url if response.failure?
+      end
+      hydra.queue(request)
+    end
+    hydra.run
+
+    assert(false, "As requests para os canais #{failed_requests.join(',')} falharam") if failed_requests.size > 0
+  end
+
+  def test_link_starts_with
+    links_value = ->(node) { node.map { |elem| elem.attributes['href'].value } }
+    links = elements.map(&links_value).flatten
+
+    links.each do |link|
+      assert(false, "O link '#{link}' não possui o protocolo ou dominio específicado na Contributing Guideline. O esperado é que o link comece com 'https://www.youtube.com'") unless link =~ /^https\:\/\/www\.youtube\.com/
     end
   end
 end
