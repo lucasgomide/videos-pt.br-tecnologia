@@ -62,6 +62,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 ### Desenvolvimento Front-End 💻
 
+- [201 Front-End](https://www.youtube.com/channel/UCZXLQtYuKWpPq2Oaf5zpzhg) - Canal com conteúdos relacionados ao desenvolvimento Front-End. Interfaces amigáveis, programação de animações, estética de interfaces, plugins e bibliotecas, dentre outros assuntos. _Tags: `front-end`,`html`,`css`,`ui design`,`web design`_
 - [Algaworks](https://www.youtube.com/user/algaworks/playlists?view=1&flow=grid) - Canal da empresa de cursos online Algaworks, onde disponibilizam variados vídeos desde material de apoio sobre diversas tecnologias da atualidade até dicas para quem atua ou pretende atuar na área de desenvolvimento. _Tags: `html5`, `css`, `angularjs`, `angular`, `angular material`_
 - [Claudiney Junior](https://www.youtube.com/ClaudineyJunior) - Canal focado principalmente em tecnologia e programação, com ênfase em Javascript, Node.js e ferramentas DevOps, mas de vez em quando também rolam uns conteúdos de diversidades, como jogos e dicas pra relaxar e se divertir. _Tags: `nodejs`, `javascript`, `devopss`_
 - [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg/playlists) - No canal do Marco tem cursos online incríveis, conteúdo técnico de qualidade e sem contar que o cara tem uma didática absurda. _Tags: `javascript`, `react`, `front-end`, `entrevistas`, `carreira em ti`_
