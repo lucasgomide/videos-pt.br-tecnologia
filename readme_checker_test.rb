@@ -19,6 +19,17 @@ class ReadmeCheckerTest < Test::Unit::TestCase
                     .map { |e| e.css("li a:first-child") }
   end
 
+  def test_exists_items
+    assert(false, "Nenhum canal foi encontrado no README.md") if elements.size == 0
+  end
+
+  def test_minimum_items_in_categories
+    categories_title = Nokogiri::HTML(readme_as_html).css("h3")
+    elements.each_with_index do |elem, x|
+      assert(false, "A categoria #{categories_title[x].text} possui menos de 3 canais.") if elem.size < 3
+    end
+  end
+
   def test_alphabetic_order
     elem_text = -> (node) { node.map { |elem| elem.text.downcase } }
     channels = elements.map(&elem_text)

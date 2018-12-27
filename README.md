@@ -30,18 +30,14 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 ### Banco de Dados & Bancos Não Relacionais 💾
 
+- [CaquiCoders](https://bit.ly/2V98I0I) - Canal da comunidade Caqui Coders, sempre rolam lives de assuntos variados relacionados à tecnologia, tudo completamente gratuito. _Tags: `entrevistas`, `nodejs`, `testes`, `sql`, `azure`, `docker`_
 - [Nataniel Paiva Oficial](https://bit.ly/2EL5gDF) - Canal focado em MongoDb. _Tags: `mongodb`_
-
-### Big Data 🌌
-
-- [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ) - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada. _Tags: `inteligência artifical`, `deep learning`, `data science`_
-- [ML4U](https://www.youtube.com/channel/UCMSGXqLEE1q5NqG3hjA5vCg/) - Canal criado pelo professor Ricardo Melo, onde ele aborda algoritmos de Aprendizado de Máquina, Ciência de Dados e Inteligência Artificial, explicando desde a teoria à prática. _Tags: `deep learning`, `data science`, `carreira em ti`, `entrevistas`_
+- [Sthefane Soares - Vida Programação](https://bit.ly/2RkYWK0) - Canal que trata de programação e opinião própria sobre softwares. Para apaixonados por Tecnologia da Informação. _Tags: `java`,`android`, `ionic`, `c#`, `sql`_
 
 ### Desenvolvimento Back-End 💻
 
 - [Balta.io](https://bit.ly/2V4RBgF) - Canal com foco em desenvolvimento WEB. _Tags: `nodejs`, `entrevistas`, `carreira em ti`, `.net`, `c#`, `angular`_
 - [Canal dotNET](https://bit.ly/2QOrkok) - Canal para desenvolvedores que desejam aprender a desenvolver software com o .NET Framework. _Tags: `entrevistas`, `azure`, `testes`, `.net`_
-- [CaquiCoders](https://bit.ly/2V98I0I) - Canal da comunidade Caqui Coders, sempre rolam lives de assuntos variados relacionados à tecnologia, tudo completamente gratuito. _Tags: `entrevistas`, `nodejs`, `testes`, `sql`, `azure`, `docker`_
 - [Como Programar Melhor](https://www.youtube.com/channel/UCwUtX5abMMaL8KkryVJx09w) - Canal do Raniere Silva com dicas e reflexões sobre desenvolvimento, além de cursos de C#. _Tags: `c#`, `.net`, `entrevista`, `carreira em ti`_
 - [Curso Em Video](https://bit.ly/295sAO0) - No canal do Curso em video são encontrados diversos cursos na àrea de tecnologia, sendo alguns deles com foco em programação e desenvolvimento web. _Tags: `python`, `javascript`, `html`, `java`, `sql`, `php`_
 - [Django MOC](https://bit.ly/2d0b6CY) - Canal com foco em desenvolvimento WEB voltado para: Python com Django. _Tags: `python`, `django`_
@@ -94,7 +90,6 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Hugo Vasconcelos](https://bit.ly/2V9JwqH) - 135 cursos, todos ministrados por Hugo Vasconcelos, em nosso canal sempre é disponibilizado os cursos básicos e diversas vídeo aulas sobre desenvolvimento todos os dias. _Tags: `c#`, `vb.net`, `sql`, `android`, `java`, `bootstrap`_
 - [Loiane Groner](https://bit.ly/2TaiU79) - O canal da nossa Deusa da programação é repleto de conteúdos técnicos, desde suas palestras até cursos gratuitos (como o de Angular que está em andamento). _Tags: `java`, `javascript`, `angular`, `typescript`, `ionic`_
 - [Marcelo Simões](https://bit.ly/2Aco2AQ) - Canal focado em desenvolvimento em Swift. _Tags: `swift`, `ios`_
-- [Sthefane Soares - Vida Programação](https://bit.ly/2RkYWK0) - Canal que trata de programação e opinião própria sobre softwares. Para apaixonados por Tecnologia da Informação. _Tags: `java`,`android`, `ionic`, `c#`, `sql`_
 - [Vinicius Thiengo](https://bit.ly/2QPyiZZ) - Vídeos sobre Desenvolvimento Web, Desenvolvimento Android, Avaliação de Sites e Tutoriais de técnicas importantes para desenvolvedores. _Tags: `java`,`android`_
 
 ### Entrevista, Webinars & Dicas 📣
@@ -143,7 +138,9 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 ### Inteligência Artificial 🤖
 
 - [Brincando com Ideias](https://bit.ly/2rVg1LT) - Canal com foco em desenvolvimento em IOT. _Tags: `python`, `arduino`, `raspberry pi`_
+- [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ) - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada. _Tags: `inteligência artifical`, `deep learning`, `data science`_
 - [Canal TI](https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ) - O Canal TI produz vídeos relacionados a Tecnologia da Informação em geral. _Tags: `inteligência artificial`, `php`, `arquitetura da informação`_
+- [ML4U](https://www.youtube.com/channel/UCMSGXqLEE1q5NqG3hjA5vCg/) - Canal criado pelo professor Ricardo Melo, onde ele aborda algoritmos de Aprendizado de Máquina, Ciência de Dados e Inteligência Artificial, explicando desde a teoria à prática. _Tags: `deep learning`, `data science`, `carreira em ti`, `entrevistas`_
 - [O programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg) - Conselhos, dicas e truques para o dia a dia do desenvolvedor de software. _Tags `carreira em ti`, `entrevistas`_
 
 ### Games
