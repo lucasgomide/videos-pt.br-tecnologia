@@ -150,7 +150,6 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 ### Games :video_game:
 
-- [De aluno para aluno](https://www.youtube.com/user/italogross) - Canal que aborda diversos tutoriais relacionados ao desenvolvimento usando C# e Unity3D.Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos. _Tags: `c`, `c#`, `java`_
 - [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ) - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos. _Tags:`c#`, `unit 5`, `desenvolvimento de jogos`_
 - [Paulo (We make a game)](https://www.youtube.com/user/wemakeagame) - Canal voltado a criação de jogos autorais e tutoriais de desenvolvimento, nas palavras do criador, também conhecido como Paulo: "Esse canal é destinado a comunidade de desenvolvedores de jogos, aprenda, compartilhe e complemente". _Tags: `c#`, `unity`, `desenvolvimento de jogos`_
 
