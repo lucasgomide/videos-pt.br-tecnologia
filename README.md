@@ -27,7 +27,6 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 	- [Desenvolvimento Mobile Nativo & Híbrido 📱](#desenvolvimento-mobile-nativo--h%C3%ADbrido-)
 	- [Entrevista, Webinars & Dicas 📣](#entrevista-webinars--dicas-)
 	- [Inteligência Artificial 🤖](#intelig%C3%AAncia-artificial-)
-	- [Games :video_game:](#games) 
 	- [Lógica de Programacao](#l%C3%B3gica-de-programacao)
 	- [Segurança 🔐](#seguran%C3%A7a-)
 
@@ -147,11 +146,6 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Canal TI](https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ) - O Canal TI produz vídeos relacionados a Tecnologia da Informação em geral. _Tags: `inteligência artificial`, `php`, `arquitetura da informação`_
 - [ML4U](https://www.youtube.com/channel/UCMSGXqLEE1q5NqG3hjA5vCg/) - Canal criado pelo professor Ricardo Melo, onde ele aborda algoritmos de Aprendizado de Máquina, Ciência de Dados e Inteligência Artificial, explicando desde a teoria à prática. _Tags: `deep learning`, `data science`, `carreira em ti`, `entrevistas`_
 - [O programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg) - Conselhos, dicas e truques para o dia a dia do desenvolvedor de software. _Tags `carreira em ti`, `entrevistas`_
-
-### Games :video_game:
-
-- [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ) - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos. _Tags:`c#`, `unit 5`, `desenvolvimento de jogos`_
-- [Paulo (We make a game)](https://www.youtube.com/user/wemakeagame) - Canal voltado a criação de jogos autorais e tutoriais de desenvolvimento, nas palavras do criador, também conhecido como Paulo: "Esse canal é destinado a comunidade de desenvolvedores de jogos, aprenda, compartilhe e complemente". _Tags: `c#`, `unity`, `desenvolvimento de jogos`_
 
 ### Lógica de Programacao
 
