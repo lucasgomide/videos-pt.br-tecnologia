@@ -2,7 +2,11 @@
 
 # Canais Brasileiros para Pessoas Desenvolvedoras
 
-Repositório responsável em listar Canais no Youtube sobre Desenvolvimento e Programação em Português. Esse projeto foi baseado no projeto **[Awesome](https://awesome.re)**
+Repositório responsável em listar Canais no Youtube sobre Desenvolvimento e Programação em Português.
+
+Esse projeto foi baseado no projeto **[Awesome](https://awesome.re)**
+
+Agradecimentos especiais para [Glaucia](https://github.com/glaucia86) e [Lucas](https://github.com/lucasgomide) que proporam e me ajudaram com ótimas ideias e modificações :heart:
 
 ## Contribuições 📌
 
