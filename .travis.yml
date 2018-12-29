@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - 2.5.1
+bundler_args: --retry=3 --jobs=3
+cache: bundler
+script:
+  - ruby readme_checker_test.rb
