@@ -2,7 +2,13 @@
 
 # Canais Brasileiros para Pessoas Desenvolvedoras
 
-Repositório responsável em listar Canais no Youtube sobre Desenvolvimento e Programação em Português. Esse projeto foi baseado no projeto **[Awesome](https://awesome.re)**
+<img align="right" srcset="https://i.imgsafe.org/2c/2c024270b3.gif, https://i.imgsafe.org/2c/2c024270b3.gif 1.5x, https://i.imgsafe.org/2c/2c024270b3.gif 2x" src="https://i.imgsafe.org/2c/2c024270b3.gif" width="150px;" />
+
+Repositório responsável em listar Canais no Youtube sobre Desenvolvimento e Programação em Português.
+
+Esse projeto foi baseado no projeto **[Awesome](https://awesome.re)**
+
+Agradecimentos especiais para [Glaucia](https://github.com/glaucia86) e [Lucas](https://github.com/lucasgomide) que se propuseram em ajudar com ótimas ideias e modificações :heart:
 
 ## Contribuições 📌
 
@@ -14,8 +20,6 @@ Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/
 
 Procuramos ordenar os conteúdos e criar uma navegação amigável, visando facilitar a busca por conteúdos e temas. Bastam clicar em algum conteúdo que te interesse, e vòilá!
 
-<img align="right" src="https://i.imgsafe.org/2c/2c024270b3.gif" width="200"/>
-
 - [Canais Brasileiros para Pessoas Desenvolvedoras](#canais-brasileiros-para-pessoas-desenvolvedoras)
 	- [Banco de Dados & Bancos Não Relacionais 💾](#banco-de-dados--bancos-n%C3%A3o-relacionais-)
 	- [Desenvolvimento Back-End 💻](#desenvolvimento-back-end-)
@@ -23,7 +27,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 	- [Desenvolvimento Mobile Nativo & Híbrido 📱](#desenvolvimento-mobile-nativo--h%C3%ADbrido-)
 	- [Entrevista, Webinars & Dicas 📣](#entrevista-webinars--dicas-)
 	- [Inteligência Artificial 🤖](#intelig%C3%AAncia-artificial-)
-	- [Games](#games)
+	- [Games :video_game:](#games) 
 	- [Lógica de Programacao](#l%C3%B3gica-de-programacao)
 	- [Segurança 🔐](#seguran%C3%A7a-)
 
@@ -74,6 +78,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [DevPleno](https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww/featured) - Dicas, sacadas e tutoriais para você tornar-se um profissional completo ou um devPleno. _Tags: `javascript`, `react`, `react native`, `carreira em ti`_
 - [Escola Front-End](https://www.youtube.com/c/EscolaFrontend) - Canal que disponibiliza conteúdo referente a aprendizagem do mundo Front-End, Desde Simples Sites em HTML,CSS e JS até Frameworks JS. _Tags: `javascript`, `html`, `css`_
 - [Fabio Vedovelli](https://www.youtube.com/user/vedovelli) - O canal tem o foco principal desenvolvimento de Front-End. _Tags: `vuejs`, `react`, `angular`, `laravel`_
+- [JWDev Treinamentos](https://www.youtube.com/channel/UC-nuC9rI-GnfdWubIzN7FRA) - O canal que fala sobre tecnologia de uma forma diferente, sem essa de Hello World! Aqui vamos sempre usar das ferramentas de desenvolvimento para recriar de forma inusitada programas consagrados. _Tags: `javascript`, `games`, `layouts`, `css`, `typescript`, `react`, `angular`, `node.js`, `rxjs`_
 - [Keven Jesus](https://www.youtube.com/channel/UCn2jh8rvEePP9s61z-H1P1w) - Canal do instrutor de programação Keven Jesus, com um bom material para quem está iniciando em JavaScript. _Tags: `javascript`, `bootstrap`_
 - [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw) - Cursos completos de Desenvolvimento Web. 100% vídeo aulas, acesso ilimitado e aprendizado garantido! _Tags: `php`, `css`, `html`_
 - [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Um canal para programadores e aspirantes a programadores _Tags: `javascript`, `html`, `css`, `carreira em ti`, `entrevistas`_
@@ -128,6 +133,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Sou Java](https://www.youtube.com/channel/UCH0qj1HFZ9jy0w87YfMSA7w) - Muito conteúdo e dicas relacionadas ao mundo da JVM, falando muito sobre JDK, Spring, Jakarta EE e por aí vai... _Tags: `java` `carreira em ti`, `entrevistas`_
 - [The Velopers (iMasters)](https://www.youtube.com/user/imasters) - Nosso querido Pokemaobr vulgo Rodrigo Cardoso agora em um talk show cheio de humor, pessoas fodas e muito conteúdo. Não dá pra perder né? _Tags `carreira em ti`, `entrevistas`_
 - [Training Center](https://www.youtube.com/channel/UC8reCbWAXloUaFmHhsOh2Xw) - No TC você encontra uma galera incrível, disposta a compartilhar seus conhecimentos técnicos e soft skills, além de ser um espaço aberto para todas as pessoas poderem compartilhar o que sabem. _Tags `carreira em ti`, `entrevistas`_
+- [TreinaWeb](https://www.youtube.com/user/TreinaWeb) - Canal de uma das principais escolas especializadas em cursos online de programação web, desktop, mobile e edição de foto e vídeo no Brasil com várias dicas. _Tags: `dicas`, `diversos`, `soft skills`, `back-end`, `front-end`, `mobile`_
 - [UXNOW](https://www.youtube.com/channel/UCgfaifzmqadwKyCd0lagylQ) - No canal UXNOW você aprende tudo sobre Design, UI e UX em videos curtos, lives e até uma playlist com curso de UX gratuito. _Tags: `design`, `carreira em ti`, `entrevistas`_
 - [Vida de Programador](https://www.youtube.com/channel/UCW4XS1NWmwOKWA1rmfgmyHQ) - Canal de vídeos do mesmo criador do Vida de Programador, sobre desenvolviemento e outros assuntos variados. _Tags `carreira em ti`, `entrevistas`_
 - [Vue.js Brasil](https://www.youtube.com/channel/UC9DvZyV1QU3Y0-Tpv97oAxw) - Canal focado em Vue.js e JavaScript que conta com hangouts semanais sobre temas diversos no universo front-end e vídeos com dicas de desenvolvimento. _Tags: `javascript`,`vuejs`_
@@ -142,7 +148,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [ML4U](https://www.youtube.com/channel/UCMSGXqLEE1q5NqG3hjA5vCg/) - Canal criado pelo professor Ricardo Melo, onde ele aborda algoritmos de Aprendizado de Máquina, Ciência de Dados e Inteligência Artificial, explicando desde a teoria à prática. _Tags: `deep learning`, `data science`, `carreira em ti`, `entrevistas`_
 - [O programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg) - Conselhos, dicas e truques para o dia a dia do desenvolvedor de software. _Tags `carreira em ti`, `entrevistas`_
 
-### Games
+### Games :video_game:
 
 - [De aluno para aluno](https://www.youtube.com/user/italogross) - Canal que aborda diversos tutoriais relacionados ao desenvolvimento usando C# e Unity3D.Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos. _Tags: `c`, `c#`, `java`_
 - [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ) - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos. _Tags:`c#`, `unit 5`, `desenvolvimento de jogos`_
