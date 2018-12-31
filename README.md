@@ -2,11 +2,13 @@
 
 # Canais Brasileiros para Pessoas Desenvolvedoras
 
+<img align="right" srcset="https://i.imgsafe.org/2c/2c024270b3.gif, https://i.imgsafe.org/2c/2c024270b3.gif 1.5x, https://i.imgsafe.org/2c/2c024270b3.gif 2x" src="https://i.imgsafe.org/2c/2c024270b3.gif" width="150px;" />
+
 Repositório responsável em listar Canais no Youtube sobre Desenvolvimento e Programação em Português.
 
 Esse projeto foi baseado no projeto **[Awesome](https://awesome.re)**
 
-Agradecimentos especiais para [Glaucia](https://github.com/glaucia86) e [Lucas](https://github.com/lucasgomide) que proporam e me ajudaram com ótimas ideias e modificações :heart:
+Agradecimentos especiais para [Glaucia](https://github.com/glaucia86) e [Lucas](https://github.com/lucasgomide) que se propuseram em ajudar com ótimas ideias e modificações :heart:
 
 ## Contribuições 📌
 
@@ -17,8 +19,6 @@ Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/
 ## Conteúdos 🔥
 
 Procuramos ordenar os conteúdos e criar uma navegação amigável, visando facilitar a busca por conteúdos e temas. Bastam clicar em algum conteúdo que te interesse, e vòilá!
-
-<img align="right" src="https://i.imgsafe.org/2c/2c024270b3.gif" width="200"/>
 
 - [Canais Brasileiros para Pessoas Desenvolvedoras](#canais-brasileiros-para-pessoas-desenvolvedoras)
 	- [Banco de Dados & Bancos Não Relacionais 💾](#banco-de-dados--bancos-n%C3%A3o-relacionais-)
