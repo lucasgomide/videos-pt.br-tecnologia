@@ -59,7 +59,6 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Programação para iniciantes com Python. _Tags:`python`_
 - [Tiago Matos](https://www.youtube.com/user/tiagomatosweb) - _Tags: `laravel`, `javascript`, `css`, `sass`, `vuejs`_
 - [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
-- [Webschool.io](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg) - Canal focado em javascript abordando temas como mongoDB, angular, express.js, node.js, javascript funcional, koa.js, etc _Tags: `javascript`, `nodejs`, `express`_
 
 ### Desenvolvimento Front-End 💻
 
@@ -86,6 +85,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [William Justen Cursos](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ) - Um Screencast focado em Desenvolvimento Web, abordando assuntos como HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais, com cursos ministrados pelo William Justen. _Tags: `javascript`,`html`, `css`, `svg`,`react`, `canvas`_
 - [WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew) - De web design à desenvolvimento, aqui você encontra de tudo em videos didáticos e incriveis. _Tags `carreira em ti`, `entrevistas`_
 - [CFBCursos](https://www.youtube.com/user/canalfessorbruno) - Canal com diversas playlist que abordam temas como arduino, php, html5, css, javascript, c++, photoshop, unity 3D, etc _Tags: `html5`, `javascript`, `css`_
+- [Webschool.io](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg) - Canal focado em javascript abordando temas como mongoDB, angular, express.js, node.js, javascript funcional, koa.js, etc _Tags: `javascript`, `nodejs`, `express`_
 
 ### Desenvolvimento Mobile Nativo & Híbrido 📱
 
