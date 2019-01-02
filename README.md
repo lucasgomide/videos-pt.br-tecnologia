@@ -151,6 +151,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 ### Games :video_game:
 
 - [Davifo](https://www.youtube.com/channel/UCLKmrL8UuRczNPkr7VzW1ow/featured) - Canal com foco em desenvolvimento e monetização de jogos, abordando diversos assuntos que envolve não só o desenvolvimento como também estratégias para ganhos com produtos desenvolvidos. _Tags: `c#`, `unity 2D`, `unity 3D `, `desenvolvimento de jogos`, `entrevistas`, `carreira em ti`_
+- [GamesIndie - Tutoriais de Unity & Programação](https://www.youtube.com/user/GamesIndie/featured) - Canal do Bruno, sobre tutoriais com foco em pessoas iniciantes no mundo do desenvolvimento de jogos 2D e 3D usando a Unity engine.  _Tags: `c#`, `unity 2D`, `unity 3D `, `desenvolvimento de jogos`_
 - [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ) - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos. _Tags: `c#`, `unity 3D `, `desenvolvimento de jogos`_
 - [Paulo (We make a game)](https://www.youtube.com/user/wemakeagame) - Canal voltado a criação de jogos autorais e tutoriais de desenvolvimento, nas palavras do criador, também conhecido como Paulo: "Esse canal é destinado a comunidade de desenvolvedores de jogos, aprenda, compartilhe e complemente". _Tags: `c#`, `unity 3D`, `desenvolvimento de jogos`_
 
