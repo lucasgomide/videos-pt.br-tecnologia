@@ -12,7 +12,7 @@ Agradecimentos especiais para [Glaucia](https://github.com/glaucia86) e [Lucas](
 
 ## Contribuições 📌
 
-Pedimos, por favor, que dêem uma olhada nas **[Diretrizes de Contribuição](https://github.com/carolcodes/youtube-br-desenvolvimento/blob/master/CONTRIBUTING.md)** antes. E desde já, agredecemos a todos os contribuidores. Vocês são demais! ❤️❤️
+Pedimos, por favor, que dêem uma olhada nas **[Diretrizes de Contribuição](https://github.com/carolcodes/youtube-br-desenvolvimento/blob/master/CONTRIBUTING.md)** antes. E desde já, agradecemos a todos os contribuidores. Vocês são demais! ❤️❤️
 
 Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/carolcodes/youtube-br-desenvolvimento/issues)** nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
 
@@ -27,7 +27,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 	- [Desenvolvimento Mobile Nativo & Híbrido 📱](#desenvolvimento-mobile-nativo--h%C3%ADbrido-)
 	- [Entrevista, Webinars & Dicas 📣](#entrevista-webinars--dicas-)
 	- [Inteligência Artificial 🤖](#intelig%C3%AAncia-artificial-)
-	- [Games :video_game:](#games) 
+	- [Games :video_game:](#games)
 	- [Lógica de Programacao](#l%C3%B3gica-de-programacao)
 	- [Segurança 🔐](#seguran%C3%A7a-)
 
@@ -44,6 +44,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Canal dotNET](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg/playlists) - Canal para desenvolvedores que desejam aprender a desenvolver software com o .NET Framework. _Tags: `entrevistas`, `azure`, `testes`, `.net`_
 - [Como Programar Melhor](https://www.youtube.com/channel/UCwUtX5abMMaL8KkryVJx09w) - Canal do Raniere Silva com dicas e reflexões sobre desenvolvimento, além de cursos de C#. _Tags: `c#`, `.net`, `entrevista`, `carreira em ti`_
 - [Curso Em Video](https://www.youtube.com/user/cursosemvideo) - No canal do Curso em video são encontrados diversos cursos na àrea de tecnologia, sendo alguns deles com foco em programação e desenvolvimento web. _Tags: `python`, `javascript`, `html`, `java`, `sql`, `php`_
+- [De aluno para aluno](https://www.youtube.com/user/italogross) - Canal do Italo com vários vídeos de programação em C e JAVA. Bem completo e com ótima didática. _Tags: `c`, `c#`, `java`_
 - [Django MOC](https://www.youtube.com/channel/UCexpfXtye8oLjTSW-wKipcw) - Canal com foco em desenvolvimento WEB voltado para: Python com Django. _Tags: `python`, `django`_
 - [Eduardo Mendes - Live de Python](https://www.youtube.com/user/mendesesduardo/featured) - Canal focado em Lives sobre o mundo de Python. _Tags: `python`, `carreira em ti`_
 - [Eduardo Pires](https://www.youtube.com/user/headfox) - Melhor canal para quem realmente quer aprender sobre padrões de desenvolvimento: SOLID, DDD, TDD tudo em C# & .NET. _Tags: `asp.net`, `c#`, `ddd`, `tdd`, `design patterns`_
@@ -106,7 +107,6 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Canal Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Canal do Felipe Fontoura, desenvolvedor, que dá dicas sobre desenvolvimento e carreira em TI. _Tags: `soft skills`, `carreira em ti`_
 - [Curso De Python - Bruno Rocha](https://www.youtube.com/user/brunovegan/) - A proposta do canal é criar videos rápidos e direto ao assunto com dicas de Python e desenvolvimento web, os videos são apresentados por Bruno Rocha, Engenheiro de Software da Red Hat e membro da Python Software Foundation. _Tags: `python`, `entrevistas`_
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv) - Canal bem divertido com diversos vídeos relacionados ao mundo do desenvolvimento, apresentados pelo Gabriel e sua esposa Vanessa, ambos desenvolvedores. _Tags: `carreira em ti`_
-- [Davifo](https://www.youtube.com/channel/UCLKmrL8UuRczNPkr7VzW1ow/featured) - Canal com foco em desenvolvimento e monetização de jogos, abordando diversos assuntos que envolve não só o desenvolvimento como também estratégias para ganhos com produtos desenvolvidos. _Tags: `html`, `desenvolvimento de jogos`_
 - [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - A DevMedia é um portal de conhecimento voltado para programadores, com milhares de artigos, dicas, cursos online e videoaulas sobre diferentes áreas de desenvolvimento de tecnologia. _Tags: `carreira em ti`_
 - [DevNaEstrada](https://www.youtube.com/channel/UCtIygB7LtILSFWR0kxtZC-A) - Já famoso por seu maravilhoso [podcast](https://devnaestrada.com.br/), o Dev Na Estrada, ou DNE para os mais íntimos, trata sobre diversos assuntos relacionados a desenvolvimento, porém não fica restrito somente a códigos, porém a lições de vida, inspiração e dicas sobre o mundo do desenvolvimento. _Tags: `carreira em ti`, `entrevistas`_
 - [Devs Java Girl](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ/featured) - O canal ainda está se desenvolvendo, mas essa é uma comunidade que tem crescido bastante em participantes e conteúdos no mundo Java ultimamente, se você gosta de java, recomendo dar uma olhada. _Tags: `java`_
@@ -150,9 +150,10 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 ### Games :video_game:
 
-- [De aluno para aluno](https://www.youtube.com/user/italogross) - Canal que aborda diversos tutoriais relacionados ao desenvolvimento usando C# e Unity3D.Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos. _Tags: `c`, `c#`, `java`_
-- [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ) - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos. _Tags:`c#`, `unit 5`, `desenvolvimento de jogos`_
-- [Paulo (We make a game)](https://www.youtube.com/user/wemakeagame) - Canal voltado a criação de jogos autorais e tutoriais de desenvolvimento, nas palavras do criador, também conhecido como Paulo: "Esse canal é destinado a comunidade de desenvolvedores de jogos, aprenda, compartilhe e complemente". _Tags: `c#`, `unity`, `desenvolvimento de jogos`_
+- [Davifo](https://www.youtube.com/channel/UCLKmrL8UuRczNPkr7VzW1ow/featured) - Canal com foco em desenvolvimento e monetização de jogos, abordando diversos assuntos que envolve não só o desenvolvimento como também estratégias para ganhos com produtos desenvolvidos. _Tags: `c#`, `unity 2D`, `unity 3D `, `desenvolvimento de jogos`, `entrevistas`, `carreira em ti`_
+- [GamesIndie - Tutoriais de Unity & Programação](https://www.youtube.com/user/GamesIndie/featured) - Canal do Bruno, sobre tutoriais com foco em pessoas iniciantes no mundo do desenvolvimento de jogos 2D e 3D usando a Unity engine.  _Tags: `c#`, `unity 2D`, `unity 3D `, `desenvolvimento de jogos`_
+- [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ) - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos. _Tags: `c#`, `unity 3D `, `desenvolvimento de jogos`_
+- [Paulo (We make a game)](https://www.youtube.com/user/wemakeagame) - Canal voltado a criação de jogos autorais e tutoriais de desenvolvimento, nas palavras do criador, também conhecido como Paulo: "Esse canal é destinado a comunidade de desenvolvedores de jogos, aprenda, compartilhe e complemente". _Tags: `c#`, `unity 3D`, `desenvolvimento de jogos`_
 
 ### Lógica de Programacao
 
