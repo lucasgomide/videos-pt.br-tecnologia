@@ -40,6 +40,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 ### Desenvolvimento Back-End 💻
 
+- [Andre Baltieri](https://www.youtube.com/user/andrebaltieri) - Aqui você vai encontrar conteúdo sobre desenvolvimento de aplicações Web na plataforma .NET e muito JavaScript. _Tags: `.net`, `javascript`_
 - [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg) - Canal com foco em desenvolvimento WEB. _Tags: `nodejs`, `entrevistas`, `carreira em ti`, `.net`, `c#`, `angular`_
 - [Canal dotNET](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg/playlists) - Canal para desenvolvedores que desejam aprender a desenvolver software com o .NET Framework. _Tags: `entrevistas`, `azure`, `testes`, `.net`_
 - [Como Programar Melhor](https://www.youtube.com/channel/UCwUtX5abMMaL8KkryVJx09w) - Canal do Raniere Silva com dicas e reflexões sobre desenvolvimento, além de cursos de C#. _Tags: `c#`, `.net`, `entrevista`, `carreira em ti`_
