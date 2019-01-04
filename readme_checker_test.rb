@@ -1,10 +1,6 @@
 require 'rubygems'
-require 'bundler/setup'
-require 'test-unit'
-require 'nokogiri'
-require 'kramdown'
-require 'pry'
-require 'typhoeus'
+require 'bundler'
+Bundler.require(:default)
 
 class ReadmeCheckerTest < Test::Unit::TestCase
   def readme
@@ -49,6 +45,26 @@ class ReadmeCheckerTest < Test::Unit::TestCase
     elements.map(&links_value).flatten.each_with_index do |link, x|
       assert(false, "O link '#{link}' está duplicado") if links[link]
       links[link] = true
+    end
+  end
+
+  def test_tags_presence
+    items = Nokogiri::HTML(readme_as_html).css("h3 + ul li")
+
+    items.each do |item|
+      assert(false, "O canal #{item.at_css('a').text} não possui tags. Insira as tags relevantes para este canal. Confira a Contributing Guideline e verifique o formato esperado lá.") unless item.at_css('em')
+    end
+  end
+
+  def test_description_presence
+    items = Nokogiri::HTML(readme_as_html).css("h3 + ul li")
+
+    items.each do |item|
+      channel_title = item.at_css('a').text
+      item.css('em, a').remove
+      text = item.text.strip
+      assert(false, "O canal #{channel_title} não possui descrição.") if text.empty?
+      assert(false, "A descrição do canal #{channel_title} não segue as diretrizes da Contributing Guideline. Deve começar com - (hífen) e terminar com . (ponto final).") if text[0] != '-' || text[-1] != "."
     end
   end
 
