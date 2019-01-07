@@ -21,16 +21,17 @@ Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/
 Procuramos ordenar os conteúdos e criar uma navegação amigável, visando facilitar a busca por conteúdos e temas. Bastam clicar em algum conteúdo que te interesse, e vòilá!
 
 - [Canais Brasileiros para Pessoas Desenvolvedoras](#canais-brasileiros-para-pessoas-desenvolvedoras)
-	- [Banco de Dados & Bancos Não Relacionais 💾](#banco-de-dados--bancos-n%C3%A3o-relacionais-)
-	- [Desenvolvimento Back-End 💻](#desenvolvimento-back-end-)
-	- [Desenvolvimento Front-End 💻](#desenvolvimento-front-end-)
-	- [Desenvolvimento Mobile Nativo & Híbrido 📱](#desenvolvimento-mobile-nativo--h%C3%ADbrido-)
-	- [Entrevista, Webinars & Dicas 📣](#entrevista-webinars--dicas-)
-	- [Inteligência Artificial 🤖](#intelig%C3%AAncia-artificial-)
-	- [Games :video_game:](#games-video_game)
-	- [Lógica de Programacao](#l%C3%B3gica-de-programacao)
-	- [Segurança 🔐](#seguran%C3%A7a-)
-
+	- [Contribuições 📌](#contribui%C3%A7%C3%B5es-%F0%9F%93%8C)
+	- [Conteúdos 🔥](#conte%C3%BAdos-%F0%9F%94%A5)
+		- [Banco de Dados & Bancos Não Relacionais 💾](#banco-de-dados--bancos-n%C3%A3o-relacionais-%F0%9F%92%BE)
+		- [Desenvolvimento Back-End 💻](#desenvolvimento-back-end-%F0%9F%92%BB)
+		- [Desenvolvimento Front-End 💻](#desenvolvimento-front-end-%F0%9F%92%BB)
+		- [Desenvolvimento Mobile Nativo & Híbrido 📱](#desenvolvimento-mobile-nativo--h%C3%ADbrido-%F0%9F%93%B1)
+		- [Entrevista, Webinars & Dicas 📣](#entrevista-webinars--dicas-%F0%9F%93%A3)
+		- [Inteligência Artificial 🤖](#intelig%C3%AAncia-artificial-%F0%9F%A4%96)
+		- [Games :video_game:](#games-videogame)
+		- [Lógica de Programacao](#l%C3%B3gica-de-programacao)
+		- [Segurança 🔐](#seguran%C3%A7a-%F0%9F%94%90)
 
 ### Banco de Dados & Bancos Não Relacionais 💾
 
@@ -60,12 +61,12 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [João Ribeiro](https://www.youtube.com/user/JLDRPT) - Canal focado em Desenvolvimento WEB. _Tags: `javascript`, `html`, `css`, `sass`, `typescript`, `ajax`, `sql`, `.net`, `c#`, `bootstrap`, `java`, `jquery`_
 - [Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) - Um dos canais mais conhecidos por todos os brasileiros. Macoratti possui inúmeros tutoriais, desde do Front-End desde ao Back-End, abordando assim, inúmeros tópicos. _Tags: `asp.net`, `asp.net core`, `react native`, `angularjs`, `xamarin`, `visual basic`, `c#`, `sql`_
 - [Michelli Brito](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow) - Este canal apresenta um conteúdo relacionado a programação web, utilizando principalmente a linguagem Java e o Spring Framework. _Tags:`java`_
-- [One Bit Code](https://www.youtube.com/channel/UC44Mzz2-5TpyfklUCQ5NuxQ) - O One Bit Code nasceu como um blog dedicado ao mundo da programação, em especial *Ruby on Rails*. No canal é disponibizado posts, tutoriais, screencasts e dicas sobre temas que envolvem linhas de códigos. _Tags:`ruby on rails`, `carreira em ti`, `entrevista`_
+- [One Bit Code](https://www.youtube.com/channel/UC44Mzz2-5TpyfklUCQ5NuxQ) - O One Bit Code nasceu como um blog dedicado ao mundo da programação, em especial _Ruby on Rails_. No canal é disponibizado posts, tutoriais, screencasts e dicas sobre temas que envolvem linhas de códigos. _Tags:`ruby on rails`, `carreira em ti`, `entrevista`_
 - [Portal Programando](https://www.youtube.com/PortalProgramando) - O objetivo do canal é apresentar conceitos de algoritmos, programação e dicas da área de tecnologia. É apresentado também cursos completos e cursos práticos de pequena duração. O conteúdo do canal está disponível como podcast de mesmo nome. _Tags: `algoritimos`_
 - [Python Café](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg/) - Canal do Hallison Paz focado em desenvolvimento com Python, incluindo playlists de estruturas de dados e programação orientada a objetos com a linguagem. _Tags:`python`_
 - [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Programação para iniciantes com Python. _Tags:`python`_
 - [Tiago Matos](https://www.youtube.com/user/tiagomatosweb) - Canal focado em vídeo aulas sobre Vue.js._Tags: `laravel`, `javascript`, `css`, `sass`, `vuejs`_
-- [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
+- [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do _Software Engineer_ Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
 
 ### Desenvolvimento Front-End 💻
 
@@ -89,8 +90,8 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas/) - O canal é apresentado por Rodrigo Branas. Arquiteto de software, especialista no desenvolvimento de aplicações web há mais de 15 anos, autor do livro AngularJS Essentials (editora PacktPub) e de diversos artigos da revista Java Magazine. Canal com foco em JavaScript, Angular, Grunt, Bower, Jasmine e outros tópicos. _Tags: `javascript`, `angularjs`, `bower`_
 - [TekZoom](https://www.youtube.com/user/tekzoom/) - O TekZoom é um projeto criado e mantido por Reinaldo Silotto. Nosso conteúdo é voltado para profissionais e estudantes de Tecnologia. Aqui no Canal você encontrará o que existe de mais moderno para criação de sites, blogs, redes sociais e lojas online. _Tags: `php`, `javascript`, `node`, `vuejs`, `css`_
 - [Webdesign em Foco](https://www.youtube.com/channel/UCL-mk7btv-dHI5hY2Tl1GHg) - Canal focado no Desenvolvimento Web. _Tags: `javascript`,`html`, `css`, `php`, `react`, `bootstrap`_
-- [William Justen Cursos](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ) - Um Screencast focado em Desenvolvimento Web, abordando assuntos como HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais, com cursos ministrados pelo William Justen. _Tags: `javascript`,`html`, `css`, `svg`,`react`, `canvas`_
 - [Webschool.io](https://www.youtube.com/c/webschool-io) - Canal focado em desenvolvimento web, abordando muito javascript, css, vue, node, git, programação funcional e muito mais. _Tags: `javascript`,`node`,`angular`,`vue`,`es6`, `saas`,`css`, `git`_
+- [William Justen Cursos](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ) - Um Screencast focado em Desenvolvimento Web, abordando assuntos como HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais, com cursos ministrados pelo William Justen. _Tags: `javascript`,`html`, `css`, `svg`,`react`, `canvas`_
 - [WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew) - De web design à desenvolvimento, aqui você encontra de tudo em videos didáticos e incriveis. _Tags `carreira em ti`, `entrevistas`_
 
 ### Desenvolvimento Mobile Nativo & Híbrido 📱
@@ -153,10 +154,10 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 ### Games :video_game:
 
-- [Davifo](https://www.youtube.com/channel/UCLKmrL8UuRczNPkr7VzW1ow/featured) - Canal com foco em desenvolvimento e monetização de jogos, abordando diversos assuntos que envolve não só o desenvolvimento como também estratégias para ganhos com produtos desenvolvidos. _Tags: `c#`, `unity 2D`, `unity 3D `, `desenvolvimento de jogos`, `entrevistas`, `carreira em ti`_
-- [GamesIndie - Tutoriais de Unity & Programação](https://www.youtube.com/user/GamesIndie/featured) - Canal do Bruno, sobre tutoriais com foco em pessoas iniciantes no mundo do desenvolvimento de jogos 2D e 3D usando a Unity engine.  _Tags: `c#`, `unity 2D`, `unity 3D `, `desenvolvimento de jogos`_
+- [Davifo](https://www.youtube.com/channel/UCLKmrL8UuRczNPkr7VzW1ow/featured) - Canal com foco em desenvolvimento e monetização de jogos, abordando diversos assuntos que envolve não só o desenvolvimento como também estratégias para ganhos com produtos desenvolvidos. _Tags: `c#`, `unity 2D`, `unity 3D`, `desenvolvimento de jogos`, `entrevistas`, `carreira em ti`_
+- [GamesIndie - Tutoriais de Unity & Programação](https://www.youtube.com/user/GamesIndie/featured) - Canal do Bruno, sobre tutoriais com foco em pessoas iniciantes no mundo do desenvolvimento de jogos 2D e 3D usando a Unity engine. _Tags: `c#`, `unity 2D`, `unity 3D`, `desenvolvimento de jogos`_
 - [Gus Game Dev](https://www.youtube.com/channel/UCoxRNjIDKlzxxl8OOJub6CA) - Canal de tutoriais de desenvolvimento de jogos 2D em Godot, Unity e Construct. _Tags: `unit 2D`, `Construct`, `Godot`_
-- [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ) - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos. _Tags: `c#`, `unity 3D `, `desenvolvimento de jogos`_
+- [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ) - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e assuntos correlato ao mundo dos jogos. _Tags: `c#`, `unity 3D`, `desenvolvimento de jogos`_
 - [Paulo (We make a game)](https://www.youtube.com/user/wemakeagame) - Canal voltado a criação de jogos autorais e tutoriais de desenvolvimento, nas palavras do criador, também conhecido como Paulo: "Esse canal é destinado a comunidade de desenvolvedores de jogos, aprenda, compartilhe e complemente". _Tags: `c#`, `unity 3D`, `desenvolvimento de jogos`_
 
 ### Lógica de Programacao
