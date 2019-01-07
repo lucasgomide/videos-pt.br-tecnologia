@@ -39,7 +39,6 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Sthefane Soares - Vida Programação](https://www.youtube.com/channel/UCcgvGfLMZ8Xh8lxhFPMqjLw) - Canal que trata de programação e opinião própria sobre softwares. Para apaixonados por Tecnologia da Informação. _Tags: `java`,`android`, `ionic`, `c#`, `sql`_
 
 ### Desenvolvimento Back-End 💻
-- [Torne-se um programador](https://www.youtube.com/user/Didox59) - Aqui você vai encontrar conteúdo sobre desenvolvimento de aplicações Web, Windows, Mobile e Console, Back-end e Front-end desde a lógica de programação, nas linguagens JavaScript, C#, Ruby, PHP, e as de marcação como HTML, XML, Json, CSS. _Tags: `.net`, `javascript`, `node.js`, `ruby`, `php`, `html`, `css`, `ajax`_
 - [Andre Baltieri](https://www.youtube.com/user/andrebaltieri) - Aqui você vai encontrar conteúdo sobre desenvolvimento de aplicações Web na plataforma .NET e muito JavaScript. _Tags: `.net`, `javascript`_
 - [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg) - Canal com foco em desenvolvimento WEB. _Tags: `nodejs`, `entrevistas`, `carreira em ti`, `.net`, `c#`, `angular`_
 - [Canal dotNET](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg/playlists) - Canal para desenvolvedores que desejam aprender a desenvolver software com o .NET Framework. _Tags: `entrevistas`, `azure`, `testes`, `.net`_
@@ -65,6 +64,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Python Café](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg/) - Canal do Hallison Paz focado em desenvolvimento com Python, incluindo playlists de estruturas de dados e programação orientada a objetos com a linguagem. _Tags:`python`_
 - [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Programação para iniciantes com Python. _Tags:`python`_
 - [Tiago Matos](https://www.youtube.com/user/tiagomatosweb) - Canal focado em vídeo aulas sobre Vue.js._Tags: `laravel`, `javascript`, `css`, `sass`, `vuejs`_
+- [Torne-se um programador](https://www.youtube.com/user/Didox59) - Aqui você vai encontrar conteúdo sobre desenvolvimento de aplicações Web, Windows, Mobile e Console, Back-end e Front-end desde a lógica de programação, nas linguagens JavaScript, C#, Ruby, PHP, e as de marcação como HTML, XML, Json, CSS. _Tags: `.net`, `javascript`, `node.js`, `ruby`, `php`, `html`, `css`, `ajax`_
 - [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
 
 ### Desenvolvimento Front-End 💻
