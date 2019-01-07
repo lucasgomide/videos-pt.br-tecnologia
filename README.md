@@ -66,7 +66,6 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Programação para iniciantes com Python. _Tags:`python`_
 - [Tiago Matos](https://www.youtube.com/user/tiagomatosweb) - Canal focado em vídeo aulas sobre Vue.js._Tags: `laravel`, `javascript`, `css`, `sass`, `vuejs`_
 - [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
-- [Webschool.io](https://www.youtube.com/c/webschool-io) - Canal focado em desenvolvimento web com javascript, contendo muita informação sobre NodeJS, MongoDb, Express, angular, testes com nodejs, programação funcional e mais javascript. _Tags: `javascript`,`nodejs`, `MongoDB`, `TDD/BDD`_
 
 ### Desenvolvimento Front-End 💻
 
@@ -91,6 +90,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [TekZoom](https://www.youtube.com/user/tekzoom/) - O TekZoom é um projeto criado e mantido por Reinaldo Silotto. Nosso conteúdo é voltado para profissionais e estudantes de Tecnologia. Aqui no Canal você encontrará o que existe de mais moderno para criação de sites, blogs, redes sociais e lojas online. _Tags: `php`, `javascript`, `node`, `vuejs`, `css`_
 - [Webdesign em Foco](https://www.youtube.com/channel/UCL-mk7btv-dHI5hY2Tl1GHg) - Canal focado no Desenvolvimento Web. _Tags: `javascript`,`html`, `css`, `php`, `react`, `bootstrap`_
 - [William Justen Cursos](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ) - Um Screencast focado em Desenvolvimento Web, abordando assuntos como HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais, com cursos ministrados pelo William Justen. _Tags: `javascript`,`html`, `css`, `svg`,`react`, `canvas`_
+- [Webschool.io](https://www.youtube.com/c/webschool-io) - Canal focado em desenvolvimento web, abordando muito javascript, css, vue, node, git, programação funcional e muito mais. _Tags: `javascript`,`node`,`angular`,`vue`,`es6`, `saas`,`css`, `git`_
 - [WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew) - De web design à desenvolvimento, aqui você encontra de tudo em videos didáticos e incriveis. _Tags `carreira em ti`, `entrevistas`_
 
 ### Desenvolvimento Mobile Nativo & Híbrido 📱
