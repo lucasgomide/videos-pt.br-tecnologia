@@ -79,6 +79,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Danki Code](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ) - Vídeos sobre Programação, Marketing digital e Empreendedorismo. _Tags: `html`, `carreira em ti`_
 - [Descompila](https://www.youtube.com/user/CanalSamuelson) - Dicas, sacadas e tutoriais para você tornar-se um profissional completo ou um devPleno. _Tags: `javascript`, `react`, `react native`, `carreira em ti`_
 - [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g) - O DevDojo é um canal de cursos gratuitos de desenvolvimento, como Java e TypeScript. _Tags: `java`, `typescript`_
+- [DeveloperDeck101](https://www.youtube.com/channel/UCj75B_51OXb9qH15wiHs-Hw) - O DeveloperDeck101 é um canal que ensina novas tecnologias passo a passo e sem complicação._Tags:  `javascript`, `react`, `react-native`,  `bootstrap`,  `flexbox`,  `docker`,  `aws`_
 - [DevPleno](https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww/featured) - Dicas, sacadas e tutoriais para você tornar-se um profissional completo ou um devPleno. _Tags: `javascript`, `react`, `react native`, `carreira em ti`_
 - [Escola Front-End](https://www.youtube.com/c/EscolaFrontend) - Canal que disponibiliza conteúdo referente a aprendizagem do mundo Front-End, Desde Simples Sites em HTML,CSS e JS até Frameworks JS. _Tags: `javascript`, `html`, `css`_
 - [Fabio Vedovelli](https://www.youtube.com/user/vedovelli) - O canal tem o foco principal desenvolvimento de Front-End. _Tags: `vuejs`, `react`, `angular`, `laravel`_
