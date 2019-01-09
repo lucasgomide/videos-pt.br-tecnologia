@@ -98,8 +98,8 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 ### Desenvolvimento Mobile Nativo & Híbrido 📱
 
 - [CODEficando](https://www.youtube.com/channel/UC1duiHpWq191tlnMk3mSPNA) - Canal que mostra dicas sobre desenvolvimento de aplicativos para os sistemas Android e iOS. Além de outras linguagens de programação como Python e Java. _Tags: `python`, `android`, `java`_
-- [Fábrica de Código](https://www.youtube.com/channel/UCXepHP9GmUtF73xtEIa9RWA) - Canal com foco em desenvolvimento híbrido usando Ionic e desenvolvimento web. _Tags: `angular`, `typescript`, `ionic`, `firebase`_
 - [Filipe Alves](https://www.youtube.com/channel/UCv6aZVQz8IHrhgemxZrNRmQ) - Canal com tutoriais de desenvolvimento de jogos e dicas de cursos de graduação em computação. _Tags: `javascript`, `desenvolvimento de jogos`, `android`, `c`, `swift`_
+- [Fábrica de Código](https://www.youtube.com/channel/UCXepHP9GmUtF73xtEIa9RWA) - Canal com foco em desenvolvimento híbrido usando Ionic e desenvolvimento web. _Tags: `angular`, `typescript`, `ionic`, `firebase`_
 - [Full Stack Developer](https://www.youtube.com/channel/UC-8goXO6sjFuIbanvBd-jfA/featured) - Canal com foco em desenvolvimento mobile híbrido com Ionic. _Tags: `ionic`,`mobile`_
 - [Hugo Vasconcelos](https://www.youtube.com/user/tutoriais01) - 135 cursos, todos ministrados por Hugo Vasconcelos, em nosso canal sempre é disponibilizado os cursos básicos e diversas vídeo aulas sobre desenvolvimento todos os dias. _Tags: `c#`, `vb.net`, `sql`, `android`, `java`, `bootstrap`_
 - [Loiane Groner](https://www.youtube.com/user/Loianeg) - O canal da nossa Deusa da programação é repleto de conteúdos técnicos, desde suas palestras até cursos gratuitos (como o de Angular que está em andamento). _Tags: `java`, `javascript`, `angular`, `typescript`, `ionic`_
