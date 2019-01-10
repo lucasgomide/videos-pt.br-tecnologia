@@ -27,6 +27,10 @@ class ReadmeCheckerTest < Test::Unit::TestCase
     end
   end
 
+  def remove_acentos(nome)
+    return nome.tr("á|ã|Á|Ã","a").tr("é|ê|É|Ê","e").tr("í|Í|","i").tr("ó|Ó|ô|Ô", "o").tr("ú|Ú","u");
+  end
+
   def test_alphabetic_order
     elem_text = -> (node) { node.map { |elem| elem.text.downcase } }
     channels = elements.map(&elem_text)
@@ -34,12 +38,12 @@ class ReadmeCheckerTest < Test::Unit::TestCase
 
     channels.each_with_index do |group, x|
       group.each_with_index do |channel, y|
+        
+        canal_1 = remove_acentos(sorted[x][y]);
+        canal_2 = remove_acentos(channel);
+        #group.each_with_index[y] = channel;
 
-        #Teste temporário para remover acentuação
-        sorted[x][y] = sorted[x][y].tr("á|ã|Á|Ã","a").tr("é|ê|É|Ê","e").tr("í|Í|","i").tr("ó|Ó|ô|Ô", "o").tr("ú|Ú","u");
-        channel = channel.tr("á|ã|Á|Ã","a").tr("é|ê|É|Ê","e").tr("í|Í|","i").tr("ó|Ó|ô|Ô", "o").tr("ú|Ú","u");
-
-        assert(false, "O canal '#{sorted[x][y]}' deve vir antes de '#{channel}'") if sorted[x][y] != channel
+        assert(false, "O canal '#{canal_1}' deve vir antes de '#{canal_2}'") if canal_1 != canal_2
       end
     end
   end
