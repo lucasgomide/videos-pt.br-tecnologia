@@ -34,6 +34,11 @@ class ReadmeCheckerTest < Test::Unit::TestCase
 
     channels.each_with_index do |group, x|
       group.each_with_index do |channel, y|
+
+        #Teste temporário para remover acentuação
+        sorted[x][y] = sorted[x][y].tr("á|ã|Á|Ã","a").tr("é|ê|É|Ê","e").tr("í|Í|","i").tr("ó|Ó|ô|Ô", "o").tr("ú|Ú","u");
+        channel = channel.tr("á|ã|Á|Ã","a").tr("é|ê|É|Ê","e").tr("í|Í|","i").tr("ó|Ó|ô|Ô", "o").tr("ú|Ú","u");
+
         assert(false, "O canal '#{sorted[x][y]}' deve vir antes de '#{channel}'") if sorted[x][y] != channel
       end
     end
