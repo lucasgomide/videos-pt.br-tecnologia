@@ -30,7 +30,11 @@ class ReadmeCheckerTest < Test::Unit::TestCase
   def test_alphabetic_order
     elem_text = -> (node) { node.map { |elem| elem.text.downcase } }
     channels = elements.map(&elem_text)
-    sorted = channels.map { |c| c.sort }
+    sorted = channels.map do |ch|
+      ch.sort_by do |channel|
+        channel.unicode_normalize(:nfkd).encode('ASCII', replace: '').chars
+      end
+    end
 
     channels.each_with_index do |group, x|
       group.each_with_index do |channel, y|
