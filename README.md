@@ -106,6 +106,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Hugo Vasconcelos](https://www.youtube.com/user/tutoriais01) - 135 cursos, todos ministrados por Hugo Vasconcelos, em nosso canal sempre é disponibilizado os cursos básicos e diversas vídeo aulas sobre desenvolvimento todos os dias. _Tags: `c#`, `vb.net`, `sql`, `android`, `java`, `bootstrap`_
 - [Loiane Groner](https://www.youtube.com/user/Loianeg) - O canal da nossa Deusa da programação é repleto de conteúdos técnicos, desde suas palestras até cursos gratuitos (como o de Angular que está em andamento). _Tags: `java`, `javascript`, `angular`, `typescript`, `ionic`_
 - [Marcelo Simões](https://www.youtube.com/user/mhgs11) - Canal focado em desenvolvimento em Swift. _Tags: `swift`, `ios`_
+- [Thiago Aguiar](https://www.youtube.com/user/empreendedormobile) - Canal focado em desenvolvimento iOS e Android. Que ajuda programadores comuns a se tornarem desenvolvedores Android extraordinários. _Tags: `swift`, `ios`,`android`,`kotlin`,`java`_
 - [Vinicius Thiengo](https://www.youtube.com/user/thiengoCalopsita) - Vídeos sobre Desenvolvimento Web, Desenvolvimento Android, Avaliação de Sites e Tutoriais de técnicas importantes para desenvolvedores. _Tags: `java`,`android`_
 
 ### Entrevista, Webinars & Dicas 📣
