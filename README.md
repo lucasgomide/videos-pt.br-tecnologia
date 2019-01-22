@@ -227,3 +227,5 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 [Sthefane Soares - Vida Programação](https://www.youtube.com/channel/UCcgvGfLMZ8Xh8lxhFPMqjLw)
 - Canal que trata de programação e opinião própria sobre softwares. Para apaixonados por Tecnologia da Informação.
 
+[Origamid](https://www.youtube.com/user/origamidlabs)
+- Canal voltado para front-end e design.
