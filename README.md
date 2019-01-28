@@ -26,11 +26,11 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 	- [Desenvolvimento Front-End 💻](#desenvolvimento-front-end-)
 	- [Desenvolvimento Mobile Nativo & Híbrido 📱](#desenvolvimento-mobile-nativo--h%C3%ADbrido-)
 	- [Entrevista, Webinars & Dicas 📣](#entrevista-webinars--dicas-)
+	- [Infraestrutura 🖧 ](#infraestrutura-)
 	- [Inteligência Artificial 🤖](#intelig%C3%AAncia-artificial-)
 	- [Games :video_game:](#games-video_game)
 	- [Lógica de Programacao](#l%C3%B3gica-de-programacao)
 	- [Segurança 🔐](#seguran%C3%A7a-)
-	- [Infraestrutura 🖧 ](#infraestrutura-)
 
 
 ### Banco de Dados & Bancos Não Relacionais 💾
@@ -152,6 +152,12 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [William Oliveira](https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw) - Com o Will você aprender tudo o que gostaria de saber sobre desenvolvimento de software e não tinha a quem perguntar. Rolam videos, lives, tudo sem firula e startupismo. E ah, já tem video lá falando do salário de pessoas programadoras, então corre e não esquece do like. _Tags `carreira em ti`, `entrevistas`_
 - [WoMakersCode](https://www.youtube.com/womakerscode) - Iniciativa sem fins lucrativos para incentivar mulheres na TI, o WoMakersCode também possui um canal no YouTube com palestras e webinars principalmente sobre front-end e carreira. _Tags: `carreira em ti`, `html`, `css`, `javascript`, `front-end`_
 
+### Infraestrutura 🖧 
+
+- [Canal do Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001) - Canal do entusiasta de Software Livre Paulo Kretcheu, onde levanta tópicos sobre Internet, Software Livre e outros tópicos relacionados. _Tags: `linux`, `redes`, `internet`_
+- [Eu faço a internet funcionar](https://www.youtube.com/channel/UCMsyeaScaqxDLmIGhTfSoNA) - Um canal que apresenta como a internet realmente funciona para além (e muitas vezes contra) o senso comum. _Tags: `internet`_
+- [NIC.br Videos](https://www.youtube.com/channel/UCscVLgae-2f9baEXhVbM1ng) - Canal oficial do NIC.br - Núcleo de Informação e Coordenação do Ponto BR, organização responsável prinicpalmente pelo registro.br, pelo cgi.br (Comitê Gestor da Internet no Brasil) e pelo IX.br - Pontos de troca de trafego brasileiros. O canal concentra as apresentações dos eventos do NIC onde divulgam-se tutoriais, discussões técnicas e políticas envolvendo a infraestrutura de internet Brasileira. _Tags: `internet`, `nic.br`, `dominios`, `redes`, `regulamentação`_
+
 ### Inteligência Artificial 🤖
 
 - [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) - Canal com foco em desenvolvimento em IOT. _Tags: `python`, `arduino`, `raspberry pi`_
@@ -181,9 +187,3 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Daniel Donda](https://www.youtube.com/user/DanielDonda) - Dicas sobre tecnologia, administração de redes, carreiras e certificação, hacking, segurança da informação e muito mais. _Tags: `seguranca da informação`, `cyber security`, `pentest`_
 - [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal focado em segurança da informação, segurança ofensiva, pentest, técnicas de ataques, dicas de segurança. _Tags: `seguranca da informação`_
 - [Xtreme Security](https://www.youtube.com/user/daybsonbruno) - Canal focado em compartilhar conhecimento entre os profissionais de Segurança da Informação incentivando estudantes e entusiastas da área. _Tags: `seguranca da informação`_
-
-### Infraestrutura 🖧 
-
-- [Canal do Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001) - Canal do entusiasta de Software Livre Paulo Kretcheu, onde levanta tópicos sobre Internet, Software Livre e outros tópicos relacionados. _Tags: `linux`, `redes`, `internet`_
-- [Eu faço a internet funcionar](https://www.youtube.com/channel/UCMsyeaScaqxDLmIGhTfSoNA) - Um canal que apresenta como a internet realmente funciona para além (e muitas vezes contra) o senso comum. _Tags: `internet`_
-- [NIC.br Videos](https://www.youtube.com/channel/UCscVLgae-2f9baEXhVbM1ng) - Canal oficial do NIC.br - Núcleo de Informação e Coordenação do Ponto BR, organização responsável prinicpalmente pelo registro.br, pelo cgi.br (Comitê Gestor da Internet no Brasil) e pelo IX.br - Pontos de troca de trafego brasileiros. O canal concentra as apresentações dos eventos do NIC onde divulgam-se tutoriais, discussões técnicas e políticas envolvendo a infraestrutura de internet Brasileira. _Tags: `internet`, `nic.br`, `dominios`, `redes`, `regulamentação`_
