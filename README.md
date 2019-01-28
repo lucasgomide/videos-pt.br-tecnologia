@@ -30,6 +30,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 	- [Games :video_game:](#games-video_game)
 	- [Lógica de Programacao](#l%C3%B3gica-de-programacao)
 	- [Segurança 🔐](#seguran%C3%A7a-)
+	- [Infraestrutura 🖧 ](#infraestrutura-)
 
 
 ### Banco de Dados & Bancos Não Relacionais 💾
@@ -180,3 +181,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Daniel Donda](https://www.youtube.com/user/DanielDonda) - Dicas sobre tecnologia, administração de redes, carreiras e certificação, hacking, segurança da informação e muito mais. _Tags: `seguranca da informação`, `cyber security`, `pentest`_
 - [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal focado em segurança da informação, segurança ofensiva, pentest, técnicas de ataques, dicas de segurança. _Tags: `seguranca da informação`_
 - [Xtreme Security](https://www.youtube.com/user/daybsonbruno) - Canal focado em compartilhar conhecimento entre os profissionais de Segurança da Informação incentivando estudantes e entusiastas da área. _Tags: `seguranca da informação`_
+
+### Infraestrutura 🖧 
+
+- [Eu faço a internet funcionar](https://www.youtube.com/channel/UCMsyeaScaqxDLmIGhTfSoNA) - Um canal que apresenta como a internet realmente funciona para além (e muitas vezes contra) o senso comum. _Tags: `internet`_
