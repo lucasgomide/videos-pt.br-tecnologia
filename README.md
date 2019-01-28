@@ -26,6 +26,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 	- [Desenvolvimento Front-End 💻](#desenvolvimento-front-end-)
 	- [Desenvolvimento Mobile Nativo & Híbrido 📱](#desenvolvimento-mobile-nativo--h%C3%ADbrido-)
 	- [Entrevista, Webinars & Dicas 📣](#entrevista-webinars--dicas-)
+	- [Infraestrutura 🖧 ](#infraestrutura-)
 	- [Inteligência Artificial 🤖](#intelig%C3%AAncia-artificial-)
 	- [Games :video_game:](#games-video_game)
 	- [Lógica de Programacao](#l%C3%B3gica-de-programacao)
@@ -150,6 +151,12 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Vue.js Brasil](https://www.youtube.com/channel/UC9DvZyV1QU3Y0-Tpv97oAxw) - Canal focado em Vue.js e JavaScript que conta com hangouts semanais sobre temas diversos no universo front-end e vídeos com dicas de desenvolvimento. _Tags: `javascript`,`vuejs`_
 - [William Oliveira](https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw) - Com o Will você aprender tudo o que gostaria de saber sobre desenvolvimento de software e não tinha a quem perguntar. Rolam videos, lives, tudo sem firula e startupismo. E ah, já tem video lá falando do salário de pessoas programadoras, então corre e não esquece do like. _Tags `carreira em ti`, `entrevistas`_
 - [WoMakersCode](https://www.youtube.com/womakerscode) - Iniciativa sem fins lucrativos para incentivar mulheres na TI, o WoMakersCode também possui um canal no YouTube com palestras e webinars principalmente sobre front-end e carreira. _Tags: `carreira em ti`, `html`, `css`, `javascript`, `front-end`_
+
+### Infraestrutura 🖧 
+
+- [Canal do Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001) - Canal do entusiasta de Software Livre Paulo Kretcheu, onde levanta tópicos sobre Internet, Software Livre e outros tópicos relacionados. _Tags: `linux`, `redes`, `internet`_
+- [Eu faço a internet funcionar](https://www.youtube.com/channel/UCMsyeaScaqxDLmIGhTfSoNA) - Um canal que apresenta como a internet realmente funciona para além (e muitas vezes contra) o senso comum. _Tags: `internet`_
+- [NIC.br Videos](https://www.youtube.com/channel/UCscVLgae-2f9baEXhVbM1ng) - Canal oficial do NIC.br - Núcleo de Informação e Coordenação do Ponto BR, organização responsável prinicpalmente pelo registro.br, pelo cgi.br (Comitê Gestor da Internet no Brasil) e pelo IX.br - Pontos de troca de trafego brasileiros. O canal concentra as apresentações dos eventos do NIC onde divulgam-se tutoriais, discussões técnicas e políticas envolvendo a infraestrutura de internet Brasileira. _Tags: `internet`, `nic.br`, `dominios`, `redes`, `regulamentação`_
 
 ### Inteligência Artificial 🤖
 
