@@ -64,12 +64,14 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) - Um dos canais mais conhecidos por todos os brasileiros. Macoratti possui inúmeros tutoriais, desde do Front-End desde ao Back-End, abordando assim, inúmeros tópicos. _Tags: `asp.net`, `asp.net core`, `react native`, `angularjs`, `xamarin`, `visual basic`, `c#`, `sql`_
 - [Marcos Azevedo](https://www.youtube.com/channel/UC9l968_q3tSQIRROvJPesow/) - O canal e focado em compartilhar conhecimento para que todos possam aprender tudo sobre programação JAVA. _Tags: `java`, `spring-boot`, `linux`_
 - [Michelli Brito](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow) - Este canal apresenta um conteúdo relacionado a programação web, utilizando principalmente a linguagem Java e o Spring Framework. _Tags:`java`_
+- [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/videos) - Canal que disponibiliza vários webinars sobre desenvolvimento com Node.js. _Tags: `javascript`,`nodejs`_
 - [One Bit Code](https://www.youtube.com/channel/UC44Mzz2-5TpyfklUCQ5NuxQ) - O One Bit Code nasceu como um blog dedicado ao mundo da programação, em especial *Ruby on Rails*. No canal é disponibizado posts, tutoriais, screencasts e dicas sobre temas que envolvem linhas de códigos. _Tags:`ruby on rails`, `carreira em ti`, `entrevista`_
 - [Portal Programando](https://www.youtube.com/PortalProgramando) - O objetivo do canal é apresentar conceitos de algoritmos, programação e dicas da área de tecnologia. É apresentado também cursos completos e cursos práticos de pequena duração. O conteúdo do canal está disponível como podcast de mesmo nome. _Tags: `algoritimos`_
 - [Python Café](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg/) - Canal do Hallison Paz focado em desenvolvimento com Python, incluindo playlists de estruturas de dados e programação orientada a objetos com a linguagem. _Tags:`python`_
 - [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Programação para iniciantes com Python. _Tags:`python`_
 - [Tiago Matos](https://www.youtube.com/user/tiagomatosweb) - Canal focado em vídeo aulas sobre Vue.js._Tags: `laravel`, `javascript`, `css`, `sass`, `vuejs`_
 - [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
+
 
 ### Desenvolvimento Front-End 💻
 
@@ -159,7 +161,10 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 - [Canal do Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001) - Canal do entusiasta de Software Livre Paulo Kretcheu, onde levanta tópicos sobre Internet, Software Livre e outros tópicos relacionados. _Tags: `linux`, `redes`, `internet`_
 - [Eu faço a internet funcionar](https://www.youtube.com/channel/UCMsyeaScaqxDLmIGhTfSoNA) - Um canal que apresenta como a internet realmente funciona para além (e muitas vezes contra) o senso comum. _Tags: `internet`_
+- [Getup Cloud](https://www.youtube.com/getupcloud) - Dicas sobre cloud e Kubernetes. _Tags: `devops`, `docker`, `kubernetes`_
+- [LinuxTips](https://www.youtube.com/linuxtips) - Dicas interessantes sobre Linux, Docker, Cloud e DevOps. _Tags: `linux`, `devops`, `docker`, `kubernetes`_
 - [NIC.br Videos](https://www.youtube.com/channel/UCscVLgae-2f9baEXhVbM1ng) - Canal oficial do NIC.br - Núcleo de Informação e Coordenação do Ponto BR, organização responsável prinicpalmente pelo registro.br, pelo cgi.br (Comitê Gestor da Internet no Brasil) e pelo IX.br - Pontos de troca de trafego brasileiros. O canal concentra as apresentações dos eventos do NIC onde divulgam-se tutoriais, discussões técnicas e políticas envolvendo a infraestrutura de internet Brasileira. _Tags: `internet`, `nic.br`, `dominios`, `redes`, `regulamentação`_
+
 
 ### Inteligência Artificial 🤖
 
