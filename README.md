@@ -162,7 +162,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [William Oliveira](https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw) - Com o Will você aprender tudo o que gostaria de saber sobre desenvolvimento de software e não tinha a quem perguntar. Rolam videos, lives, tudo sem firula e startupismo. E ah, já tem video lá falando do salário de pessoas programadoras, então corre e não esquece do like. _Tags `carreira em ti`, `entrevistas`_
 - [WoMakersCode](https://www.youtube.com/womakerscode) - Iniciativa sem fins lucrativos para incentivar mulheres na TI, o WoMakersCode também possui um canal no YouTube com palestras e webinars principalmente sobre front-end e carreira. _Tags: `carreira em ti`, `html`, `css`, `javascript`, `front-end`_
 
-### Infraestrutura 🖧 
+### Infraestrutura 🖧
 
 - [Canal do Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001) - Canal do entusiasta de Software Livre Paulo Kretcheu, onde levanta tópicos sobre Internet, Software Livre e outros tópicos relacionados. _Tags: `linux`, `redes`, `internet`_
 - [Eu faço a internet funcionar](https://www.youtube.com/channel/UCMsyeaScaqxDLmIGhTfSoNA) - Um canal que apresenta como a internet realmente funciona para além (e muitas vezes contra) o senso comum. _Tags: `internet`_
@@ -176,7 +176,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) - Canal com foco em desenvolvimento em IOT. _Tags: `python`, `arduino`, `raspberry pi`_
 - [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ) - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada. _Tags: `inteligência artifical`, `deep learning`, `data science`_
 - [Canal TI](https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ) - O Canal TI produz vídeos relacionados a Tecnologia da Informação em geral. _Tags: `inteligência artificial`, `php`, `arquitetura da informação`_
-- [ML4U](https://www.youtube.com/channel/UCMSGXqLEE1q5NqG3hjA5vCg/) - Canal criado pelo professor Ricardo Melo, onde ele aborda algoritmos de Aprendizado de Máquina, Ciência de Dados e Inteligência Artificial, explicando desde a teoria à prática. _Tags: `deep learning`, `data science`, `carreira em ti`, `entrevistas`_
+- [ML4U](https://www.youtube.com/channel/UCMSGXqLEE1q5NqG3hjA5vCg/) - Canal criado pelo professor Rodrigo Mello, onde ele aborda algoritmos de Aprendizado de Máquina, Ciência de Dados e Inteligência Artificial, explicando desde a teoria à prática. _Tags: `deep learning`, `data science`, `carreira em ti`, `entrevistas`_
 - [O programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg) - Conselhos, dicas e truques para o dia a dia do desenvolvedor de software. _Tags `carreira em ti`, `entrevistas`_
 
 ### Games :video_game:
