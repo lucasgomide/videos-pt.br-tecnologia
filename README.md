@@ -77,6 +77,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Thulio Bittencourt](https://www.youtube.com/channel/UCs19XXHJtVgqBahCEAQEiIg) - Canal focado em Delphi, MongoDB, FirebirdSQL, ORM e JavaScript. Apresenta algumas séries com dicas e cursos. _Tags:`Delphi`,`MeteorJS`, `MongoDB`, `FirebirdSQL`, `RAD - Rapid Application Development`_
 - [Tiago Matos](https://www.youtube.com/user/tiagomatosweb) - Canal focado em vídeo aulas sobre Vue.js._Tags: `laravel`, `javascript`, `css`, `sass`, `vuejs`_
 - [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
+- [Wouerner](https://www.youtube.com/user/wouerner) - Canal do *Wouerner* falando sobre PHP, certificação ZCE e alguns frameworks Lumen e Laravel. _Tags:`php`,`zce`,`lumen`,`laravel`_
 
 
 ### Desenvolvimento Front-End 💻
@@ -109,7 +110,9 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Webdesign em Foco](https://www.youtube.com/channel/UCL-mk7btv-dHI5hY2Tl1GHg) - Canal focado no Desenvolvimento Web. _Tags: `javascript`,`html`, `css`, `php`, `react`, `bootstrap`_
 - [Webschool.io](https://www.youtube.com/c/webschool-io) - Canal focado em desenvolvimento web, abordando muito javascript, css, vue, node, git, programação funcional e muito mais. _Tags: `javascript`,`node`,`angular`,`vue`,`es6`, `saas`,`css`, `git`_
 - [William Justen Cursos](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ) - Um Screencast focado em Desenvolvimento Web, abordando assuntos como HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais, com cursos ministrados pelo William Justen. _Tags: `javascript`,`html`, `css`, `svg`,`react`, `canvas`_
+- [Wouerner](https://www.youtube.com/user/wouerner) - Canal do *Wouerner* falando sobre Javascript com foco no VueJS. _Tags:`javascript`,`vuejs`_
 - [WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew) - De web design à desenvolvimento, aqui você encontra de tudo em videos didáticos e incriveis. _Tags `carreira em ti`, `entrevistas`_
+
 
 ### Desenvolvimento Mobile Nativo & Híbrido 📱
 
