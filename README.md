@@ -78,7 +78,6 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Tiago Matos](https://www.youtube.com/user/tiagomatosweb) - Canal focado em vídeo aulas sobre Vue.js._Tags: `laravel`, `javascript`, `css`, `sass`, `vuejs`_
 - [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
 
-
 ### Desenvolvimento Front-End 💻
 
 - [201 Front-End](https://www.youtube.com/channel/UCZXLQtYuKWpPq2Oaf5zpzhg) - Canal com conteúdos relacionados ao desenvolvimento Front-End. Interfaces amigáveis, programação de animações, estética de interfaces, plugins e bibliotecas, dentre outros assuntos. _Tags: `front-end`,`html`,`css`,`ui design`,`web design`_
@@ -109,6 +108,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Webdesign em Foco](https://www.youtube.com/channel/UCL-mk7btv-dHI5hY2Tl1GHg) - Canal focado no Desenvolvimento Web. _Tags: `javascript`,`html`, `css`, `php`, `react`, `bootstrap`_
 - [Webschool.io](https://www.youtube.com/c/webschool-io) - Canal focado em desenvolvimento web, abordando muito javascript, css, vue, node, git, programação funcional e muito mais. _Tags: `javascript`,`node`,`angular`,`vue`,`es6`, `saas`,`css`, `git`_
 - [William Justen Cursos](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ) - Um Screencast focado em Desenvolvimento Web, abordando assuntos como HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais, com cursos ministrados pelo William Justen. _Tags: `javascript`,`html`, `css`, `svg`,`react`, `canvas`_
+- [Wouerner](https://www.youtube.com/user/wouerner) - Canal do *Wouerner* falando sobre Javascript com foco no VueJS e um pouquinho de PHP. _Tags:`javascript`,`vuejs`,`php`_
 - [WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew) - De web design à desenvolvimento, aqui você encontra de tudo em videos didáticos e incriveis. _Tags `carreira em ti`, `entrevistas`_
 
 ### Desenvolvimento Mobile Nativo & Híbrido 📱
