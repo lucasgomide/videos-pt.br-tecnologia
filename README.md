@@ -180,6 +180,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Canal TI](https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ) - O Canal TI produz vídeos relacionados a Tecnologia da Informação em geral. _Tags: `inteligência artificial`, `php`, `arquitetura da informação`_
 - [ML4U](https://www.youtube.com/channel/UCMSGXqLEE1q5NqG3hjA5vCg/) - Canal criado pelo professor Rodrigo Mello, onde ele aborda algoritmos de Aprendizado de Máquina, Ciência de Dados e Inteligência Artificial, explicando desde a teoria à prática. _Tags: `deep learning`, `data science`, `carreira em ti`, `entrevistas`_
 - [O programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg) - Conselhos, dicas e truques para o dia a dia do desenvolvedor de software. _Tags `carreira em ti`, `entrevistas`_
+- [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - O Universo Programado é um canal com foco em inteligência artificial, mostrando a IA jogando joguinhos clássicos e explicando-a. _Tags: `inteligência artificial`_
 
 ### Games :video_game:
 
