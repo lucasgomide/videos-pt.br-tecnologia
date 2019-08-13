@@ -17,7 +17,7 @@ Por favor, para manter o padrão de alta qualidade desta lista, contribua soment
 
 ## Sugestões
 
-Se você quiser discultir algo ou sugerir modificações que levarão a qualidade desta lista para um novo patamar, fique à vontade para abrir uma issue. Issues são contribuições tão valiosas quanto Pull Requests.
+Se você quiser discutir algo ou sugerir modificações que levarão a qualidade desta lista para um novo patamar, fique à vontade para abrir uma issue. Issues são contribuições tão valiosas quanto Pull Requests.
 
 Muito obrigado!
 
