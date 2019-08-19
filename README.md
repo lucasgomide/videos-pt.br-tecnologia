@@ -31,6 +31,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 	- [Games :video_game:](#games-video_game)
 	- [Lógica de Programacao](#l%C3%B3gica-de-programacao)
 	- [Segurança 🔐](#seguran%C3%A7a-)
+	- [Streaming](#streaming)
 
 
 ### Banco de Dados & Bancos Não Relacionais 💾
@@ -207,3 +208,9 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Daniel Donda](https://www.youtube.com/user/DanielDonda) - Dicas sobre tecnologia, administração de redes, carreiras e certificação, hacking, segurança da informação e muito mais. _Tags: `seguranca da informação`, `cyber security`, `pentest`_
 - [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal focado em segurança da informação, segurança ofensiva, pentest, técnicas de ataques, dicas de segurança. _Tags: `seguranca da informação`_
 - [Xtreme Security](https://www.youtube.com/user/daybsonbruno) - Canal focado em compartilhar conhecimento entre os profissionais de Segurança da Informação incentivando estudantes e entusiastas da área. _Tags: `seguranca da informação`_
+
+### Streaming
+- [EduardoRFS](https://www.twitch.tv/eduardorfs) - Streaming da twitch focado principalmente em projetos com programação funcional. _Tags: `twitch`, `programaçao funcional`_
+- [Heybrunoandrade](https://www.twitch.tv/heybrunoandrade) - Streaming da twitch que desenvolve projetos usando principalmente ReactJS. _Tags: `twitch`, `reactjs`, `javascript`_
+- [Jmarcolan](https://www.twitch.tv/jmarcolan) - Streaming da twitch que desenvolve projetos usando tecnologias como php, javascript e mysql. _Tags: `twitch`, `php`, `javascript`, `mysql`_
+- [Mbernardes19](https://www.twitch.tv/mbernardes19) - Streaming da twitch focado principalmente em projetos com JavaScript. _Tags: `twitch`, `javascript`_
