@@ -89,13 +89,4 @@ class ReadmeCheckerTest < Test::Unit::TestCase
 
     assert(false, "As requests para os canais #{failed_requests.join(',')} falharam") if failed_requests.size > 0
   end
-
-  def test_link_starts_with
-    links_value = ->(node) { node.map { |elem| elem.attributes['href'].value } }
-    links = elements.map(&links_value).flatten
-
-    links.each do |link|
-      assert(false, "O link '#{link}' não possui o protocolo ou dominio específicado na Contributing Guideline. O esperado é que o link comece com 'https://www.youtube.com'") unless link =~ /^https\:\/\/www\.youtube\.com/
-    end
-  end
 end

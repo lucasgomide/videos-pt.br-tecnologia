@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/carolcodes/youtube-br-desenvolvimento.svg?branch=master)](https://travis-ci.org/carolcodes/youtube-br-desenvolvimento) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Build Status](https://travis-ci.org/carolcodes/videos-pt.br-tecnologia.svg?branch=master)](https://travis-ci.org/carolcodes/videos-pt.br-tecnologia) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # Canais Brasileiros para Pessoas Desenvolvedoras
 
@@ -12,9 +12,9 @@ Agradecimentos especiais para [Glaucia](https://github.com/glaucia86) e [Lucas](
 
 ## Contribuições 📌
 
-Pedimos, por favor, que dêem uma olhada nas **[Diretrizes de Contribuição](https://github.com/carolcodes/youtube-br-desenvolvimento/blob/master/CONTRIBUTING.md)** antes. E desde já, agradecemos a todos os contribuidores. Vocês são demais! ❤️❤️
+Pedimos, por favor, que dêem uma olhada nas **[Diretrizes de Contribuição](https://github.com/carolcodes/videos-pt.br-tecnologia/blob/master/CONTRIBUTING.md)** antes. E desde já, agradecemos a todos os contribuidores. Vocês são demais! ❤️❤️
 
-Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/carolcodes/youtube-br-desenvolvimento/issues)** nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
+Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/carolcodes/videos-pt.br-tecnologia/issues)** nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
 
 ## Conteúdos 🔥
 
