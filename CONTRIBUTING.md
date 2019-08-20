@@ -1,13 +1,12 @@
 # Como Contribuir
 
-Esta lista foi feita para a comunidade e não seria possível manter isso sem vocês. Obrigado à [todos que colaboraram](https://github.com/carolcodes/youtube-br-desenvolvimento/graphs/contributors).
+Esta lista foi feita para a comunidade e não seria possível manter isso sem vocês. Obrigado à [todos que colaboraram](https://github.com/carolcodes/videos-pt.br-tecnologia/graphs/contributors).
 
 ## Fazendo Modificações
 
-- Cada item deve possuir o link do canal e uma descrição.
+- Cada item deve possuir o link do video/streaming e uma descrição.
 - O item precisa estar ordenado por ordem *alfabética*.
-- O link deve conter o nome canal.
-- O link deve começar com `https://www.youtube.com`.
+- O link deve conter o título do conteúdo.
 - A descrição deve ser clara e concisa.
 - A descrição deve ser seguida pelo link, na mesma linha, separado por hífen (-) e finalizada com ponto final.
 - O canal deve possuir tags. As tags devem vir após a descrição e estar em itálico, por exemplo: "Esta é a descrição do canal. _Tags: `minhas`, `tag1`, `tag2`_"
