@@ -4,7 +4,7 @@
 
 <img align="right" srcset="https://i.imgsafe.org/2c/2c024270b3.gif, https://i.imgsafe.org/2c/2c024270b3.gif 1.5x, https://i.imgsafe.org/2c/2c024270b3.gif 2x" src="https://i.imgsafe.org/2c/2c024270b3.gif" width="150px;" />
 
-Repositório responsável em listar Canais no Youtube sobre Desenvolvimento e Programação em Português.
+Repositório responsável em listar Canais no Youtube ou Streaming sobre Tecnologia, Desenvolvimento e Programação em Português.
 
 Esse projeto foi baseado no projeto **[Awesome](https://awesome.re)**
 
