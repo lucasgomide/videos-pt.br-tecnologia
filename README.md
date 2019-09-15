@@ -40,7 +40,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Sthefane Soares - Vida Programação](https://www.youtube.com/channel/UCcgvGfLMZ8Xh8lxhFPMqjLw) - Canal que trata de programação e opinião própria sobre softwares. Para apaixonados por Tecnologia da Informação. _Tags: `java`,`android`, `ionic`, `c#`, `sql`_
 
 ### Desenvolvimento Back-End 💻
-
+- [Análise e Desenvolvimento de Sistemas](https://www.youtube.com/channel/UCRmQU2P7K0V25082ShyJ7nw/featured) - Professor aborda diversos conteúdos de desenvolvimento, desde básico como "variáveis". Muito conteúdo de qualidade de código e testes automatizados. `python`, `testes`, `logica`
 - [Andre Baltieri](https://www.youtube.com/user/andrebaltieri) - Aqui você vai encontrar conteúdo sobre desenvolvimento de aplicações Web na plataforma .NET e muito JavaScript. _Tags: `.net`, `javascript`_
 - [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg) - Canal com foco em desenvolvimento WEB. _Tags: `nodejs`, `entrevistas`, `carreira em ti`, `.net`, `c#`, `angular`_
 - [Bruno Rocha - Python e Flask](https://www.youtube.com/channel/UCMre98RDRijOX_fvG1gnsYg) - Aprenda Python e Flask com Bruno Rocha. _Tags: `python`, `flask`, `web`_
