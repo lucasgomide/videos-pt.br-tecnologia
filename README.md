@@ -253,3 +253,6 @@ Repositório de canais no Youtube BR sobre desenvolvimento e programação.
 
 [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
 - Canal aborda a experiência pessoal do Fabio Akita, que trabalha na área há décadas, sua visão sobre linguagens, metodologias de estudo, questões sobre a área em geral e Blockchain.
+
+[Análise e Desenvolvimento de Sistemas](https://www.youtube.com/channel/UCRmQU2P7K0V25082ShyJ7nw/featured)
+- Canal de um professor que aborda diversos assuntos do desenvolvimento. Muito conteúdo de qualidade de código, testes automatizados, Python, até conteúdos mais básicos, por exemplo "variáveis".
