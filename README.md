@@ -204,7 +204,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Canal do Código](https://www.youtube.com/channel/UCvtP8QFmYE9zpDrxxhFEwTg/playlists) - O Canal do Código possui alguns cursos sobre estruturas de dados e lógica de programação, focado em resolução de problemas e Java. _Tags: `java`, `lógica de programacao`_
 - [RBtech](https://www.youtube.com/user/RBTechinfo) - Canal onde você encontra aulas e cursos sobre hardware, desenvolvimento web, design e criação. Cursos de lógica de programação, PHP, Android, HTML e CSS, JavaScript, Git e muito mais. _Tags: `javascript`, `html`, `css`, `carreira em ti`, `arduino`_
 - [Zurubabel](https://www.youtube.com/channel/UCqWo_iZvIALqgmXkzJ8S0Sg) - De JavaScript a lógica proposicional, de Java a estatística, esse canal possui dezenas de cursos completos. _Tags:`java`, `inteligência artificial`, `hardware`, `unity`, `css`, `html`, `javascript`, `python`_
-- [All Electronics](https://www.youtube.com/user/AllEletronicsGR/playlists) - Vai encontrar playlists de lógica booleana, portas lógicas, circuitos lógicos e também tem um curso básico de arduino. E muitos outros vídeos voltados para lógica e eletrônica. _Tags: `arduino`, `portas lógicas`, `hardware`, `FPGA`, `VHDL`, `eletrônica` _
+- [All Electronics](https://www.youtube.com/user/AllEletronicsGR/playlists) - Vai encontrar playlists de lógica booleana, portas lógicas, circuitos lógicos e também tem um curso básico de arduino. E muitos outros vídeos voltados para lógica e eletrônica. _Tags: `arduino`, `portas lógicas`, `hardware`, `FPGA`, `VHDL`, `eletrônica`_
 
 ### Segurança 🔐
 
