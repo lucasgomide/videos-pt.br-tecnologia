@@ -204,7 +204,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 - [Canal do Código](https://www.youtube.com/channel/UCvtP8QFmYE9zpDrxxhFEwTg/playlists) - O Canal do Código possui alguns cursos sobre estruturas de dados e lógica de programação, focado em resolução de problemas e Java. _Tags: `java`, `lógica de programacao`_
 - [RBtech](https://www.youtube.com/user/RBTechinfo) - Canal onde você encontra aulas e cursos sobre hardware, desenvolvimento web, design e criação. Cursos de lógica de programação, PHP, Android, HTML e CSS, JavaScript, Git e muito mais. _Tags: `javascript`, `html`, `css`, `carreira em ti`, `arduino`_
-- [Ronaldo F. Ramos](https://www.youtube.com/user/ronaldoframo) - Canal sobre lógica de programação usando pytohn e inteligência artificial. _Tags: `lógica de programacao`, `inteligência artificial`, `python`_
+- [Ronaldo F. Ramos](https://www.youtube.com/user/ronaldoframo) - Canal sobre lógica de programação usando python e inteligência artificial. _Tags: `lógica de programação`, `inteligência artificial`, `python`_
 - [Zurubabel](https://www.youtube.com/channel/UCqWo_iZvIALqgmXkzJ8S0Sg) - De JavaScript a lógica proposicional, de Java a estatística, esse canal possui dezenas de cursos completos. _Tags:`java`, `inteligência artificial`, `hardware`, `unity`, `css`, `html`, `javascript`, `python`_
 
 ### Segurança 🔐
