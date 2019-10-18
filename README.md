@@ -187,7 +187,8 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) - Canal com foco em desenvolvimento em IOT. _Tags: `python`, `arduino`, `raspberry pi`_
 - [Canal Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ) - O objetivo do canal é mostrar como desenvolver aplicações de Data Science, Aprendizagem de Máquina (machine Learning) utilizando grandes massas de dados contidos em armazenamentos Big Data, tudo isso de forma bem humorada. _Tags: `inteligência artifical`, `deep learning`, `data science`_
 - [Canal TI](https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ) - O Canal TI produz vídeos relacionados a Tecnologia da Informação em geral. _Tags: `inteligência artificial`, `php`, `arquitetura da informação`_
-- [ML4U](https://www.youtube.com/channel/UCMSGXqLEE1q5NqG3hjA5vCg/) - Canal criado pelo professor Rodrigo Mello, onde ele aborda algoritmos de Aprendizado de Máquina, Ciência de Dados e Inteligência Artificial, explicando desde a teoria à prática. _Tags: `deep learning`, `data science`, `carreira em ti`, `entrevistas`_
+- [Didática Tech](https://www.youtube.com/channel/UC0BiVs5EYh57gzGVvhddjsA) - O Canal aborda temas relacionados à inteligência artificial, aprendizagem de máquina (machine learning), ciência de dados, matemática, programação e outros assuntos ligados à tecnologia. _Tags: `aprendizagem de máquina`, `ciência de dados`, `inteligência artificial`, `matemática`_
+- [ML4U](https://www.youtube.com/channel/UCMSGXqLEE1q5NqG3hjA5vCg/) - Canal criado pelo professor Rodrigo Mello, onde ele aborda algoritmos de Aprendizado de Máquina, Ciência de Dados e Inteligência Artificial, explicando desde a teoria à prática. _Tags: `aprendizagem de máquina`,`deep learning`, `data science`, `carreira em ti`, `entrevistas`_
 - [O programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg) - Conselhos, dicas e truques para o dia a dia do desenvolvedor de software. _Tags `carreira em ti`, `entrevistas`_
 - [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - O Universo Programado é um canal com foco em inteligência artificial, mostrando a IA jogando joguinhos clássicos e explicando-a. _Tags: `inteligência artificial`_
 
@@ -204,8 +205,8 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 - [Canal do Código](https://www.youtube.com/channel/UCvtP8QFmYE9zpDrxxhFEwTg/playlists) - O Canal do Código possui alguns cursos sobre estruturas de dados e lógica de programação, focado em resolução de problemas e Java. _Tags: `java`, `lógica de programacao`_
 - [RBtech](https://www.youtube.com/user/RBTechinfo) - Canal onde você encontra aulas e cursos sobre hardware, desenvolvimento web, design e criação. Cursos de lógica de programação, PHP, Android, HTML e CSS, JavaScript, Git e muito mais. _Tags: `javascript`, `html`, `css`, `carreira em ti`, `arduino`_
-- [Ronaldo F. Ramos](https://www.youtube.com/user/ronaldoframo) - Canal sobre lógica de programação usando python e inteligência artificial. _Tags: `lógica de programação`, `inteligência artificial`, `python`_
-- [Zurubabel](https://www.youtube.com/channel/UCqWo_iZvIALqgmXkzJ8S0Sg) - De JavaScript a lógica proposicional, de Java a estatística, esse canal possui dezenas de cursos completos. _Tags:`java`, `inteligência artificial`, `hardware`, `unity`, `css`, `html`, `javascript`, `python`_
+- [Ronaldo F. Ramos](https://www.youtube.com/user/ronaldoframo) - Canal sobre lógica de programação usando python e inteligência artificial. _Tags: `inteligência artificial`, `lógica de programação`, `python`_
+- [Zurubabel](https://www.youtube.com/channel/UCqWo_iZvIALqgmXkzJ8S0Sg) - De JavaScript a lógica proposicional, de Java a estatística, esse canal possui dezenas de cursos completos. _Tags: `aprendizagem de máquina`, `java`, `inteligência artificial`, `hardware`, `unity`, `css`, `html`, `javascript`, `python`_
 
 ### Segurança 🔐
 
