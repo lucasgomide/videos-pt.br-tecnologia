@@ -82,6 +82,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Techiesse](https://www.youtube.com/channel/UCTjD7yoMG-pNFqy50FE0u5A/featured) - Aulas, tutoriais e vídeos sobre tecnologia, engenharia, telecomunicações e programação. Aulas de MATLAB, Scilab ou programação. _Tags: `lua`, `matlab`_
 - [Thulio Bittencourt](https://www.youtube.com/channel/UCs19XXHJtVgqBahCEAQEiIg) - Canal focado em Delphi, MongoDB, FirebirdSQL, ORM e JavaScript. Apresenta algumas séries com dicas e cursos. _Tags:`Delphi`,`MeteorJS`, `MongoDB`, `FirebirdSQL`, `RAD - Rapid Application Development`_
 - [Tiago Matos](https://www.youtube.com/user/tiagomatosweb) - Canal focado em vídeo aulas sobre Vue.js._Tags: `laravel`, `javascript`, `css`, `sass`, `vuejs`_
+- [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) - Neste canal, o Mango ensina técnicas avançadas de arquitetura de software e design patterns. _Tags: `TDD`, `Clean Architecture `, `javascript`, `typescript`, `nodejs`, `git`_
 - [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
 
 ### Desenvolvimento Front-End 💻
