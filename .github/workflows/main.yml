@@ -1,0 +1,38 @@
+name: Github CI
+
+on:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  unit:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        ruby: [2.5]
+
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Set up Ruby ${{ matrix.ruby }}
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: ${{ matrix.ruby }}
+
+      - name: Install bundler
+        run: gem install bundler -v '<2'
+
+      - name: Cache dependencies
+        uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile') }}-${{ matrix.ruby }}
+
+      - name: Install dependencies
+        run: |
+          bundle install --jobs 4 --retry 3
+
+      - name: Unit test with Rspec test suite
+        run: ruby readme_checker_test.rb
