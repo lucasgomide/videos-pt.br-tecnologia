@@ -10,7 +10,7 @@ Esta lista foi feita para a comunidade e não seria possível manter isso sem vo
 - A descrição deve ser clara e concisa.
 - A descrição deve ser seguida pelo link, na mesma linha, separado por hífen (-) e finalizada com ponto final.
 - O canal deve possuir tags. As tags devem vir após a descrição e estar em itálico, por exemplo: "Esta é a descrição do canal. _Tags: `minhas`, `tag1`, `tag2`_"
-- Pelo menos 3 items são necessário para a criação de uma nova categoria.
+- Pelo menos 3 itens são necessários para a criação de uma nova categoria.
 
 Por favor, para manter o padrão de alta qualidade desta lista, contribua somente com o que você acredita ser útil.
 
@@ -26,4 +26,4 @@ Muito obrigado!
 - A mensagem de commit deve ser descrita no tempo verbal do presente. Ela deve descrever o que o commit faz e não o que você fez.
 - Para sua PR ser aceita:
   - Deve ser revisada e aprovada por pelo menos 1 colaborador.
-  - Deve passar no checks do CI.
+  - Deve passar nos checks do CI.
