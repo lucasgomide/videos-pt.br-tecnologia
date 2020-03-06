@@ -43,7 +43,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 - [Andre Baltieri](https://www.youtube.com/user/andrebaltieri) - Aqui você vai encontrar conteúdo sobre desenvolvimento de aplicações Web na plataforma .NET e muito JavaScript. _Tags: `.net`, `javascript`_
 - [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg) - Canal com foco em desenvolvimento WEB. _Tags: `nodejs`, `entrevistas`, `carreira em ti`, `.net`, `c#`, `angular`_
-- [Bruno Rocha - Python e Flask](https://www.youtube.com/channel/UCMre98RDRijOX_fvG1gnsYg) - Aprenda Python e Flask com Bruno Rocha. _Tags: `python`, `flask`, `web`_
+- [Bruno Rocha - Python e Rust](https://www.youtube.com/channel/UCMre98RDRijOX_fvG1gnsYg) - Aprenda Python e Rust com Bruno Rocha. _Tags: `python`, `rust`, `flask`, `web`_
 - [Canal dotNET](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg/playlists) - Canal para desenvolvedores que desejam aprender a desenvolver software com o .NET Framework. _Tags: `entrevistas`, `azure`, `testes`, `.net`_
 - [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) - Canal pertencente a [Celke](https://celke.com.br/) que aborda as linguagens de programação Back-End PHP e NodeJS. _Tags: `php`,`nodejs`,`bootstrap`,`cakephp`_
 - [Code Experts Learning](https://www.youtube.com/channel/UCaXHZLldk54oEwDDAxY_i4A) - Canal pertencente a [Code Experts Learning](https://codeexpertslearning.com.br/), escola online de programação na prática, com foco em desenvolvimento web e mobile, mostrando as principais tendências do mercado de desenvolvimento. _Tags: `php`,`nodejs`,`ionic`,`laravel`,`symfony`_
