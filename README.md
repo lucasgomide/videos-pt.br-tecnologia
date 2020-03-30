@@ -76,6 +76,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/videos) - Canal que disponibiliza vários webinars sobre desenvolvimento com Node.js. _Tags: `javascript`,`nodejs`_
 - [One Bit Code](https://www.youtube.com/channel/UC44Mzz2-5TpyfklUCQ5NuxQ) - O One Bit Code nasceu como um blog dedicado ao mundo da programação, em especial *Ruby on Rails*. No canal é disponibilizado posts, tutoriais, screencasts e dicas sobre temas que envolvem linhas de códigos. _Tags:`ruby on rails`, `carreira em ti`, `entrevista`_
 - [Otávio Miranda](https://www.youtube.com/channel/UCORZcu08VQiRCKpVGHTWwAA) - O canal do Otávio Miranda fala de diversas tecnologias como php, python, linux, wordpress. _Tags:`linux`, `php`, `python`_
+- [Pedro A Pacheco](https://www.youtube.com/user/pedropachecoa/videos?view_as=subscriber) - Canal do *Dev* Pedro Alexandre Pacheco, Canal com conteúdo original sobre tecnologia, com dicas de web scraping, nodejs, javascript, automação de processos e etc.... Sempre preocupado em utilizar a tecnologia na PRÁTICA. _Tags: `web scraping`,`nodejs`, `automação`,`javascript`_
 - [Portal Programando](https://www.youtube.com/PortalProgramando) - O objetivo do canal é apresentar conceitos de algoritmos, programação e dicas da área de tecnologia. É apresentado também cursos completos e cursos práticos de pequena duração. O conteúdo do canal está disponível como podcast de mesmo nome. _Tags: `algoritimos`_
 - [Python Café](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg/) - Canal do Hallison Paz focado em desenvolvimento com Python, incluindo playlists de estruturas de dados e programação orientada a objetos com a linguagem. _Tags:`python`_
 - [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Programação para iniciantes com Python. _Tags:`python`_
@@ -86,6 +87,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Tiago Matos](https://www.youtube.com/user/tiagomatosweb) - Canal focado em vídeo aulas sobre Vue.js._Tags: `laravel`, `javascript`, `css`, `sass`, `vuejs`_
 - [Upinside](https://www.youtube.com/user/UpInsideBr) - Canal focado em desenvolvimento backend com PHP moderno e Laravel, além de podcasts com dicas sobre programação e carreira. _Tags: `php`, `laravel`, `carreira`_
 - [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
+
 
 ### Desenvolvimento Front-End 💻
 
