@@ -86,6 +86,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Tiago Matos](https://www.youtube.com/user/tiagomatosweb) - Canal focado em vídeo aulas sobre Vue.js._Tags: `laravel`, `javascript`, `css`, `sass`, `vuejs`_
 - [Upinside](https://www.youtube.com/user/UpInsideBr) - Canal focado em desenvolvimento backend com PHP moderno e Laravel, além de podcasts com dicas sobre programação e carreira. _Tags: `php`, `laravel`, `carreira`_
 - [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
+- [Pedro A Pacheco](https://www.youtube.com/user/pedropachecoa/videos?view_as=subscriber) - Canal do *Dev* Pedro Alexandre Pacheco, Canal com conteúdo original sobre tecnologia, com dicas de web scraping, nodejs, javascript, automação de processos e etc.... Sempre preocupado em utilizar a tecnologia na PRÁTICA. _Tags: `web scraping`,`nodejs`, `automação`,`javascript`_
 
 ### Desenvolvimento Front-End 💻
 
