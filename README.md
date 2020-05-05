@@ -21,16 +21,18 @@ Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/
 Procuramos ordenar os conteúdos e criar uma navegação amigável, visando facilitar a busca por conteúdos e temas. Bastam clicar em algum conteúdo que te interesse, e vòilá!
 
 - [Canais Brasileiros para Pessoas Desenvolvedoras](#canais-brasileiros-para-pessoas-desenvolvedoras)
-	- [Banco de Dados & Bancos Não Relacionais 💾](#banco-de-dados--bancos-n%C3%A3o-relacionais-)
-	- [Desenvolvimento Back-End 💻](#desenvolvimento-back-end-)
-	- [Desenvolvimento Front-End 💻](#desenvolvimento-front-end-)
-	- [Desenvolvimento Mobile Nativo & Híbrido 📱](#desenvolvimento-mobile-nativo--h%C3%ADbrido-)
-	- [Entrevista, Webinars & Dicas 📣](#entrevista-webinars--dicas-)
-	- [Infraestrutura 🖧 ](#infraestrutura-)
-	- [Inteligência Artificial 🤖](#intelig%C3%AAncia-artificial-)
-	- [Games :video_game:](#games-video_game)
-	- [Lógica de Programacao](#l%C3%B3gica-de-programacao)
-	- [Segurança 🔐](#seguran%C3%A7a-)
+	- [Contribuições 📌](#contribui%c3%a7%c3%b5es-%f0%9f%93%8c)
+	- [Conteúdos 🔥](#conte%c3%bados-%f0%9f%94%a5)
+		- [Banco de Dados & Bancos Não Relacionais 💾](#banco-de-dados--bancos-n%c3%a3o-relacionais-%f0%9f%92%be)
+		- [Desenvolvimento Back-End 💻](#desenvolvimento-back-end-%f0%9f%92%bb)
+		- [Desenvolvimento Front-End 💻](#desenvolvimento-front-end-%f0%9f%92%bb)
+		- [Desenvolvimento Mobile Nativo & Híbrido 📱](#desenvolvimento-mobile-nativo--h%c3%adbrido-%f0%9f%93%b1)
+		- [Entrevista, Webinars & Dicas 📣](#entrevista-webinars--dicas-%f0%9f%93%a3)
+		- [Infraestrutura 🖧](#infraestrutura-%f0%9f%96%a7)
+		- [Inteligência Artificial 🤖](#intelig%c3%aancia-artificial-%f0%9f%a4%96)
+		- [Games :video_game:](#games-videogame)
+		- [Lógica de Programacao](#l%c3%b3gica-de-programacao)
+		- [Segurança 🔐](#seguran%c3%a7a-%f0%9f%94%90)
 
 
 ### Banco de Dados & Bancos Não Relacionais 💾
@@ -109,7 +111,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) - Aprenda Javascript, NodeJs, React e muito mais! Dicas e tutoriais sobre programação para você se tornar um profissional mais qualificado. _Tags: `javascript`, `nodejs`, `react`, `html`, `css`_
 - [Escola Front-End](https://www.youtube.com/c/EscolaFrontend) - Canal que disponibiliza conteúdo referente a aprendizagem do mundo Front-End, Desde Simples Sites em HTML,CSS e JS até Frameworks JS. _Tags: `javascript`, `html`, `css`_
 - [Fabio Vedovelli](https://www.youtube.com/user/vedovelli) - O canal tem o foco principal desenvolvimento de Front-End. _Tags: `vuejs`, `react`, `angular`, `laravel`_
-- [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA) - Canal que fala sobre Desenvolvimento web, JavaScript, PWA, AMP e WordPress _Tags: `JavaScript`, `PWA`, `AMP`, `WordPress`_
+- [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA) - Conteúdo sobre Desenvolvimento web, JavaScript, PWA, AMP e WordPress. _Tags: `JavaScript`, `PWA`, `AMP`, `WordPress`_
 - [Guilherme Chinaglia](https://www.youtube.com/channel/UCEkMd3Bw_bVUuGbXU0sFPSg) - Vídeos sobre Programação, Tecnologia e Empreendedorismo. _Tags: `html5`, `css3`, `javascript`_
 - [JWDev Treinamentos](https://www.youtube.com/channel/UC-nuC9rI-GnfdWubIzN7FRA) - O canal que fala sobre tecnologia de uma forma diferente, sem essa de Hello World! Aqui vamos sempre usar das ferramentas de desenvolvimento para recriar de forma inusitada programas consagrados. _Tags: `javascript`, `games`, `layouts`, `css`, `typescript`, `react`, `angular`, `node.js`, `rxjs`_
 - [Keven Jesus](https://www.youtube.com/channel/UCn2jh8rvEePP9s61z-H1P1w) - Canal do instrutor de programação Keven Jesus, com um bom material para quem está iniciando em JavaScript. _Tags: `javascript`, `bootstrap`_
