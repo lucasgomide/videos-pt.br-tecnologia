@@ -20,18 +20,7 @@ Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/
 
 Procuramos ordenar os conteúdos e criar uma navegação amigável, visando facilitar a busca por conteúdos e temas. Bastam clicar em algum conteúdo que te interesse, e vòilá!
 
-- [Canais Brasileiros para Pessoas Desenvolvedoras](#canais-brasileiros-para-pessoas-desenvolvedoras)
-	- [Banco de Dados & Bancos Não Relacionais 💾](#banco-de-dados--bancos-n%C3%A3o-relacionais-)
-	- [Desenvolvimento Back-End 💻](#desenvolvimento-back-end-)
-	- [Desenvolvimento Front-End 💻](#desenvolvimento-front-end-)
-	- [Desenvolvimento Mobile Nativo & Híbrido 📱](#desenvolvimento-mobile-nativo--h%C3%ADbrido-)
-	- [Entrevista, Webinars & Dicas 📣](#entrevista-webinars--dicas-)
-	- [Infraestrutura 🖧 ](#infraestrutura-)
-	- [Inteligência Artificial 🤖](#intelig%C3%AAncia-artificial-)
-	- [Games :video_game:](#games-video_game)
-	- [Lógica de Programacao](#l%C3%B3gica-de-programacao)
-	- [Segurança 🔐](#seguran%C3%A7a-)
-
+- [Canais Brasileiros para Pessoas Desenvolvedoras](#canais-brasileiros-para-pessoas-desenvolvedoras) - [Banco de Dados & Bancos Não Relacionais 💾](#banco-de-dados--bancos-n%C3%A3o-relacionais-) - [Desenvolvimento Back-End 💻](#desenvolvimento-back-end-) - [Desenvolvimento Front-End 💻](#desenvolvimento-front-end-) - [Desenvolvimento Mobile Nativo & Híbrido 📱](#desenvolvimento-mobile-nativo--h%C3%ADbrido-) - [Entrevista, Webinars & Dicas 📣](#entrevista-webinars--dicas-) - [Infraestrutura 🖧 ](#infraestrutura-) - [Inteligência Artificial 🤖](#intelig%C3%AAncia-artificial-) - [Games :video_game:](#games-video_game) - [Lógica de Programacao](#l%C3%B3gica-de-programacao) - [Segurança 🔐](#seguran%C3%A7a-)
 
 ### Banco de Dados & Bancos Não Relacionais 💾
 
@@ -47,7 +36,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) - Canal pertencente a [Celke](https://celke.com.br/) que aborda as linguagens de programação Back-End PHP e NodeJS. _Tags: `php`,`nodejs`,`bootstrap`,`cakephp`_
 - [Code Experts Learning](https://www.youtube.com/channel/UCaXHZLldk54oEwDDAxY_i4A) - Canal pertencente a [Code Experts Learning](https://codeexpertslearning.com.br/), escola online de programação na prática, com foco em desenvolvimento web e mobile, mostrando as principais tendências do mercado de desenvolvimento. _Tags: `php`,`nodejs`,`ionic`,`laravel`,`symfony`_
 - [CodeShow](https://www.youtube.com/channel/UCMre98RDRijOX_fvG1gnsYg) - Python e Rust com Bruno Rocha. _Tags: `python`, `rust`, `flask`, `web`_
-- [Código Logo](https://www.youtube.com/channel/UCwZFL945LUQcF9OpEWSfbeg) - Canal com foco em desenvolvimento utilizando diversas linguagens de programação, ministrado por Pedro Lima. Aborda a metodologia de tutoriais. Disponilibiliza conteúdos exelentes sobre Inteligência Artificial, Keras, TensorFlow e outras. _Tags: `.net`,  `c#`,`c`, `c++`, `python`, `Keras`, `TensorFlow`, `inteligência artificial`_
+- [Código Logo](https://www.youtube.com/channel/UCwZFL945LUQcF9OpEWSfbeg) - Canal com foco em desenvolvimento utilizando diversas linguagens de programação, ministrado por Pedro Lima. Aborda a metodologia de tutoriais. Disponilibiliza conteúdos exelentes sobre Inteligência Artificial, Keras, TensorFlow e outras. _Tags: `.net`, `c#`,`c`, `c++`, `python`, `Keras`, `TensorFlow`, `inteligência artificial`_
 - [Coding Night](https://www.youtube.com/channel/UCLoVnmvp0fYn-BCK7yKTxUQ) - Canal para compartilhar conhecimento em diversas tecnologias para desenvolvimento de software, principalmente na plataforma Microsoft. _Tags: `.net`, `c#`, `DevOps`, `entrevistas`_
 - [Como Programar Melhor](https://www.youtube.com/channel/UCwUtX5abMMaL8KkryVJx09w) - Canal do Raniere Silva com dicas e reflexões sobre desenvolvimento, além de cursos de C#. _Tags: `c#`, `.net`, `entrevista`, `carreira em ti`_
 - [Curso Em Video](https://www.youtube.com/user/cursosemvideo) - No canal do Curso em video são encontrados diversos cursos na àrea de tecnologia, sendo alguns deles com foco em programação e desenvolvimento web. _Tags: `python`, `javascript`, `html`, `java`, `sql`, `php`_
@@ -75,20 +64,19 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Marcos Azevedo](https://www.youtube.com/channel/UC9l968_q3tSQIRROvJPesow/) - O canal e focado em compartilhar conhecimento para que todos possam aprender tudo sobre programação JAVA. _Tags: `java`, `spring-boot`, `linux`_
 - [Michelli Brito](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow) - Este canal apresenta um conteúdo relacionado a programação web, utilizando principalmente a linguagem Java e o Spring Framework. _Tags:`java`_
 - [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/videos) - Canal que disponibiliza vários webinars sobre desenvolvimento com Node.js. _Tags: `javascript`,`nodejs`_
-- [One Bit Code](https://www.youtube.com/channel/UC44Mzz2-5TpyfklUCQ5NuxQ) - O One Bit Code nasceu como um blog dedicado ao mundo da programação, em especial *Ruby on Rails*. No canal é disponibilizado posts, tutoriais, screencasts e dicas sobre temas que envolvem linhas de códigos. _Tags:`ruby on rails`, `carreira em ti`, `entrevista`_
+- [One Bit Code](https://www.youtube.com/channel/UC44Mzz2-5TpyfklUCQ5NuxQ) - O One Bit Code nasceu como um blog dedicado ao mundo da programação, em especial _Ruby on Rails_. No canal é disponibilizado posts, tutoriais, screencasts e dicas sobre temas que envolvem linhas de códigos. _Tags:`ruby on rails`, `carreira em ti`, `entrevista`_
 - [Otávio Miranda](https://www.youtube.com/channel/UCORZcu08VQiRCKpVGHTWwAA) - O canal do Otávio Miranda fala de diversas tecnologias como php, python, linux, wordpress. _Tags:`linux`, `php`, `python`_
-- [Pedro A Pacheco](https://www.youtube.com/user/pedropachecoa/videos?view_as=subscriber) - Canal do *Dev* Pedro Alexandre Pacheco, Canal com conteúdo original sobre tecnologia, com dicas de web scraping, nodejs, javascript, automação de processos e etc.... Sempre preocupado em utilizar a tecnologia na PRÁTICA. _Tags: `web scraping`,`nodejs`, `automação`,`javascript`_
+- [Pedro A Pacheco](https://www.youtube.com/user/pedropachecoa/videos?view_as=subscriber) - Canal do _Dev_ Pedro Alexandre Pacheco, Canal com conteúdo original sobre tecnologia, com dicas de web scraping, nodejs, javascript, automação de processos e etc.... Sempre preocupado em utilizar a tecnologia na PRÁTICA. _Tags: `web scraping`,`nodejs`, `automação`,`javascript`_
 - [Portal Programando](https://www.youtube.com/PortalProgramando) - O objetivo do canal é apresentar conceitos de algoritmos, programação e dicas da área de tecnologia. É apresentado também cursos completos e cursos práticos de pequena duração. O conteúdo do canal está disponível como podcast de mesmo nome. _Tags: `algoritimos`_
 - [Python Café](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg/) - Canal do Hallison Paz focado em desenvolvimento com Python, incluindo playlists de estruturas de dados e programação orientada a objetos com a linguagem. _Tags:`python`_
 - [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Programação para iniciantes com Python. _Tags:`python`_
-- [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) - Neste canal, o Mango ensina técnicas avançadas de arquitetura de software e design patterns. _Tags: `TDD`, `Clean Architecture `, `javascript`, `typescript`, `nodejs`, `git`_
+- [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) - Neste canal, o Mango ensina técnicas avançadas de arquitetura de software e design patterns. _Tags: `TDD`, `Clean Architecture`, `javascript`, `typescript`, `nodejs`, `git`_
 - [TDevRocks](https://www.youtube.com/channel/UCKmWWUSI6m51A8a-bZ0dQNw) - Programação Delphi Desktop, Web e Mobile para todos os níveis, incluindo dicas, cursos grátis, Clean Code e RestFULL. _Tags:`Delphi`, `Mobile`, `RestFULL`, `DataSnap`_
 - [Techiesse](https://www.youtube.com/channel/UCTjD7yoMG-pNFqy50FE0u5A/featured) - Aulas, tutoriais e vídeos sobre tecnologia, engenharia, telecomunicações e programação. Aulas de MATLAB, Scilab ou programação. _Tags: `lua`, `matlab`_
 - [Thulio Bittencourt](https://www.youtube.com/channel/UCs19XXHJtVgqBahCEAQEiIg) - Canal focado em Delphi, MongoDB, FirebirdSQL, ORM e JavaScript. Apresenta algumas séries com dicas e cursos. _Tags:`Delphi`,`MeteorJS`, `MongoDB`, `FirebirdSQL`, `RAD - Rapid Application Development`_
 - [Tiago Matos](https://www.youtube.com/user/tiagomatosweb) - Canal focado em vídeo aulas sobre Vue.js._Tags: `laravel`, `javascript`, `css`, `sass`, `vuejs`_
 - [Upinside](https://www.youtube.com/user/UpInsideBr) - Canal focado em desenvolvimento backend com PHP moderno e Laravel, além de podcasts com dicas sobre programação e carreira. _Tags: `php`, `laravel`, `carreira`_
-- [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do *Software Engineer* Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
-
+- [Waldemar Neto](https://www.youtube.com/user/waldemaneto/featured) - Canal do _Software Engineer_ Waldemar Neto, contendo muita informação sobre diversas tecnologias atuais como Docker, Elasticsearch, Node.Js e muito mais. _Tags: `javascript`,`nodejs`, `php`_
 
 ### Desenvolvimento Front-End 💻
 
@@ -104,7 +92,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Danki Code](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ) - Vídeos sobre Programação, Marketing digital e Empreendedorismo. _Tags: `html`, `carreira em ti`_
 - [Descompila](https://www.youtube.com/user/CanalSamuelson) - Dicas, sacadas e tutoriais para você tornar-se um profissional completo ou um devPleno. _Tags: `javascript`, `react`, `react native`, `carreira em ti`_
 - [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g) - O DevDojo é um canal de cursos gratuitos de desenvolvimento, como Java e TypeScript. _Tags: `java`, `typescript`_
-- [DeveloperDeck101](https://www.youtube.com/channel/UCj75B_51OXb9qH15wiHs-Hw) - O DeveloperDeck101 é um canal que ensina novas tecnologias passo a passo e sem complicação._Tags:  `javascript`, `react`, `react-native`,  `bootstrap`,  `flexbox`,  `docker`,  `aws`_
+- [DeveloperDeck101](https://www.youtube.com/channel/UCj75B_51OXb9qH15wiHs-Hw) - O DeveloperDeck101 é um canal que ensina novas tecnologias passo a passo e sem complicação._Tags: `javascript`, `react`, `react-native`, `bootstrap`, `flexbox`, `docker`, `aws`_
 - [DevPleno](https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww/featured) - Dicas, sacadas e tutoriais para você tornar-se um profissional completo ou um devPleno. _Tags: `javascript`, `react`, `react native`, `carreira em ti`_
 - [Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) - Aprenda Javascript, NodeJs, React e muito mais! Dicas e tutoriais sobre programação para você se tornar um profissional mais qualificado. _Tags: `javascript`, `nodejs`, `react`, `html`, `css`_
 - [Escola Front-End](https://www.youtube.com/c/EscolaFrontend) - Canal que disponibiliza conteúdo referente a aprendizagem do mundo Front-End, Desde Simples Sites em HTML,CSS e JS até Frameworks JS. _Tags: `javascript`, `html`, `css`_
@@ -124,7 +112,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Webdesign em Foco](https://www.youtube.com/channel/UCL-mk7btv-dHI5hY2Tl1GHg) - Canal focado no Desenvolvimento Web. _Tags: `javascript`,`html`, `css`, `php`, `react`, `bootstrap`_
 - [Webschool.io](https://www.youtube.com/c/webschool-io) - Canal focado em desenvolvimento web, abordando muito javascript, css, vue, node, git, programação funcional e muito mais. _Tags: `javascript`,`node`,`angular`,`vue`,`es6`, `saas`,`css`, `git`_
 - [William Justen Cursos](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ) - Um Screencast focado em Desenvolvimento Web, abordando assuntos como HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais, com cursos ministrados pelo William Justen. _Tags: `javascript`,`html`, `css`, `svg`,`react`, `canvas`_
-- [Wouerner](https://www.youtube.com/user/wouerner) - Canal do *Wouerner* falando sobre Javascript com foco no VueJS e um pouquinho de PHP. _Tags:`javascript`,`vuejs`,`php`_
+- [Wouerner](https://www.youtube.com/user/wouerner) - Canal do _Wouerner_ falando sobre Javascript com foco no VueJS e um pouquinho de PHP. _Tags:`javascript`,`vuejs`,`php`_
 - [WTricks](https://www.youtube.com/channel/UCA97Pg29SezvcPIGsRHC8ew) - De web design à desenvolvimento, aqui você encontra de tudo em videos didáticos e incriveis. _Tags `carreira em ti`, `entrevistas`_
 
 ### Desenvolvimento Mobile Nativo & Híbrido 📱
@@ -137,6 +125,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Hugo Vasconcelos](https://www.youtube.com/user/tutoriais01) - 135 cursos, todos ministrados por Hugo Vasconcelos, em nosso canal sempre é disponibilizado os cursos básicos e diversas vídeo aulas sobre desenvolvimento todos os dias. _Tags: `c#`, `vb.net`, `sql`, `android`, `java`, `bootstrap`_
 - [Loiane Groner](https://www.youtube.com/user/Loianeg) - O canal da nossa Deusa da programação é repleto de conteúdos técnicos, desde suas palestras até cursos gratuitos (como o de Angular que está em andamento). _Tags: `java`, `javascript`, `angular`, `typescript`, `ionic`_
 - [Marcelo Simões](https://www.youtube.com/user/mhgs11) - Canal focado em desenvolvimento em Swift. _Tags: `swift`, `ios`_
+- [Renato Mota](https://www.youtube.com/channel/UCd-vLa_qcKve3CsDFlYiygA) - Focado em Desenvolvimento Mobile, e show room de novas tecnologias, focado em Ui e Ux. _Tags: `flutter`, `ui`, `ux`_
 - [Thiago Aguiar](https://www.youtube.com/user/empreendedormobile) - Canal focado em desenvolvimento iOS e Android. Que ajuda programadores comuns a se tornarem desenvolvedores Android extraordinários. _Tags: `swift`, `ios`,`android`,`kotlin`,`java`_
 - [Vinicius Thiengo](https://www.youtube.com/user/thiengoCalopsita) - Vídeos sobre Desenvolvimento Web, Desenvolvimento Android, Avaliação de Sites e Tutoriais de técnicas importantes para desenvolvedores. _Tags: `java`,`android`_
 
@@ -195,7 +184,6 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [LinuxTips](https://www.youtube.com/linuxtips) - Dicas interessantes sobre Linux, Docker, Cloud e DevOps. _Tags: `linux`, `devops`, `docker`, `kubernetes`_
 - [NIC.br Videos](https://www.youtube.com/channel/UCscVLgae-2f9baEXhVbM1ng) - Canal oficial do NIC.br - Núcleo de Informação e Coordenação do Ponto BR, organização responsável prinicpalmente pelo registro.br, pelo cgi.br (Comitê Gestor da Internet no Brasil) e pelo IX.br - Pontos de troca de trafego brasileiros. O canal concentra as apresentações dos eventos do NIC onde divulgam-se tutoriais, discussões técnicas e políticas envolvendo a infraestrutura de internet Brasileira. _Tags: `internet`, `nic.br`, `dominios`, `redes`, `regulamentação`_
 
-
 ### Inteligência Artificial 🤖
 
 - [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) - Canal com foco em desenvolvimento em IOT. _Tags: `python`, `arduino`, `raspberry pi`_
@@ -208,20 +196,19 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 ### Games :video_game:
 
-- [Davifo](https://www.youtube.com/channel/UCLKmrL8UuRczNPkr7VzW1ow/featured) - Canal com foco em desenvolvimento e monetização de jogos, abordando diversos assuntos que envolve não só o desenvolvimento como também estratégias para ganhos com produtos desenvolvidos. _Tags: `c#`, `unity 2D`, `unity 3D `, `desenvolvimento de jogos`, `entrevistas`, `carreira em ti`_
-- [GamesIndie - Tutoriais de Unity & Programação](https://www.youtube.com/user/GamesIndie/featured) - Canal do Bruno, sobre tutoriais com foco em pessoas iniciantes no mundo do desenvolvimento de jogos 2D e 3D usando a Unity engine.  _Tags: `c#`, `unity 2D`, `unity 3D `, `desenvolvimento de jogos`_
+- [Davifo](https://www.youtube.com/channel/UCLKmrL8UuRczNPkr7VzW1ow/featured) - Canal com foco em desenvolvimento e monetização de jogos, abordando diversos assuntos que envolve não só o desenvolvimento como também estratégias para ganhos com produtos desenvolvidos. _Tags: `c#`, `unity 2D`, `unity 3D`, `desenvolvimento de jogos`, `entrevistas`, `carreira em ti`_
+- [GamesIndie - Tutoriais de Unity & Programação](https://www.youtube.com/user/GamesIndie/featured) - Canal do Bruno, sobre tutoriais com foco em pessoas iniciantes no mundo do desenvolvimento de jogos 2D e 3D usando a Unity engine. _Tags: `c#`, `unity 2D`, `unity 3D`, `desenvolvimento de jogos`_
 - [Gus Game Dev](https://www.youtube.com/channel/UCoxRNjIDKlzxxl8OOJub6CA) - Canal de tutoriais de desenvolvimento de jogos 2D em Godot, Unity e Construct. _Tags: `unit 2D`, `Construct`, `Godot`_
-- [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ) - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos. _Tags: `c#`, `unity 3D `, `desenvolvimento de jogos`_
+- [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ) - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e assuntos correlato ao mundo dos jogos. _Tags: `c#`, `unity 3D`, `desenvolvimento de jogos`_
 - [Paulo (We make a game)](https://www.youtube.com/user/wemakeagame) - Canal voltado a criação de jogos autorais e tutoriais de desenvolvimento, nas palavras do criador, também conhecido como Paulo: "Esse canal é destinado a comunidade de desenvolvedores de jogos, aprenda, compartilhe e complemente". _Tags: `c#`, `unity 3D`, `desenvolvimento de jogos`_
 - [PRX 3D - Praxinoscopio](https://www.youtube.com/user/praxinoscopio3d) - Canal com foco em marketing digital, modelagem 3d e tutoriais de desenvolvimento de jogos com unity. _Tags: `c#`, `unity 3D`, `desenvolvimento de jogos`_
 
 ### Lógica de Programacao
+
 - [All Electronics](https://www.youtube.com/user/AllEletronicsGR/playlists) - Vai encontrar playlists de lógica booleana, portas lógicas, circuitos lógicos e também tem um curso básico de arduino. E muitos outros vídeos voltados para lógica e eletrônica. _Tags: `arduino`, `portas lógicas`, `hardware`, `FPGA`, `VHDL`, `eletrônica`_
 - [Canal do Código](https://www.youtube.com/channel/UCvtP8QFmYE9zpDrxxhFEwTg/playlists) - O Canal do Código possui alguns cursos sobre estruturas de dados e lógica de programação, focado em resolução de problemas e Java. _Tags: `java`, `lógica de programacao`_
 - [RBtech](https://www.youtube.com/user/RBTechinfo) - Canal onde você encontra aulas e cursos sobre hardware, desenvolvimento web, design e criação. Cursos de lógica de programação, PHP, Android, HTML e CSS, JavaScript, Git e muito mais. _Tags: `javascript`, `html`, `css`, `carreira em ti`, `arduino`_
 - [Zurubabel](https://www.youtube.com/channel/UCqWo_iZvIALqgmXkzJ8S0Sg) - De JavaScript a lógica proposicional, de Java a estatística, esse canal possui dezenas de cursos completos. _Tags:`java`, `inteligência artificial`, `hardware`, `unity`, `css`, `html`, `javascript`, `python`_
-
-
 
 ### Segurança 🔐
 
