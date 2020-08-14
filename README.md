@@ -40,7 +40,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Sthefane Soares - Vida Programação](https://www.youtube.com/channel/UCcgvGfLMZ8Xh8lxhFPMqjLw) - Canal que trata de programação e opinião própria sobre softwares. Para apaixonados por Tecnologia da Informação. _Tags: `java`,`android`, `ionic`, `c#`, `sql`_
 
 ### Desenvolvimento Back-End 💻
-- [Ana Beatriz Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) - Vídeos com projetos utilizando Java, Kotlin, Angular, Docker, AWS e Programação reativa. _Tags: `java`,`kotlin`, `angular`, `docker`, `aws`, `programação reativa`_
+- [Ana Beatriz Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA) - Vídeos com projetos utilizando Java, Kotlin, Angular, Docker, AWS e Programação reativa. _Tags: `java`,`kotlin`, `angular`, `docker`, `aws`, `programação reativa`_ 
 - [Andre Baltieri](https://www.youtube.com/user/andrebaltieri) - Aqui você vai encontrar conteúdo sobre desenvolvimento de aplicações Web na plataforma .NET e muito JavaScript. _Tags: `.net`, `javascript`_
 - [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg) - Canal com foco em desenvolvimento WEB. _Tags: `nodejs`, `entrevistas`, `carreira em ti`, `.net`, `c#`, `angular`_
 - [Canal dotNET](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg/playlists) - Canal para desenvolvedores que desejam aprender a desenvolver software com o .NET Framework. _Tags: `entrevistas`, `azure`, `testes`, `.net`_
