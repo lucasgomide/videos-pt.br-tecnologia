@@ -11,7 +11,7 @@ jobs:
 
     strategy:
       matrix:
-        ruby: [2.5]
+        ruby: [2.6]
 
     steps:
       - uses: actions/checkout@v1
@@ -22,7 +22,7 @@ jobs:
           ruby-version: ${{ matrix.ruby }}
 
       - name: Install bundler
-        run: gem install bundler -v '<2'
+        run: gem install bundler
 
       - name: Cache dependencies
         uses: actions/cache@v1
