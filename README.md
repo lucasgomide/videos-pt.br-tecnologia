@@ -1,5 +1,5 @@
 ![Build Status](https://github.com/lucasgomide/videos-pt.br-tecnologia/workflows/Github%20CI/badge.svg)
-
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # Canais Brasileiros para Pessoas Desenvolvedoras
 
 <img align="right" srcset="https://i.imgsafe.org/2c/2c024270b3.gif, https://i.imgsafe.org/2c/2c024270b3.gif 1.5x, https://i.imgsafe.org/2c/2c024270b3.gif 2x" src="https://i.imgsafe.org/2c/2c024270b3.gif" width="150px;" />
