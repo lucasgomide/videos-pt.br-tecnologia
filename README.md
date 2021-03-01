@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # Canais Brasileiros para Pessoas Desenvolvedoras
 
-<img align="right" srcset="https://i.imgsafe.org/2c/2c024270b3.gif, https://i.imgsafe.org/2c/2c024270b3.gif 1.5x, https://i.imgsafe.org/2c/2c024270b3.gif 2x" src="https://i.imgsafe.org/2c/2c024270b3.gif" width="150px;" />
+<img align="right" srcset="https://user-images.githubusercontent.com/5209129/109561498-01f1db80-7abc-11eb-96ad-ce314dfc76c9.gif, https://user-images.githubusercontent.com/5209129/109561498-01f1db80-7abc-11eb-96ad-ce314dfc76c9.gif 1.5x, https://user-images.githubusercontent.com/5209129/109561498-01f1db80-7abc-11eb-96ad-ce314dfc76c9.gif 2x" src="https://user-images.githubusercontent.com/5209129/109561498-01f1db80-7abc-11eb-96ad-ce314dfc76c9.gif" width="150px;" />
 
 Este projeto foi idealizado e criado pela [Carol](https://github.com/carolsoaressantos)
 
