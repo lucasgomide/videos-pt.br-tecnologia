@@ -1,6 +1,6 @@
 # Como Contribuir
 
-Esta lista foi feita para a comunidade e não seria possível manter isso sem vocês. Obrigado à [todos que colaboraram](https://github.com/carolcodes/videos-pt.br-tecnologia/graphs/contributors).
+Esta lista foi feita para a comunidade e não seria possível manter isso sem vocês. Obrigado à [todos que colaboraram](https://github.com/lucasgomide/videos-pt.br-tecnologia/graphs/contributors).
 
 ## Fazendo Modificações
 
