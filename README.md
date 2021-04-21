@@ -1,8 +1,10 @@
-![Build Status](https://github.com/carolcodes/youtube-br-desenvolvimento/workflows/Github%20CI/badge.svg)
-
+![Build Status](https://github.com/lucasgomide/videos-pt.br-tecnologia/workflows/Github%20CI/badge.svg)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # Canais Brasileiros para Pessoas Desenvolvedoras
 
-<img align="right" srcset="https://i.imgsafe.org/2c/2c024270b3.gif, https://i.imgsafe.org/2c/2c024270b3.gif 1.5x, https://i.imgsafe.org/2c/2c024270b3.gif 2x" src="https://i.imgsafe.org/2c/2c024270b3.gif" width="150px;" />
+<img align="right" srcset="https://user-images.githubusercontent.com/5209129/109561498-01f1db80-7abc-11eb-96ad-ce314dfc76c9.gif, https://user-images.githubusercontent.com/5209129/109561498-01f1db80-7abc-11eb-96ad-ce314dfc76c9.gif 1.5x, https://user-images.githubusercontent.com/5209129/109561498-01f1db80-7abc-11eb-96ad-ce314dfc76c9.gif 2x" src="https://user-images.githubusercontent.com/5209129/109561498-01f1db80-7abc-11eb-96ad-ce314dfc76c9.gif" width="150px;" />
+
+Este projeto foi idealizado e criado pela [Carol](https://github.com/carolsoaressantos)
 
 Repositório responsável em listar Canais no Youtube ou Streaming sobre Tecnologia, Desenvolvimento e Programação em Português.
 
@@ -12,9 +14,9 @@ Agradecimentos especiais para [Glaucia](https://github.com/glaucia86) e [Lucas](
 
 ## Contribuições 📌
 
-Pedimos, por favor, que dêem uma olhada nas **[Diretrizes de Contribuição](https://github.com/carolcodes/videos-pt.br-tecnologia/blob/master/CONTRIBUTING.md)** antes. E desde já, agradecemos a todos os contribuidores. Vocês são demais! ❤️❤️
+Pedimos, por favor, que dêem uma olhada nas **[Diretrizes de Contribuição](https://github.com/lucasgomide/videos-pt.br-tecnologia/blob/master/CONTRIBUTING.md)** antes. E desde já, agradecemos a todos os contribuidores. Vocês são demais! ❤️❤️
 
-Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/carolcodes/videos-pt.br-tecnologia/issues)** nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
+Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/lucasgomide/videos-pt.br-tecnologia/issues)** nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
 
 ## Conteúdos 🔥
 
@@ -57,6 +59,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [DevMasterTeam - Code & Learning](https://www.youtube.com/channel/UCkDJEKQpbxY9LFUwfEKNRbQ) - Canal com foco em videos curtos sem enrolação, com cursos de alta qualidade e atualizados. _Tags: `java`, `android`, `kotlin`, `git`_
 - [DevSoutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA) - Vídeos novos sobre o mundo da programação com jogos, desafios de Front End e várias outras coisas toda quinta feira as 11h \o/. _Tags: `javascript`, `jogos`, `css`, `react`_
 - [Django MOC](https://www.youtube.com/channel/UCexpfXtye8oLjTSW-wKipcw) - Canal com foco em desenvolvimento WEB voltado para: Python com Django. _Tags: `python`, `django`_
+- [edinei.dev](https://www.youtube.com/channel/UCkSe6llMT88LqEGrMROSUbA) - Você vai encontrar nesse canal C#, .NET, JavaScript, TypeScript e Python com Edinei Cavalcanti. _Tags: `.net`, `c#`, `python`, `nodejs`, `web`_
 - [Eduardo Mendes - Live de Python](https://www.youtube.com/user/mendesesduardo/featured) - Canal focado em Lives sobre o mundo de Python. _Tags: `python`, `carreira em ti`_
 - [Eduardo Pires](https://www.youtube.com/user/headfox) - Melhor canal para quem realmente quer aprender sobre padrões de desenvolvimento: SOLID, DDD, TDD tudo em C# & .NET. _Tags: `asp.net`, `c#`, `ddd`, `tdd`, `design patterns`_
 - [Engenharia Reversa](https://www.youtube.com/engenhariareversa) - Canal com vídeos didáticos e profundos sobre assuntos complexos da ciência da computação. _Tags: `ciência da computação`, `seguranca da informação`, `segurança e hacking`_
@@ -158,12 +161,12 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Fabio Akita](https://www.youtube.com/user/AkitaOnRails) - Canal aborda a experiência pessoal do Fabio Akita, que trabalha na área há décadas, sua visão sobre linguagens, metodologias de estudo, questões sobre a área em geral e Blockchain. _Tags: `ruby on rails`, `carreira em ti`_
 - [Fernanda Bernardo](https://www.youtube.com/user/nandinhabernardo) - O canal da Fernanda Bernardo está começando com uma série maravilhosa sobre comunicação, onde os assuntos que são tratados lá no @Help4Papers estão se tornando ótimos videos. Se você quer palestrar ou aprender a se comunicar melhor, assina agora o canal. _Tags: `carreira em ti`_
 - [Ferreira Studios](https://www.youtube.com/channel/UCztMwfGqsnPeGat7Np-bFKg) - Canal de desenvolvimento web, dicas e métodos sobre design e ferramentas criativas, do designer gráfico e desenvolvedor Leonardo Ferreira. _Tags: `design`_
-- [Filho da nuvem](https://www.youtube.com/filhodanuvem) - Um canal para ajudar semanalmente pessoas a dar o próximo passo na programação. Como criar projetos no GitHub, estudos sobre a linguagem Go e carreira em Portugal são alguns dos temas. _Tags `carreira em ti`, `golang`_
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - O lema do canal descreve bem o que o Filipe quer nos apresentar com seu conteúdo. Como diz a descrição: programação vai muito além da sintaxe. _Tags: `entrevistas`_
 - [Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA) - Vídeos sobre as melhores práticas de desenvolvimento de software com o objetivo de ajudar desenvolvedores a se tornarem FullCycle com estudos sobre o mundo dos Microserviços. _Tags: `linux`, `devops`, `docker`, `kubernetes`_
 - [Hackers House BR](https://www.youtube.com/channel/UCh1xOy7SP_KyRn4wTNVvFHw) - Aqui, rolam palestras em lives com pessoas incríveis da TI e com todo o tipo de conteúdo. Vale o play. _Tags: `docker`, `infra`, `back-end`, `front-end`, `carreira em ti`_
 - [Harlley Oliveira](https://www.youtube.com/channel/UCTJ1mLre8sT-d4KuvmQsSQA) - Canal sobre tecnologias, programação e dicas sobre a área de TI. _Tags: `carreira em ti`_
 - [Henrique Bastos](https://www.youtube.com/user/henriquebastosnet) - Muito conteúdo e dicas relacionadas ao mundo da programação, lives no estilo bate-papo com o Henrique e vários outros profissionais com muitos conhecimentos e experiências. _Tags: `python`, `django`, `carreira em ti`_
+- [IlustraDev](https://youtube.com/ilustradev) - Canal de vídeos ilustrativos sobre o mundo da programação, dicas e carreira. Possui conteúdo de vários temas como back-end, front-end, games, mobile, segurança da informação, e várias curiosidades da área. _Tags: `carreira em ti`, `back-end`, `front-end`_
 - [InfoQ Brasil](https://www.youtube.com/c/InfoQBrasil) - Canal de vídeos do site [InfoQ Brasil](https://www.infoq.com/br) contendo palestras de diversos eventos que ocorrem pelo Brasil, tais como [QCon São Paulo](https://qconsp.com), [The Conf](https://www.theconf.club/) e [PAPis](https://www.papis.io/). _Tags `carreira em ti`, `entrevistas`_
 - [Laboratório da Julia](https://www.youtube.com/channel/UChfu9xWITOvsXYLKm7hieSQ) - Canal da Julia, uma estudante de Engenharia da computação, onde compartilha videos sobre o seu dia na faculdade e seus projetos. _Tags `carreira em ti`, `entrevistas`_
 - [Leandro Bighetti](https://www.youtube.com/channel/UCKN63lTXUgCSjR5gPNDUjmw) - O Leandro Bighetti mora na Alemanha e compartilha tudo sobre como é ser desenvolvedor fora do país, como se virar com idiomas, linguagens utilizadas e várias dicas foda. Vai lá e não perde essa chance. _Tags `carreira em ti`, `entrevistas`_
@@ -218,6 +221,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Marcos Schultz](https://www.youtube.com/channel/UCsXIdvfp138xs1K1eTsaezQ) - Canal que aborda diversos tutoriais relacionado ao desenvolvimento usando C# e Unity3D, Possui um fórum para todos que desejarem compartilhar ou solucionar dúvidas relacionadas ao desenvolvimento na Unity3D e  assuntos correlato ao mundo dos jogos. _Tags: `c#`, `unity 3D `, `desenvolvimento de jogos`_
 - [Paulo (We make a game)](https://www.youtube.com/user/wemakeagame) - Canal voltado a criação de jogos autorais e tutoriais de desenvolvimento, nas palavras do criador, também conhecido como Paulo: "Esse canal é destinado a comunidade de desenvolvedores de jogos, aprenda, compartilhe e complemente". _Tags: `c#`, `unity 3D`, `desenvolvimento de jogos`_
 - [PRX 3D - Praxinoscopio](https://www.youtube.com/user/praxinoscopio3d) - Canal com foco em marketing digital, modelagem 3d e tutoriais de desenvolvimento de jogos com unity. _Tags: `c#`, `unity 3D`, `desenvolvimento de jogos`_
+- [Uniday Studio](https://www.youtube.com/c/UnidayStudio) - Canal com foco em desenvolvimento de jogos digitais, ensinando todo o passo a passo de como criar um jogo completo. _Tags: `upbge`, `python`, `desenvolvimento de jogos`, `blender`_
 
 ### Lógica de Programacao
 - [All Electronics](https://www.youtube.com/user/AllEletronicsGR/playlists) - Vai encontrar playlists de lógica booleana, portas lógicas, circuitos lógicos e também tem um curso básico de arduino. E muitos outros vídeos voltados para lógica e eletrônica. _Tags: `arduino`, `portas lógicas`, `hardware`, `FPGA`, `VHDL`, `eletrônica`_
@@ -230,6 +234,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 ### Segurança 🔐
 
 - [Bóson Treinamentos](https://www.youtube.com/user/bosontreinamentos/playlists?flow=grid&view=1) - Fábio dos Reis e a Bóson Treinamentos em Tecnologia criam cursos em vídeo de forma gratuita, com o intuito de disseminar conhecimento para o maior número de pessoas possível, com qualidade e facilidade de acesso. _Tags: `redes`, `base de dados`, `html`, `css`, `java`, `uml`, `php`, `python`, `sql`, `android`, `linux`, `javascript`_
+- [Cássio Batista Pereira](https://www.youtube.com/channel/UCTgINI4jGp9XRsh0AfWA1fg) - Aqui você curte os vídeos com diversas técnicas de segurança em código, diversas estratégias para implementar segurança em software, sacadas do mundo DevSecOps e AppSec em geral com foco em analistas e programadores, arquitetos e afins. _Tags: `appsec`,`cyber security`,`devsecops`,`seguranca da informação`,`sdlc`_ 
 - [CaveiraTech](https://www.youtube.com/caveiratech2) - Canal focado em segurança da informação, hacking e programação, onde Guilherme Junqueira ministra cursos gratuitos de python e segurança da informação, além de dicas e vlogs sobre TI. _Tags: `seguranca da informação`, `seguranca e hacking`, `nodejs`, `testes`, `sql`, `azure`, `docker`_
 - [Daniel Donda](https://www.youtube.com/user/DanielDonda) - Dicas sobre tecnologia, administração de redes, carreiras e certificação, hacking, segurança da informação e muito mais. _Tags: `seguranca da informação`, `cyber security`, `pentest`_
 - [diofeher](https://www.youtube.com/channel/UCOCOSHBTtaFEJYzlYjo8Zlw) - Dicas sobre tecnologia, desenvolvimento, trabalho remoto e segurança da informação. _Tags: `seguranca da informação`, `cyber security`, `pentest`, `desenvolvimento`, `python`, `javascript`_
