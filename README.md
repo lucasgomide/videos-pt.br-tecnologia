@@ -195,8 +195,8 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 ### Infraestrutura 🖧
 
-- [Canal do Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001) - Canal do entusiasta de Software Livre Paulo Kretcheu, onde levanta tópicos sobre Internet, Software Livre e outros tópicos relacionados. _Tags: `linux`, `redes`, `internet`_
 - [Canal do Eriberto Mota](https://www.youtube.com/user/eribertomota) - Canal do Debian Developer Eriberto Mota, onde aborda assuntos de Redes e Software Livre. _Tags: `linux`, `redes`, `internet`, `docker`_
+- [Canal do Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001) - Canal do entusiasta de Software Livre Paulo Kretcheu, onde levanta tópicos sobre Internet, Software Livre e outros tópicos relacionados. _Tags: `linux`, `redes`, `internet`_
 - [Eu faço a internet funcionar](https://www.youtube.com/channel/UCMsyeaScaqxDLmIGhTfSoNA) - Um canal que apresenta como a internet realmente funciona para além (e muitas vezes contra) o senso comum. _Tags: `internet`_
 - [Getup Cloud](https://www.youtube.com/getupcloud) - Dicas sobre cloud e Kubernetes. _Tags: `devops`, `docker`, `kubernetes`_
 - [LinuxTips](https://www.youtube.com/linuxtips) - Dicas interessantes sobre Linux, Docker, Cloud e DevOps. _Tags: `linux`, `devops`, `docker`, `kubernetes`_
