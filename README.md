@@ -223,6 +223,10 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [PRX 3D - Praxinoscopio](https://www.youtube.com/user/praxinoscopio3d) - Canal com foco em marketing digital, modelagem 3d e tutoriais de desenvolvimento de jogos com unity. _Tags: `c#`, `unity 3D`, `desenvolvimento de jogos`_
 - [Uniday Studio](https://www.youtube.com/c/UnidayStudio) - Canal com foco em desenvolvimento de jogos digitais, ensinando todo o passo a passo de como criar um jogo completo. _Tags: `upbge`, `python`, `desenvolvimento de jogos`, `blender`_
 
+### Linux & Open-source :penguin:
+- [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA) - O canal Diolinux tem como objetivo apresentar o mundo Linux e open-source na forma que qualquer pessoa possa consumir. Você encontrará como principais conteúdos: Aprender o uso de ferramentas linux/open-source e review de Distros Linux. _Tags: `linux`, `open-source`, `reviews`_
+- [Mateus Muller](https://www.youtube.com/channel/UCeLm2Lzs0-CBsgiEyGXXI8g) - Canal que incentiva a cultura open-source por meios de vídeos didáticos sobre diversos assuntos, sendo eles Linux, programação, redes, carreira, segurança e muito mais. _Tags: `linux`, `open-source`, `infraestrutura`, `devops`_
+
 ### Lógica de Programacao
 - [All Electronics](https://www.youtube.com/user/AllEletronicsGR/playlists) - Vai encontrar playlists de lógica booleana, portas lógicas, circuitos lógicos e também tem um curso básico de arduino. E muitos outros vídeos voltados para lógica e eletrônica. _Tags: `arduino`, `portas lógicas`, `hardware`, `FPGA`, `VHDL`, `eletrônica`_
 - [Canal do Código](https://www.youtube.com/channel/UCvtP8QFmYE9zpDrxxhFEwTg/playlists) - O Canal do Código possui alguns cursos sobre estruturas de dados e lógica de programação, focado em resolução de problemas e Java. _Tags: `java`, `lógica de programacao`_
