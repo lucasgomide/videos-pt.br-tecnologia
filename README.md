@@ -199,7 +199,6 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [Canal do Paulo Kretcheu](https://www.youtube.com/user/kretcheu2001) - Canal do entusiasta de Software Livre Paulo Kretcheu, onde levanta tópicos sobre Internet, Software Livre e outros tópicos relacionados. _Tags: `linux`, `redes`, `internet`_
 - [Eu faço a internet funcionar](https://www.youtube.com/channel/UCMsyeaScaqxDLmIGhTfSoNA) - Um canal que apresenta como a internet realmente funciona para além (e muitas vezes contra) o senso comum. _Tags: `internet`_
 - [Getup Cloud](https://www.youtube.com/getupcloud) - Dicas sobre cloud e Kubernetes. _Tags: `devops`, `docker`, `kubernetes`_
-- [LinuxTips](https://www.youtube.com/linuxtips) - Dicas interessantes sobre Linux, Docker, Cloud e DevOps. _Tags: `linux`, `devops`, `docker`, `kubernetes`_
 - [NIC.br Videos](https://www.youtube.com/channel/UCscVLgae-2f9baEXhVbM1ng) - Canal oficial do NIC.br - Núcleo de Informação e Coordenação do Ponto BR, organização responsável prinicpalmente pelo registro.br, pelo cgi.br (Comitê Gestor da Internet no Brasil) e pelo IX.br - Pontos de troca de trafego brasileiros. O canal concentra as apresentações dos eventos do NIC onde divulgam-se tutoriais, discussões técnicas e políticas envolvendo a infraestrutura de internet Brasileira. _Tags: `internet`, `nic.br`, `dominios`, `redes`, `regulamentação`_
 
 
@@ -225,7 +224,10 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 
 ### Linux & Open-source :penguin:
 - [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA) - O canal Diolinux tem como objetivo apresentar o mundo Linux e open-source na forma que qualquer pessoa possa consumir. Você encontrará como principais conteúdos: Aprender o uso de ferramentas linux/open-source e review de Distros Linux. _Tags: `linux`, `open-source`, `reviews`_
+- [LinuxTips](https://www.youtube.com/linuxtips) - Dicas interessantes sobre Linux, Docker, Cloud e DevOps. _Tags: `linux`, `devops`, `docker`, `kubernetes`_
 - [Mateus Muller](https://www.youtube.com/channel/UCeLm2Lzs0-CBsgiEyGXXI8g) - Canal que incentiva a cultura open-source por meios de vídeos didáticos sobre diversos assuntos, sendo eles Linux, programação, redes, carreira, segurança e muito mais. _Tags: `linux`, `open-source`, `infraestrutura`, `devops`_
+- [MicroHobby](https://www.youtube.com/channel/UC431MbbedNKuIuDBPeSCdyg) - Canal de um cientista da computação que atua na area de sistemas embarcados e colaborador do kernel Linux, no canal você encontrará videos sobre linux da perspectiva do mundo de embarcados. _Tags: `linux`, `sistemas embarcados`, `hardware`_
+- [Slackjeff](https://www.youtube.com/channel/UClz3DneoYlccluy4hBlx86Q) - Slackjeff é um canal para amantes de tecnologias como Software Livre, Open-source, GNU/Linux e programação. _Tags: `linux`, `open-source`_
 
 ### Lógica de Programacao
 - [All Electronics](https://www.youtube.com/user/AllEletronicsGR/playlists) - Vai encontrar playlists de lógica booleana, portas lógicas, circuitos lógicos e também tem um curso básico de arduino. E muitos outros vídeos voltados para lógica e eletrônica. _Tags: `arduino`, `portas lógicas`, `hardware`, `FPGA`, `VHDL`, `eletrônica`_
