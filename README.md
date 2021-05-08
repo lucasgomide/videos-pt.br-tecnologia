@@ -31,7 +31,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 	- [Infraestrutura 🖧 ](#infraestrutura-)
 	- [Inteligência Artificial 🤖](#intelig%C3%AAncia-artificial-)
 	- [Games :video_game:](#games-video_game)
-	- [Linux & Open-source :penguin:](#linux--open-source-penguin)
+	- [Linux :penguin:](#linux-penguin)
 	- [Lógica de Programacao](#l%C3%B3gica-de-programacao)
 	- [Segurança 🔐](#seguran%C3%A7a-)
 
@@ -223,7 +223,7 @@ Procuramos ordenar os conteúdos e criar uma navegação amigável, visando faci
 - [PRX 3D - Praxinoscopio](https://www.youtube.com/user/praxinoscopio3d) - Canal com foco em marketing digital, modelagem 3d e tutoriais de desenvolvimento de jogos com unity. _Tags: `c#`, `unity 3D`, `desenvolvimento de jogos`_
 - [Uniday Studio](https://www.youtube.com/c/UnidayStudio) - Canal com foco em desenvolvimento de jogos digitais, ensinando todo o passo a passo de como criar um jogo completo. _Tags: `upbge`, `python`, `desenvolvimento de jogos`, `blender`_
 
-### Linux & Open-source :penguin:
+### Linux :penguin:
 
 - [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA) - O canal Diolinux tem como objetivo apresentar o mundo Linux e open-source na forma que qualquer pessoa possa consumir. Você encontrará como principais conteúdos: Aprender o uso de ferramentas linux/open-source e review de Distros Linux. _Tags: `linux`, `open-source`, `reviews`_
 - [LinuxTips](https://www.youtube.com/linuxtips) - Dicas interessantes sobre Linux, Docker, Cloud e DevOps. _Tags: `linux`, `devops`, `docker`, `kubernetes`_
