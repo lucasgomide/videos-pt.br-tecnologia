@@ -1,4 +1,7 @@
 GEM
+  specs:
+
+GEM
   remote: https://rubygems.org/
   specs:
     coderay (1.1.2)
@@ -8,9 +11,9 @@ GEM
     kramdown (2.3.1)
       rexml
     method_source (0.9.2)
-    mini_portile2 (2.5.0)
-    nokogiri (1.11.0)
-      mini_portile2 (~> 2.5.0)
+    mini_portile2 (2.6.1)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
     power_assert (1.1.5)
     pry (0.12.2)
